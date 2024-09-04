@@ -134,3 +134,7 @@ Qingyang He, Weicheng Zheng, Hanxi Bao, **Ruiqi Chen**, Xin Tong
   * Undergraduate Research Assistant to [Prof. Jung Choi](https://jungchoi.org/) and [Prof. Xin Tong](https://scholar.google.com/citations?user=XIM08ZwAAAAJ&hl=zh-CN&oi=sra)   
   * Date: May 2022 – May 2024
   * Contribute to two research projects, focusing on HCI, AR and MR. 
+
+  # 💻 Internships
+- *2023.07 - 2023.08*, Artificial Intelligence Engineer Intern, Nanjing Institute of Mathware Technology, China.
+- *2021.06 - 2021.08*, Software Engineering Process Group Intern, China Unicom Smart Connection Technology, China.
