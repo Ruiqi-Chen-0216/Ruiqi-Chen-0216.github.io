@@ -1,9 +1,9 @@
 ---
-permalink: /invited-talks
-title: "invited-talks"
+permalink: /experiences
+title: "experiences"
 excerpt: ""
 author_profile: true
 layout: default
 ---
 
-- this is invited-talks page
+- this is experiences page
