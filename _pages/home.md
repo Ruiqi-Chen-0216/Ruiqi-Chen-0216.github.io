@@ -138,3 +138,6 @@ Qingyang He, Weicheng Zheng, Hanxi Bao, **Ruiqi Chen**, Xin Tong
   # 💻 Internships
 - *2023.07 - 2023.08*, Artificial Intelligence Engineer Intern, Nanjing Institute of Mathware Technology, China.
 - *2021.06 - 2021.08*, Software Engineering Process Group Intern, China Unicom Smart Connection Technology, China.
+
+# 📧 Contact Me
+- If you have a research project related to Human-AI, especially on accessibility, and are looking for a collaborator proficient in AI algorithms, please feel free to contact me!

@@ -6,4 +6,5 @@ author_profile: true
 layout: default
 ---
 
-- this is concat page
+# 📧 Contact Me
+- If you have a research project related to Human-AI, especially on accessibility, and are looking for a collaborator proficient in AI algorithms, please feel free to contact me!
