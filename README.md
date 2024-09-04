@@ -1,9 +1,7 @@
 
 <h1 align="center">
-AcadHomepage
+Personal Website
 </h1>
-
-<div align="center">
 
 # Personal Website
 
