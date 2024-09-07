@@ -23,7 +23,7 @@ My research interests lie primarily at the intersection of Human-Computer Intera
 # 🔥 News
 <!---- *2024.09*: &nbsp;🎉🎉 I joined the ACE Lab directed by Prof. Jacob O. Wobbrock at University of Washington, focusing on AI for accessibility and creative task!
 - *2024.08*: &nbsp;🎉🎉 I joined the Sensors, Energy, and Automation Laboratory (SEAL) directed by Prof. Sep Makhsous at University of Washington, focusing on a project about Al education and DEl (Diversity, Equity, and Inclusion)!-->
-- *2024.05*: &nbsp;🎉🎉 I joined the Makeability Lab directed by Prof. Prof. Jon E. Froehlich at University of Washington, and began my research journey at University of Washington! 
+- *2024.05*: &nbsp;🎉🎉 I joined the Makeability Lab directed by Prof. Jon E. Froehlich at University of Washington, and began my research journey at University of Washington! 
 
 # 📝 Publications 
 
@@ -34,8 +34,8 @@ My research interests lie primarily at the intersection of Human-Computer Intera
 
 Xia Su, **Ruiqi Chen**, Weiye Zhang, Jingwei Ma, Jon E. Froehlich
 
-[**Project**](https://makeabilitylab.cs.washington.edu/media/publications/Su_DiamDrone-BasedIndoorAccessibilityMapping_UIST20242024.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- This paper introduce Drone-based Indoor Accessibility Mapping (DIAM), a drone-based indoor scanning system that efficiently produces 3D reconstructions of indoor spaces with key accessibility facilities recognized and located in the model. With DIAM, users can scan indoor spaces quickly and generate a precise, detailed, and visual 3D indoor accessibility map.
+[**Project**](https://makeabilitylab.cs.washington.edu/media/publications/Su_ADemoOfDiamDrone-BasedIndoorAccessibilityMapping_UIST20242024.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- This paper introduces Drone-based Indoor Accessibility Mapping (DIAM), a drone-based indoor scanning system that efficiently produces 3D reconstructions of indoor spaces with key accessibility facilities recognized and located in the model. With DIAM, users can scan indoor spaces quickly and generate a precise, detailed, and visual 3D indoor accessibility map.
 </div>
 </div>
 
