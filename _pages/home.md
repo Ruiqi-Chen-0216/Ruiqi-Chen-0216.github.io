@@ -21,8 +21,8 @@ My research interests lie primarily at the intersection of Human-Computer Intera
 
 
 # 🔥 News
-<!---- *2024.09*: &nbsp;🎉🎉 I joined the ACE Lab directed by Prof. Jacob O. Wobbrock at University of Washington, focusing on AI for accessibility and creative task!
-- *2024.08*: &nbsp;🎉🎉 I joined the Sensors, Energy, and Automation Laboratory (SEAL) directed by Prof. Sep Makhsous at University of Washington, focusing on a project about Al education and DEl (Diversity, Equity, and Inclusion)!-->
+- *2024.09*: &nbsp;🎉🎉 I joined the ACE Lab directed by Prof. Jacob O. Wobbrock at University of Washington, focusing on AI for accessibility and creative task!
+<!---- - *2024.08*: &nbsp;🎉🎉 I joined the Sensors, Energy, and Automation Laboratory (SEAL) directed by Prof. Sep Makhsous at University of Washington, focusing on a project about Al education and DEl (Diversity, Equity, and Inclusion)!-->
 - *2024.05*: &nbsp;🎉🎉 I joined the Makeability Lab directed by Prof. Jon E. Froehlich at University of Washington, and began my research journey at University of Washington! 
 
 # 📝 Publications 
@@ -92,12 +92,12 @@ Qingyang He, Weicheng Zheng, Hanxi Bao, **Ruiqi Chen**, Xin Tong
 * B.S. in Data Science, Duke Kunshan University, 2020 - 2024
 
 # 📚 Experiences
-<!---
+
 * [ACE Lab](https://depts.washington.edu/acelab/index.html), University of Washington
   * Graduate Research Assistant to [Prof. Jacob O. Wobbrock](https://faculty.washington.edu/wobbrock/) 
   * Date: Sep 2024 – Present
   * Contribute to one research project, focusing on HCI, AI and accessibility.
-
+<!---
 * [Sensors, Energy, and Automation Laboratory (SEAL)](https://www.uwseal.org/), University of Washington
   * Graduate Research Assistant to [Prof. Sep Makhsous](https://people.ece.uw.edu/makhsous/) 
   * Date: Aug 2024 – Present
