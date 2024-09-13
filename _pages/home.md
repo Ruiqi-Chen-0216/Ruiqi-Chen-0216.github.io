@@ -97,6 +97,7 @@ Qingyang He, Weicheng Zheng, Hanxi Bao, **Ruiqi Chen**, Xin Tong
   * Graduate Research Assistant to [Prof. Jacob O. Wobbrock](https://faculty.washington.edu/wobbrock/) 
   * Date: Sep 2024 – Present
   * Contribute to one research project, focusing on HCI, AI and accessibility.
+  
 <!--
 * [Sensors, Energy, and Automation Laboratory (SEAL)](https://www.uwseal.org/), University of Washington
   * Graduate Research Assistant to [Prof. Sep Makhsous](https://people.ece.uw.edu/makhsous/) 
