@@ -98,12 +98,12 @@ Qingyang He, Weicheng Zheng, Hanxi Bao, **Ruiqi Chen**, Xin Tong
   * Date: Sep 2024 – Present
   * Contribute to one research project, focusing on HCI, AI and accessibility.
   
-<!--
+
 * [Sensors, Energy, and Automation Laboratory (SEAL)](https://www.uwseal.org/), University of Washington
   * Graduate Research Assistant to [Prof. Sep Makhsous](https://people.ece.uw.edu/makhsous/) 
   * Date: Aug 2024 – Present
   * Contribute to one research project, focusing on Al education and DEl (Diversity, Equity, and Inclusion).
--->
+
 
 * [Makeability Lab](https://makeabilitylab.cs.washington.edu/), University of Washington
   * Graduate Research Assistant to [Prof. Jon E. Froehlich](https://jonfroehlich.github.io/) 
