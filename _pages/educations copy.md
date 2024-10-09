@@ -10,14 +10,14 @@ layout: default
 
 * [ACE Lab](https://depts.washington.edu/acelab/index.html), University of Washington
   * Graduate Research Assistant to [Prof. Jacob O. Wobbrock](https://faculty.washington.edu/wobbrock/) 
-  * Date: Sep 2024 – Present
+  * Date: September 2024 – Present
   * Contribute to one research project, focusing on HCI, AI and accessibility.
-<!--
+
 * [Sensors, Energy, and Automation Laboratory (SEAL)](https://www.uwseal.org/), University of Washington
   * Graduate Research Assistant to [Prof. Sep Makhsous](https://people.ece.uw.edu/makhsous/) 
-  * Date: Aug 2024 – Present
+  * Date: August 2024 – Present
   * Contribute to one research project, focusing on Al education and DEl (Diversity, Equity, and Inclusion).
--->
+
 
 * [Makeability Lab](https://makeabilitylab.cs.washington.edu/), University of Washington
   * Graduate Research Assistant to [Prof. Jon E. Froehlich](https://jonfroehlich.github.io/) 
@@ -26,7 +26,7 @@ layout: default
 
 * [Technology, Equity, and Accessibility (TEA) Lab](https://tealab.sites.northeastern.edu/), Northeastern University
   * Graduate Research Assistant to [Prof. Maitraye Das](https://maitraye.github.io/)
-  * Date: May 2024 – Present
+  * Date: May 2024 – September 2024
   * Contribute to two research projects, focusing on HCI and info tech.
 
 * [Behavioral Enhancement and Adaptive Reality (BEAR) Lab](https://rochester-bear-lab.github.io/), University of Rochester
