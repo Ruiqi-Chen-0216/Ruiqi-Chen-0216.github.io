@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <!-- Created By http://www.zhetao.com/sitemapcreator,  URLs: 8 Generated at: 2024-10-30 01:02:01 -->
+
+  <url>
+    <loc>https://ruiqichen338.github.io/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://ruiqichen338.github.io/about</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://ruiqichen338.github.io/news</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://ruiqichen338.github.io/publications</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://ruiqichen338.github.io/educations</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://ruiqichen338.github.io/experiences</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://ruiqichen338.github.io/internships</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://ruiqichen338.github.io/contact</loc>
+    <priority>1.00</priority>
+  </url>
+
+</urlset>
