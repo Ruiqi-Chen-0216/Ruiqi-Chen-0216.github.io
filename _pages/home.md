@@ -71,6 +71,7 @@ Qingyang He, Weicheng Zheng, Hanxi Bao, **Ruiqi Chen**, Xin Tong
 
 
 **About Manuscripts**: 
+
 There are 5 projects ongoing and plan to be submitted.
 
 There are also 4 CHI manuscripts under reviewing process. If you want to learn more about these research projects please contact me for further details!
