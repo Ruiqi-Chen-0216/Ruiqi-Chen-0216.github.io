@@ -76,7 +76,7 @@ There are 5 projects ongoing and plan to be submitted.
 
 There are also 4 CHI manuscripts under reviewing process. Due to the double-blind review process required for the second round of CHI review, the content of these CHI projects cannot be publicly disclosed currently.
 
-<!--- 
+<!--
 - Enhancing Rehabilitation of Oral and Spoken Abilities among Deaf and Hard of Hearing Children (plan to be submitted to CHI 25)
 - Practices and Challenges of the Travel Experiences and Communication of the Deaf and Hard of Hearing (plan to be submitted to CHI 25)
 - Enhancing Memory and Communication Abilities in Mild Dementia: A Personalized Memory Collage App with AIGC Technology (plan to be submitted to CHI 25)
