@@ -48,9 +48,12 @@ Qingyang He, Weicheng Zheng, Hanxi Bao, **Ruiqi Chen**, Xin Tong
 <!---**Recently accepted paper**-->
 
 
-**About Manuscripts**: There are also 5 CHI manuscripts in submitting or under reviewing process.  If you want to learn more about these research projects please contact me for further details!
-- [**AgentAvatar in Virtual Reality**](https://www.xiaowenyuan.design/agent), plan to submit to CHI 2025
-  - Xiaowen Yuan, **Ruiqi Chen**, Sunny Yu, Yukang Yan
+**About Manuscripts**: 
+
+There are 5 projects ongoing and plan to be submitted.
+
+There are also 4 CHI manuscripts under reviewing process. Due to the double-blind review process required for the second round of CHI review, the content of these CHI projects cannot be publicly disclosed currently.
+
 
 <!--- 
 - Enhancing Rehabilitation of Oral and Spoken Abilities among Deaf and Hard of Hearing Children (plan to be submitted to CHI 25)
