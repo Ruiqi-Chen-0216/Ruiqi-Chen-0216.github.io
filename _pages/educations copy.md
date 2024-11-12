@@ -36,7 +36,7 @@ layout: default
   * Accepted into the Access Computing Summer Program 2024 by TsinghuaHCIGroup at Tsinghua University.
   * Contribute to one research project, focusing on LLM, VR and cognitive science.
 
-* [AI & Art for Knowledge & Creativity(ARK) Lab](https://arkxlab.github.io/), Hong Kong University of Science and Technology (GZ)
+* [AI & Art for Knowledge & Creativity (ARK) Lab](https://arkxlab.github.io/), Hong Kong University of Science and Technology (GZ)
   * Graduate Research Assistant to [Prof. Xin Tong](https://cma.hkust-gz.edu.cn/people/tong-xin/)    
   * Date: June 2024 – September 2024
   * Contribute to one research project, focusing on HCI and accessibility.
