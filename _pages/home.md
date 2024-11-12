@@ -121,7 +121,7 @@ There are also 4 CHI manuscripts under reviewing process. Due to the double-blin
   * Contribute to one research project, focusing on LLM, VR and cognitive science.
 
 
-* [Computational Media and Arts (CMA)](https://cma.hkust-gz.edu.cn/), Hong Kong University of Science and Technology (GZ)
+* [AI & Art for Knowledge & Creativity(ARK) Lab](https://arkxlab.github.io/), Hong Kong University of Science and Technology (GZ)
   * Graduate Research Assistant to [Prof. Xin Tong](https://cma.hkust-gz.edu.cn/people/tong-xin/)    
   * Date: June 2024 – September 2024
   * Contribute to one research project, focusing on HCI and accessibility.
