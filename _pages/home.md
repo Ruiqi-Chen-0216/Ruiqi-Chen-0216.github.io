@@ -15,7 +15,7 @@ layout: default
 
 <span class='anchor' id='about-me'></span>
 
-I am Ruiqi Chen, I am currently pursuing a Master of Science in  [Human Centered Design & Engineering](https://www.hcde.washington.edu/) at the **University of Washington**, affiliated with [Makeability Lab](https://makeabilitylab.cs.washington.edu/) by [Prof. Jon E. Froehlich](https://jonfroehlich.github.io/) and [ACE Lab](https://depts.washington.edu/acelab/index.html) by [Prof. Jacob O. Wobbrock](https://faculty.washington.edu/wobbrock/). Previously, I received my [Dual Bachelor's degree in Data Science](https://undergraduate.bulletins.duke.edu/allprograms/dukekunshanprogram) from **Duke University** and **Duke Kunshan University** in May 2024, and was an undergraduate researcher scientist in [DKU HCI Lab](https://dkuhcigroup.github.io/) advised by [Prof. Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en).
+I am Ruiqi Chen, I am currently pursuing a Master of Science in  [Human Centered Design & Engineering](https://www.hcde.washington.edu/) at the **University of Washington**, affiliated with [Makeability Lab](https://makeabilitylab.cs.washington.edu/) by [Prof. Jon E. Froehlich](https://jonfroehlich.github.io/) and [ACE Lab](https://depts.washington.edu/acelab/index.html) by [Prof. Jacob O. Wobbrock](https://faculty.washington.edu/wobbrock/). Previously, I received my Dual Bachelor's degree in Data Science from **Duke University** and **Duke Kunshan University** in May 2024, and was an undergraduate researcher scientist in [DKU HCI Lab](https://dkuhcigroup.github.io/) advised by [Prof. Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en).
 
 My research interests lie primarily at the intersection of Human-Computer Interaction(HCI) and Artificial Intelligence(AI), combining human and machine intelligence to create interactive systems for accessibility, collaboration, and beyond. In my past three years of research experience, my research scope has included Human-Centered AI, Human-AI Collaboration, Computer Vision, Machine Learning, Extended Reality (XR), and Virtual Reality (VR).
 
@@ -72,9 +72,9 @@ Qingyang He, Weicheng Zheng, Hanxi Bao, **Ruiqi Chen**, Xin Tong
 
 **About Manuscripts**: 
 
-There are 5 projects ongoing and plan to be submitted.
+There are 5 projects currently ongoing, and 2 projects are under submission.
 
-There are also 4 CHI manuscripts under reviewing process. Due to the double-blind review process required for the second round of CHI review, the content of these CHI projects cannot be publicly disclosed currently.
+There are also 3 CHI manuscripts under reviewing process. Due to the double-blind review process required for the second round of CHI review, the content of these CHI projects cannot be publicly disclosed currently.
 
 
 <!--- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**-->
@@ -93,7 +93,7 @@ There are also 4 CHI manuscripts under reviewing process. Due to the double-blin
 * [ACE Lab](https://depts.washington.edu/acelab/index.html), University of Washington
   * Graduate Research Assistant to [Prof. Jacob O. Wobbrock](https://faculty.washington.edu/wobbrock/) 
   * Date: September 2024 – Present
-  * Contribute to one research project, focusing on HCI, AI accessibility and interaction.
+  * Contribute to two research project, focusing on HCI, AI accessibility and interaction.
   
 
 * [Sensors, Energy, and Automation Laboratory (SEAL)](https://www.uwseal.org/), University of Washington
@@ -105,7 +105,7 @@ There are also 4 CHI manuscripts under reviewing process. Due to the double-blin
 * [Makeability Lab](https://makeabilitylab.cs.washington.edu/), University of Washington
   * Graduate Research Assistant to [Prof. Jon E. Froehlich](https://jonfroehlich.github.io/) 
   * Date: May 2024 – Present
-  * Contribute to one research project, focusing on HCI, AI, CV and 3DV.
+  * Contribute to two research project, focusing on HCI, AI, CV and 3DV.
 
 
 * [Technology, Equity, and Accessibility (TEA) Lab](https://tealab.sites.northeastern.edu/), Northeastern University

@@ -50,9 +50,9 @@ Qingyang He, Weicheng Zheng, Hanxi Bao, **Ruiqi Chen**, Xin Tong
 
 **About Manuscripts**: 
 
-There are 5 projects ongoing and plan to be submitted.
+There are 5 projects currently ongoing, and 2 projects are under submission.
 
-There are also 4 CHI manuscripts under reviewing process. Due to the double-blind review process required for the second round of CHI review, the content of these CHI projects cannot be publicly disclosed currently.
+There are also 3 CHI manuscripts under reviewing process. Due to the double-blind review process required for the second round of CHI review, the content of these CHI projects cannot be publicly disclosed currently.
 
 
 <!--- 
