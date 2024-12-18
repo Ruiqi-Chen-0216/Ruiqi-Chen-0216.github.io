@@ -50,20 +50,19 @@ Qingyang He, Weicheng Zheng, Hanxi Bao, **Ruiqi Chen**, Xin Tong
 
 **About Manuscripts**: 
 
-There are 5 projects currently ongoing, and 2 projects are under submission.
+There are 2 projects currently ongoing, and 6 projects are under submission & review.
 
-There are also 3 CHI manuscripts under reviewing process. Due to the double-blind review process required for the second round of CHI review, the content of these CHI projects cannot be publicly disclosed currently.
+1. Digital Biography of NSZTVR: Enhancing Intercultural Empathy (In Submission) 
+2. Enhancing Memory and Communication Abilities in Mild Dementia: A Personalized Memory Collage App with AIGC Technology (In Submission)
+3. CreationBlends Reality: Enhancing Users’ Socio-spatial Perceptions through Embodied Gestural Interactions in a Co-creative AR Environment (In Submission)
+4. “What Happen”- Explaining the Actions of Autonomous Vehicles (In Submission)
+5. Enhancing Rehabilitation of Child Education Among DHH-Mixed Family through ICT (In Submission)
+6. Revitalizing Public Spaces with Augmented Reality Art at Common Space (In Submission)
 
+On going projects:
+1. DIAM: Drone-based Indoor Accessibility Mapping 
+2. A11yBLV: Making GAI Accessible to Blind and Low-Vision Users
 
-<!--- 
-- Enhancing Rehabilitation of Oral and Spoken Abilities among Deaf and Hard of Hearing Children (plan to be submitted to CHI 25)
-- Practices and Challenges of the Travel Experiences and Communication of the Deaf and Hard of Hearing (plan to be submitted to CHI 25)
-- Enhancing Memory and Communication Abilities in Mild Dementia: A Personalized Memory Collage App with AIGC Technology (plan to be submitted to CHI 25)
-- Enhancing Users’ Socio-spatial Perceptions through Embodied Gestural Interactions in a Co-creative AR Environment (plan to be submitted to CHI 25)
-- NSZT: Enhancing Intercultural Empathy through Virtual Reality (To be submitted to International Journal of Human-Computer Interaction)
-- Revitalizing Public Spaces with Augmented Reality Art on Campus (in submitting process)
-- A Human-centered Multimodal Interpreter Explaining the Actions of Autonomous Vehicles (submitted to ICONIP 2024)
--->
 <!--- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**-->
 
 <!--# 🎖 Honors and Awards-->
