@@ -76,7 +76,9 @@ Qingyang He, Weicheng Zheng, Hanxi Bao, **Ruiqi Chen**, Xin Tong
 
 There are 5 projects currently ongoing, and 2 projects are under submission.
 
-There are also 3 CHI manuscripts under reviewing process. Due to the double-blind review process required for the second round of CHI review, the content of these CHI projects cannot be publicly disclosed currently.
+There are also 3 CHI manuscripts under reviewing process. Due to the double-blind review process required for the second round of CHI review, the content of these CHI projects cannot be publicly disclosed currently. 
+
+1. CreationBlends Reality: Enhancing Users’ Socio-spatial Perceptions through Embodied Gestural Interactions in a Co-creative AR Environment (In Submission) 
 
 
 <!--- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**-->
