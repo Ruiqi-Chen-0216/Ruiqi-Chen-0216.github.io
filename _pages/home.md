@@ -78,7 +78,11 @@ There are 5 projects currently ongoing, and 2 projects are under submission.
 
 There are also 3 CHI manuscripts under reviewing process. Due to the double-blind review process required for the second round of CHI review, the content of these CHI projects cannot be publicly disclosed currently. 
 
-1. CreationBlends Reality: Enhancing Users’ Socio-spatial Perceptions through Embodied Gestural Interactions in a Co-creative AR Environment (In Submission) 
+1. Digital Biography of NSZTVR: Enhancing Intercultural Empathy (In Submission) 
+2. Enhancing Memory and Communication Abilities in Mild Dementia: A Personalized Memory Collage App with AIGC Technology (In Submission)
+3. CreationBlends Reality: Enhancing Users’ Socio-spatial Perceptions through Embodied Gestural Interactions in a Co-creative AR Environment (In Submission)
+4. Enhancing Rehabilitation of Child Education Among DHH-Mixed Family through ICT (In Submission)
+5. 
 
 
 <!--- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**-->
