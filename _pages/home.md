@@ -76,13 +76,16 @@ Qingyang He, Weicheng Zheng, Hanxi Bao, **Ruiqi Chen**, Xin Tong
 
 There are 2 projects currently ongoing, and 6 projects are under submission & review.
 
-
 1. Digital Biography of NSZTVR: Enhancing Intercultural Empathy (In Submission) 
 2. Enhancing Memory and Communication Abilities in Mild Dementia: A Personalized Memory Collage App with AIGC Technology (In Submission)
 3. CreationBlends Reality: Enhancing Users’ Socio-spatial Perceptions through Embodied Gestural Interactions in a Co-creative AR Environment (In Submission)
 4. “What Happen”- Explaining the Actions of Autonomous Vehicles (In Submission)
 5. Enhancing Rehabilitation of Child Education Among DHH-Mixed Family through ICT (In Submission)
 6. Revitalizing Public Spaces with Augmented Reality Art at Common Space (In Submission)
+
+On going projects:
+1. DIAM: Drone-based Indoor Accessibility Mapping 
+2. A11yBLV: Making GAI Accessible to Blind and Low-Vision Users
 
 
 <!--- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**-->
