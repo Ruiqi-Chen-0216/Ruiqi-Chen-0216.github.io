@@ -96,19 +96,16 @@ There are also 3 CHI manuscripts under reviewing process. Due to the double-blin
   * Graduate Research Assistant to [Prof. Jacob O. Wobbrock](https://faculty.washington.edu/wobbrock/) 
   * Date: September 2024 – Present
   * Contribute to two research project, focusing on HCI, AI accessibility and interaction.
-  
-
-* [Sensors, Energy, and Automation Laboratory (SEAL)](https://www.uwseal.org/), University of Washington
-  * Graduate Research Assistant to [Prof. Sep Makhsous](https://people.ece.uw.edu/makhsous/) 
-  * Date: August 2024 – Present
-  * Contribute to one research project, focusing on Al education and DEl (Diversity, Equity, and Inclusion).
-
 
 * [Makeability Lab](https://makeabilitylab.cs.washington.edu/), University of Washington
   * Graduate Research Assistant to [Prof. Jon E. Froehlich](https://jonfroehlich.github.io/) 
   * Date: May 2024 – Present
   * Contribute to two research project, focusing on HCI, AI, CV and 3DV.
 
+* [Sensors, Energy, and Automation Laboratory (SEAL)](https://www.uwseal.org/), University of Washington
+  * Graduate Research Assistant to [Prof. Sep Makhsous](https://people.ece.uw.edu/makhsous/) 
+  * Date: August 2024 – April 2025
+  * Contribute to one research project, focusing on Al education and DEl (Diversity, Equity, and Inclusion).
 
 * [Technology, Equity, and Accessibility (TEA) Lab](https://tealab.sites.northeastern.edu/), Northeastern University
   * Graduate Research Assistant to [Prof. Maitraye Das](https://maitraye.github.io/)
