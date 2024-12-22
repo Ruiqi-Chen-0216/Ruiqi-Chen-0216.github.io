@@ -81,7 +81,7 @@ There are 2 projects currently ongoing:
 1. DIAM: Drone-based Indoor Accessibility Mapping (advised by Prof. Jon E. Froehlich)
 2. A11yBLV: Making GAI Accessible to Blind and Low-Vision Users (advised by Prof. Jacob O. Wobbrock)
 
-and 6 projects are under submission & review:
+and 5 projects are under submission & review:
 1. Digital Biography of NSZTVR: Enhancing Intercultural Empathy (In Submission) 
 2. Enhancing Memory and Communication Abilities in Mild Dementia: A Personalized Memory Collage App with AIGC Technology (In Submission)
 3. CreationBlends Reality: Enhancing Users' Socio-spatial Perceptions through Embodied Gestural Interactions in a Co-creative AR Environment (In Submission)
