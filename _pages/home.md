@@ -69,7 +69,10 @@ Qingyang He, Weicheng Zheng, Hanxi Bao, **Ruiqi Chen**, Xin Tong
 </div>
 </div>
 
-<!---**Recently accepted paper**-->
+**Recently accepted paper**
+What's Happening"-AHuman-centeredMultimodal Interpreter Explainingthe Actions of Autonomous Vehicles (camera-ready version will coming soon)
+
+
 
 
 **About Manuscripts**: 
@@ -81,10 +84,9 @@ There are 2 projects currently ongoing:
 and 6 projects are under submission & review:
 1. Digital Biography of NSZTVR: Enhancing Intercultural Empathy (In Submission) 
 2. Enhancing Memory and Communication Abilities in Mild Dementia: A Personalized Memory Collage App with AIGC Technology (In Submission)
-3. CreationBlends Reality: Enhancing Users’ Socio-spatial Perceptions through Embodied Gestural Interactions in a Co-creative AR Environment (In Submission)
-4. “What Happen”- Explaining the Actions of Autonomous Vehicles (In Submission)
-5. Enhancing Rehabilitation of Child Education Among DHH-Mixed Family through ICT (In Submission)
-6. Revitalizing Public Spaces with Augmented Reality Art at Common Space (In Submission)
+3. CreationBlends Reality: Enhancing Users' Socio-spatial Perceptions through Embodied Gestural Interactions in a Co-creative AR Environment (In Submission)
+4. Enhancing Rehabilitation of Child Education Among DHH-Mixed Family through ICT (In Submission)
+5. Revitalizing Public Spaces with Augmented Reality Art at Common Space (In Submission)
 
 
 
