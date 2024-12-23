@@ -70,7 +70,7 @@ Qingyang He, Weicheng Zheng, Hanxi Bao, **Ruiqi Chen**, Xin Tong
 </div>
 
 **Recently accepted paper**
-1. What's Happening" - A Human-centered Multimodal Interpreter Explaining the Actions of Autonomous Vehicles, **WACV 2025** (camera-ready version will coming soon)
+1. What's Happening" - A Human-centered Multimodal Interpreter Explaining the Actions of Autonomous Vehicles, **WACV 2025** (camera-ready version coming soon)
 
 
 
