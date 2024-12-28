@@ -29,11 +29,11 @@ layout: default
   * Date: May 2024 – September 2024
   * Contribute to two research projects, focusing on HCI, accessibility and info tech.
 
-* [Behavioral Enhancement and Adaptive Reality (BEAR) Lab](https://rochester-bear-lab.github.io/), University of Rochester
+<!--* [Behavioral Enhancement and Adaptive Reality (BEAR) Lab](https://rochester-bear-lab.github.io/), University of Rochester
   * Graduate Research Assistant to [Prof. Yukang Yan](https://rochester-bear-lab.github.io/yukang)    
   * Date: June 2024 – September 2024
   * Accepted into the Access Computing Summer Program 2024 by TsinghuaHCIGroup at Tsinghua University.
-  * Contribute to one research project, focusing on LLM, VR and cognitive science.
+  * Contribute to one research project, focusing on LLM, VR and cognitive science. -->
 
 * [AI & Art for Knowledge & Creativity (ARK) Lab](https://arkxlab.github.io/), Hong Kong University of Science and Technology (GZ)
   * Graduate Research Assistant to [Prof. Xin Tong](https://cma.hkust-gz.edu.cn/people/tong-xin/)    
