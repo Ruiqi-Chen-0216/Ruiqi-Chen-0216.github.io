@@ -20,7 +20,7 @@ layout: default
   * Contribute to two research project, focusing on HCI, AI, CV and 3DV.
 
 * [Sensors, Energy, and Automation Laboratory (SEAL)](https://www.uwseal.org/), University of Washington
-  * Graduate Research Assistant to [Prof. Sep Makhsous](https://people.ece.uw.edu/makhsous/) 
+  * Graduate Research Assistant to [Prof. Denise Wilson](https://scholar.google.com/citations?user=X_Usi6kAAAAJ&hl=zh-CN&oi=ao) and [Prof. Sep Makhsous](https://people.ece.uw.edu/makhsous/)
   * Date: August 2024 – April 2025
   * Contribute to one research project, focusing on Al education and DEl (Diversity, Equity, and Inclusion).
 
