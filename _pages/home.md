@@ -80,6 +80,7 @@ Qingyang He, Weicheng Zheng, Hanxi Bao, **Ruiqi Chen**, Xin Tong
 There are 2 projects currently ongoing:
 1. DIAM: Drone-based Indoor Accessibility Mapping (advised by Prof. Jon E. Froehlich)
 2. A11yBLV: Making GAI Accessible to Blind and Low-Vision Users (advised by Prof. Jacob O. Wobbrock)
+3. AIEquityEngine: AI Pathway to Inclusive and Personalized Engineering Education (advised by Prof. Denise Wilson and Sep Makhsous)
 
 and 5 projects are under submission & review:
 1. Digital Biography of NSZTVR: Enhancing Intercultural Empathy (In Submission) 
@@ -115,7 +116,7 @@ and 5 projects are under submission & review:
   * Contribute to two research project, focusing on HCI, AI, CV and 3DV.
 
 * [Sensors, Energy, and Automation Laboratory (SEAL)](https://www.uwseal.org/), University of Washington
-  * Graduate Research Assistant to [Prof. Sep Makhsous](https://people.ece.uw.edu/makhsous/) 
+  * Graduate Research Assistant to [Prof. Denise Wilson](https://scholar.google.com/citations?user=X_Usi6kAAAAJ&hl=zh-CN&oi=ao) and [Prof. Sep Makhsous](https://people.ece.uw.edu/makhsous/) 
   * Date: August 2024 – April 2025
   * Contribute to one research project, focusing on Al education and DEl (Diversity, Equity, and Inclusion).
 
