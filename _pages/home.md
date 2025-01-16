@@ -42,6 +42,7 @@ Ke Zhao, **Ruiqi Chen**, Xiaziyu Zhang, Chenxi Wang, Siling Chen, Xiaoguang Wang
 [**Paper will come soon**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - This paper presents an immersive VR biography of the Admonitions Scroll to explore how embodied interactions with displaced cultural objects can promote intercultural empathy. Through a study with 24 participants, findings showed that such interactions enhance understanding and interest in cultural heritage, offering a novel approach to representing and interpreting historical artifacts.
 </div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2024</div><img src='images/DIAM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
