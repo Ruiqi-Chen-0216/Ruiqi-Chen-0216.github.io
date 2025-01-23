@@ -85,15 +85,6 @@ Qingyang He, Weicheng Zheng, Hanxi Bao, **Ruiqi Chen**, Xin Tong
 1. What's Happening" - A Human-centered Multimodal Interpreter Explaining the Actions of Autonomous Vehicles, **WACV 2025** (camera-ready version coming soon)
 
 
-
-
-**About Manuscripts**: 
-
-There are 3 projects currently ongoing:
-1. DIAM: Drone-based Indoor Accessibility Mapping (advised by Prof. Jon E. Froehlich)
-2. A11yBLV: Making GAI Accessible to Blind and Low-Vision Users (advised by Prof. Jacob O. Wobbrock)
-3. AIEquityEngine: AI Pathway to Inclusive and Personalized Engineering Education (advised by Prof. Denise Wilson and Sep Makhsous)
-
 **About Manuscripts**: 
 
 There are 3 projects currently ongoing:
