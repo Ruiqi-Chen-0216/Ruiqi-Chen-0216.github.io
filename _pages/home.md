@@ -105,8 +105,8 @@ and 4 projects are under submission & review:
 
 
 
-# 🎖 Peer Review
-* ACMConference on Human Factors in Computing Systems (CHI), 2025
+# 🎖 Teaching, Mentorship and Service
+* Paper reviewer for ACM Conference on Human Factors in Computing Systems (CHI), 2025
 <!--# 🎖 Honors and Awards-->
 <!--- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 <!--- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
