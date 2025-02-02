@@ -19,7 +19,7 @@ I am Ruiqi Chen, I am currently pursuing a Master of Science in  [Human Centered
 
 My research interests lie primarily at the intersection of Human-Computer Interaction(HCI) and Artificial Intelligence(AI), combining human and machine intelligence to create interactive systems for accessibility, collaboration, and beyond. In my past three years of research experience, my research scope has included Human-Centered AI, Human-AI Collaboration, Computer Vision, Machine Learning, Extended Reality (XR), and Virtual Reality (VR).
 
-**<span style="font-size: 24px;">I am enthusiastically pursuing a PhD position in CS&HCI starting from 2026 fall!</span>**
+**<span style="font-size: 24px;">I am enthusiastically pursuing a PhD position in CS starting from 2026 fall!</span>**
 
 
 
