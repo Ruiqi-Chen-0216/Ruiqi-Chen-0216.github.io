@@ -69,7 +69,7 @@ Qingyang He, Weicheng Zheng, Hanxi Bao, **Ruiqi Chen**, Xin Tong
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEEVR 2023</div><img src='images/DementiaVR_DKU.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEEVR 2023</div><img src='images/DementiaVR_DKU.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Design and Evaluation of a VR Therapy for Patients with Mild Cognitive Impairment and Dementia: Perspectives from Patients and Stakeholders](https://ieeexplore.ieee.org/document/10108617/)
@@ -79,12 +79,15 @@ Qingyang He, Weicheng Zheng, Hanxi Bao, **Ruiqi Chen**, Xin Tong
 [**Project**](https://ieeexplore.ieee.org/document/10108617/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - This paper explores the use of Virtual Reality technology to enhance cognitive therapies for patients with mild cognitive impairment and mild dementia, incorporating insights from both patients and key stakeholders like caregivers and therapists to improve therapy design and effectiveness. 
 </div>
-</div>
+</div> -->
+
+
+- What's Happening" - A Human-centered Multimodal Interpreter Explaining the Actions of Autonomous Vehicles, **WACV 2025** (camera-ready version coming soon)
 
 - [Design and Evaluation of a VR Therapy for Patients with Mild Cognitive Impairment and Dementia: Perspectives from Patients and Stakeholders](https://ieeexplore.ieee.org/document/10108617/), **Ruiqi Chen**, Shuhe Wang, Xuhai Xu, Lan Wei, Yuling Sun, Xin Tong, **IEEE VR 2023**
 
 
-- What's Happening" - A Human-centered Multimodal Interpreter Explaining the Actions of Autonomous Vehicles, **WACV 2025** (camera-ready version coming soon)
+
 
 
 **About Manuscripts**: 
