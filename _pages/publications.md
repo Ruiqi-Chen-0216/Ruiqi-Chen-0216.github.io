@@ -32,20 +32,9 @@ Xia Su, **Ruiqi Chen**, Weiye Zhang, Jingwei Ma, Jon E. Froehlich
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Chinese CHI 2023</div><img src='images/AIGC_DKU.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Exploring Designers’ Perceptions and Practices of Collaborating with Generative AI as a Co-creative Agent in a Multi-stakeholder Design Process: Take the Domain of Avatar Design as an Example](https://dl.acm.org/doi/fullHtml/10.1145/3629606.3629675)
-
-Qingyang He, Weicheng Zheng, Hanxi Bao, **Ruiqi Chen**, Xin Tong
-
-[**Project**](https://dl.acm.org/doi/fullHtml/10.1145/3629606.3629675) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- This paper investigates designers' experiences and challenges when collaborating with generative AI tools as co-creative agents in multi-stakeholder design processes, using avatar design as a case study to uncover insights and opportunities for improving human-AI co-creation.
-</div>
-</div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEEVR 2023</div><img src='images/DementiaVR_DKU.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEEVR 2023</div><img src='images/DementiaVR_DKU.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Design and Evaluation of a VR Therapy for Patients with Mild Cognitive Impairment and Dementia: Perspectives from Patients and Stakeholders](https://ieeexplore.ieee.org/document/10108617/)
@@ -55,13 +44,15 @@ Qingyang He, Weicheng Zheng, Hanxi Bao, **Ruiqi Chen**, Xin Tong
 [**Project**](https://ieeexplore.ieee.org/document/10108617/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - This paper explores the use of Virtual Reality technology to enhance cognitive therapies for patients with mild cognitive impairment and mild dementia, incorporating insights from both patients and key stakeholders like caregivers and therapists to improve therapy design and effectiveness. 
 </div>
-</div>
-
-<!---**Recently accepted paper**-->
+</div> -->
 
 
-**Recently accepted paper**
-1. What's Happening" - A Human-centered Multimodal Interpreter Explaining the Actions of Autonomous Vehicles, **WACV 2025** (camera-ready version coming soon)
+- What's Happening" - A Human-centered Multimodal Interpreter Explaining the Actions of Autonomous Vehicles, **WACV 2025** (camera-ready version coming soon)
+
+- [Exploring Designers’ Perceptions and Practices of Collaborating with Generative AI as a Co-creative Agent in a Multi-stakeholder Design Process: Take the Domain of Avatar Design as an Example](https://dl.acm.org/doi/fullHtml/10.1145/3629606.3629675), Qingyang He, Weicheng Zheng, Hanxi Bao, **Ruiqi Chen**, Xin Tong, **ChineseCHI 2023**
+
+- [Design and Evaluation of a VR Therapy for Patients with Mild Cognitive Impairment and Dementia: Perspectives from Patients and Stakeholders](https://ieeexplore.ieee.org/document/10108617/), **Ruiqi Chen**, Shuhe Wang, Xuhai Xu, Lan Wei, Yuling Sun, Xin Tong, **IEEE VR 2023**
+
 
 
 
@@ -69,8 +60,8 @@ Qingyang He, Weicheng Zheng, Hanxi Bao, **Ruiqi Chen**, Xin Tong
 **About Manuscripts**: 
 
 There are 3 projects currently ongoing:
-1. DIAM: Drone-based Indoor Accessibility Mapping (advised by Prof. Jon E. Froehlich)
-2. A11yBLV: Making GAI Accessible to Blind and Low-Vision Users (advised by Prof. Jacob O. Wobbrock)
+1. 3DIAMS: 3D Drone-based Indoor Artificial Intelligence Mapping System (advised by Prof. Jon E. Froehlich)
+2. A11yBLV: Making GAI Creativity Accessible to Blind and Low-Vision Users (advised by Prof. Jacob O. Wobbrock)
 3. AIEquityEngine: AI Pathway to Inclusive and Personalized Engineering Education (advised by Prof. Denise Wilson and Sep Makhsous)
 
 and 4 projects are under submission & review: 
