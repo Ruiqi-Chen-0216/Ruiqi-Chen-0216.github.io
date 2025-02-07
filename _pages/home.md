@@ -17,7 +17,7 @@ layout: default
 
 I am Ruiqi Chen, I am currently pursuing a Master of Science in  [Human Centered Design & Engineering](https://www.hcde.washington.edu/) at the **University of Washington**, affiliated with [Makeability Lab](https://makeabilitylab.cs.washington.edu/) by [Prof. Jon E. Froehlich](https://jonfroehlich.github.io/) and [ACE Lab](https://depts.washington.edu/acelab/index.html) by [Prof. Jacob O. Wobbrock](https://faculty.washington.edu/wobbrock/). Previously, I received my Dual Bachelor's degree in Data Science from **Duke University** and **Duke Kunshan University** in May 2024, and was an undergraduate researcher scientist in [DKU HCI Lab](https://arkxlab.github.io/) advised by [Prof. Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en).
 
-My research interests lie primarily at the intersection of Human-Computer Interaction(HCI) and Artificial Intelligence(AI), combining human and machine intelligence to create interactive systems for accessibility, collaboration, and beyond. In my past three years of research experience, my research scope has included Human-Centered AI, Human-AI Collaboration, Computer Vision, Machine Learning, Extended Reality (XR), and Virtual Reality (VR).
+My research interests lie primarily at the intersection of Human-Computer Interaction(HCI) and Artificial Intelligence(AI), combining human and machine intelligence to create interactive systems for creativity, collaboration, and beyond. In my past three years of research experience, my research scope has included Human-Centered AI, Human-AI Collaboration, Computer Vision, Machine Learning, Extended Reality (XR), and Virtual Reality (VR).
 
 **<span style="font-size: 24px;">I am enthusiastically pursuing a PhD position in CS starting from 2026 fall!</span>**
 
@@ -164,9 +164,9 @@ and 4 projects are under submission & review:
   * Contribute to two research projects, focusing on HCI, AR and MR. 
   
 
-# 💻 Internships
+<!-- # 💻 Internships
 - *2023.07 - 2023.08*, Artificial Intelligence Engineer Intern, Nanjing Institute of Mathware Technology, China.
-- *2021.06 - 2021.08*, Software Engineering Process Group Intern, China Unicom Smart Connection Technology, China.
+- *2021.06 - 2021.08*, Software Engineering Process Group Intern, China Unicom Smart Connection Technology, China. -->
 
 # 📧 Contact Me
 - If you have a research project related to Human-AI, especially on GAI & HAI creativity, and are looking for a collaborator proficient in AI algorithms, please feel free to contact me!
