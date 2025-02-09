@@ -11,23 +11,17 @@ layout: default
 * [ACE Lab](https://depts.washington.edu/acelab/index.html), University of Washington
   * Graduate Research Assistant to [Prof. Jacob O. Wobbrock](https://faculty.washington.edu/wobbrock/) 
   * Date: September 2024 – Present
-  * Contribute to two research project, focusing on HCI, AI accessibility and interaction.
-  
+  * Contribute to two research project, focusing on HAI creativity and interaction.
 
 * [Makeability Lab](https://makeabilitylab.cs.washington.edu/), University of Washington
   * Graduate Research Assistant to [Prof. Jon E. Froehlich](https://jonfroehlich.github.io/) 
   * Date: May 2024 – Present
-  * Contribute to two research project, focusing on HCI, AI, CV and 3DV.
+  * Contribute to two research project, focusing on HAI system, CV and 3DV.
 
 * [Autonomy & Robotics & Connectivity (ARC) Lab](https://www.arcuw.org/), University of Washington
-  * Graduate Research Assistant to [Prof. Denise Wilson](https://scholar.google.com/citations?user=X_Usi6kAAAAJ&hl=zh-CN&oi=ao) and [Prof. Sep Makhsous](https://people.ece.uw.edu/makhsous/)
+  * Graduate Research Assistant to [Prof. Denise Wilson](https://scholar.google.com/citations?user=X_Usi6kAAAAJ&hl=zh-CN&oi=ao) and [Prof. Sep Makhsous](https://people.ece.uw.edu/makhsous/) 
   * Date: August 2024 – April 2025
-  * Contribute to one research project, focusing on Al education and DEl (Diversity, Equity, and Inclusion).
-
-* [Technology, Equity, and Accessibility (TEA) Lab](https://tealab.sites.northeastern.edu/), Northeastern University
-  * Graduate Research Assistant to [Prof. Maitraye Das](https://maitraye.github.io/)
-  * Date: May 2024 – September 2024
-  * Contribute to two research projects, focusing on HCI, accessibility and info tech.
+  * Contribute to one research project, focusing on HAI system and Al education.
 
 <!--* [Behavioral Enhancement and Adaptive Reality (BEAR) Lab](https://rochester-bear-lab.github.io/), University of Rochester
   * Graduate Research Assistant to [Prof. Yukang Yan](https://rochester-bear-lab.github.io/yukang)    
@@ -40,10 +34,12 @@ layout: default
   * Date: June 2024 – September 2024
   * Contribute to one research project, focusing on HCI and accessibility.
 
-* [Human-Computer Interaction (HCI) Lab](https://dkuhcigroup.github.io/), Duke Kunshan University
+
+* [Human-Computer Interaction (HCI) Lab](https://arkxlab.github.io/), Duke Kunshan University
   * Undergraduate Research Assistant to [Prof. Xin Tong](https://scholar.google.com/citations?user=XIM08ZwAAAAJ&hl=zh-CN&oi=sra)    
   * Date: March 2022 – June 2024
   * Contribute to five research projects, focusing on HCI, AI, and VR.
+
 
 * Anthropocene Extended Reality (XR) Lab, Duke Kunshan University
   * Undergraduate Research Assistant to [Prof. Jung Choi](https://jungchoi.org/) and [Prof. Xin Tong](https://scholar.google.com/citations?user=XIM08ZwAAAAJ&hl=zh-CN&oi=sra)   
