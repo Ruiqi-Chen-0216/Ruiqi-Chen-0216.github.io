@@ -75,9 +75,9 @@ Xia Su, **Ruiqi Chen**, Weiye Zhang, Jingwei Ma, Jon E. Froehlich
 
 - [**WACV 2025**] What's Happening" - A Human-centered Multimodal Interpreter Explaining the Actions of Autonomous Vehicles, (camera-ready version coming soon)
 
-- [**ChineseCHI 2023**][Exploring Designers’ Perceptions and Practices of Collaborating with Generative AI as a Co-creative Agent in a Multi-stakeholder Design Process: Take the Domain of Avatar Design as an Example](https://dl.acm.org/doi/fullHtml/10.1145/3629606.3629675), Qingyang He, Weicheng Zheng, Hanxi Bao, **Ruiqi Chen**, Xin Tong,
+- [**ChineseCHI 2023**] [Exploring Designers’ Perceptions and Practices of Collaborating with Generative AI as a Co-creative Agent in a Multi-stakeholder Design Process: Take the Domain of Avatar Design as an Example](https://dl.acm.org/doi/fullHtml/10.1145/3629606.3629675), Qingyang He, Weicheng Zheng, Hanxi Bao, **Ruiqi Chen**, Xin Tong,
 
-- [**IEEE VR 2023**][Design and Evaluation of a VR Therapy for Patients with Mild Cognitive Impairment and Dementia: Perspectives from Patients and Stakeholders](https://ieeexplore.ieee.org/document/10108617/), **Ruiqi Chen**, Shuhe Wang, Xuhai Xu, Lan Wei, Yuling Sun, Xin Tong
+- [**IEEE VR 2023**] [Design and Evaluation of a VR Therapy for Patients with Mild Cognitive Impairment and Dementia: Perspectives from Patients and Stakeholders](https://ieeexplore.ieee.org/document/10108617/), **Ruiqi Chen**, Shuhe Wang, Xuhai Xu, Lan Wei, Yuling Sun, Xin Tong
 
 
 
