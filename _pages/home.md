@@ -75,9 +75,13 @@ Xia Su, **Ruiqi Chen**, Weiye Zhang, Jingwei Ma, Jon E. Froehlich
 
 <!-- - [**WACV 2025**] What's Happening" - A Human-centered Multimodal Interpreter Explaining the Actions of Autonomous Vehicles, (camera-ready version coming soon) -->
 
+<!-- - [**CHI 2025**] GestoBrush: Enhancing Graffiti Artists’ Digital Creation Experience with Embodied AR Interactions, **Ruiqi Chen**, Qingyang He, Hanxi Bao, Jung E. Choi, Xin Tong -->
+
+<!-- - [**CHI 2025**] Parental Perceptions of Children’s d/Deaf Identity Shaping Technology Use: A Qualitative Study on Communication Technologies in Mixed-hearing Families, Keyi Zeng, Jingyang Lin, **Ruiqi Chen**, RAY LC, Pan Hui, Xin Tong -->
+
 - [**IEEE VR 2023**] [Design and Evaluation of a VR Therapy for Patients with Mild Cognitive Impairment and Dementia: Perspectives from Patients and Stakeholders](https://ieeexplore.ieee.org/document/10108617/), **Ruiqi Chen**, Shuhe Wang, Xuhai Xu, Lan Wei, Yuling Sun, Xin Tong
 
-- [**ChineseCHI 2023**] [Exploring Designers’ Perceptions and Practices of Collaborating with Generative AI as a Co-creative Agent in a Multi-stakeholder Design Process: Take the Domain of Avatar Design as an Example](https://dl.acm.org/doi/fullHtml/10.1145/3629606.3629675), Qingyang He, Weicheng Zheng, Hanxi Bao, **Ruiqi Chen**, Xin Tong,
+- [**ChineseCHI 2023**] [Exploring Designers’ Perceptions and Practices of Collaborating with Generative AI as a Co-creative Agent in a Multi-stakeholder Design Process: Take the Domain of Avatar Design as an Example](https://dl.acm.org/doi/fullHtml/10.1145/3629606.3629675), Qingyang He, Weicheng Zheng, Hanxi Bao, **Ruiqi Chen**, Xin Tong
 
 
 
