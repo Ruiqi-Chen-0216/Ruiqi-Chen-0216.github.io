@@ -26,8 +26,6 @@ My research interests lie primarily at the intersection of Human-Computer Intera
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 I joined the ACE Lab directed by Prof. Jacob O. Wobbrock at University of Washington, focusing on AI for accessibility and creative task!
 
-<!--- *2024.08*: &nbsp;🎉🎉 I joined the Sensors, Energy, and Automation Laboratory (SEAL) directed by Prof. Sep Makhsous at University of Washington, focusing on a project about Al education and DEl (Diversity, Equity, and Inclusion)! -->
-
 - *2024.05*: &nbsp;🎉🎉 I joined the Makeability Lab directed by Prof. Jon E. Froehlich at University of Washington, and began my research journey at University of Washington! 
 
 # 📝 Publications 
@@ -59,20 +57,6 @@ Xia Su, **Ruiqi Chen**, Weiye Zhang, Jingwei Ma, Jon E. Froehlich
 </div>
 
 
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEEVR 2023</div><img src='images/DementiaVR_DKU.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Design and Evaluation of a VR Therapy for Patients with Mild Cognitive Impairment and Dementia: Perspectives from Patients and Stakeholders](https://ieeexplore.ieee.org/document/10108617/)
-
-**Ruiqi Chen**, Shuhe Wang, Xuhai Xu, Lan Wei, Yuling Sun, Xin Tong
-
-[**Project**](https://ieeexplore.ieee.org/document/10108617/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- This paper explores the use of Virtual Reality technology to enhance cognitive therapies for patients with mild cognitive impairment and mild dementia, incorporating insights from both patients and key stakeholders like caregivers and therapists to improve therapy design and effectiveness. 
-</div>
-</div> -->
-
-
 <!-- - [**WACV 2025**] What's Happening" - A Human-centered Multimodal Interpreter Explaining the Actions of Autonomous Vehicles, (camera-ready version coming soon) -->
 
 <!-- - [**CHI 2025**] GestoBrush: Enhancing Graffiti Artists’ Digital Creation Experience with Embodied AR Interactions, **Ruiqi Chen**, Qingyang He, Hanxi Bao, Jung E. Choi, Xin Tong -->
@@ -98,11 +82,6 @@ and 3 projects are under submission & review:
 1. Enhancing Memory and Communication Abilities in Mild Dementia: A Personalized Memory Collage App with AIGC Technology (In Submission)
 2. CreationBlends Reality: Enhancing Users' Socio-spatial Perceptions through Embodied Gestural Interactions in a Co-creative AR Environment (In Submission)
 3. Revitalizing Public Spaces with Augmented Reality Art at Common Space (In Submission)
-
-
-
-
-<!--- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**-->
 
 
 
