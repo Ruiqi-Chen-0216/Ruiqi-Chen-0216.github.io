@@ -24,7 +24,7 @@ My research interests lie primarily at the intersection of Human-Computer Intera
 
 
 # 🔥 News
-- *2024.09*: &nbsp;🎉🎉 Two of my undergraduate works are accepted by CHI 2025!
+- *2025.02*: &nbsp;🎉🎉 Two of my undergraduate works are accepted by CHI 2025!
 
 - *2024.09*: &nbsp;🎉🎉 I joined the ACE Lab directed by Prof. Jacob O. Wobbrock at University of Washington, focusing on AI for accessibility and creative task!
 
