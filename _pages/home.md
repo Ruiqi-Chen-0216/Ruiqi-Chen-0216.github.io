@@ -76,7 +76,7 @@ Xia Su, **Ruiqi Chen**, Weiye Zhang, Jingwei Ma, Jon E. Froehlich
 **About Manuscripts**: 
 
 There are 3 projects currently ongoing:
-1. 3DIAMS: 3D Drone-based Indoor Artificial Intelligence Mapping System (advised by Prof. Jon E. Froehlich)
+1. FlyOnlyOnce: 3D Drone-based Indoor AI Mapping System with Only Once Flying (advised by Prof. Jon E. Froehlich)
 2. A11yBLV: Making GAI Creativity Accessible to Blind and Low-Vision Users (advised by Prof. Jacob O. Wobbrock)
 3. AIEquityEngine: AI Pathway to Inclusive and Personalized Engineering Education (advised by Prof. Denise Wilson and Sep Makhsous)
 
