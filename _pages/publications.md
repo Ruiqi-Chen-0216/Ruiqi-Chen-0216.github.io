@@ -63,16 +63,17 @@ Xia Su, **Ruiqi Chen**, Weiye Zhang, Jingwei Ma, Jon E. Froehlich
 
 **About Manuscripts**: 
 
-There are 2 projects currently ongoing:
+There are 3 projects currently ongoing:
 1. DocLLM: Agentic Query and Human-Aligned Evaluation for Complex Document-LLM Understanding
-2. AIEquityEngine: AI Pathway to Inclusive and Personalized Engineering Education
+2. A11yBLV: Making GAI Creativity Accessible to Blind and Low-Vision Users (advised by Prof. Jacob O. Wobbrock)
+3. AIEquityEngine: AI Pathway to Inclusive and Personalized Engineering Education
 
 and 5 projects are under submission & review: 
-1. FlyOnlyOnce: 3D Drone-based Indoor AI Mapping System with Only Once Flying (advised by Prof. Jon E. Froehlich)
-2. A11yBLV: Making GAI Creativity Accessible to Blind and Low-Vision Users (advised by Prof. Jacob O. Wobbrock)
+1. FlyOnlyOnce: 3D Drone-based Indoor AI Mapping System with Only Once Flying (In Submission)
+2. CreA11y: A Dataset for Evaluating GAI Creativity with LLMs for Blind and Low-Vision Users (In Submission)
 3. Enhancing Memory and Communication Abilities in Mild Dementia: A Personalized Memory Collage App with AIGC Technology (In Submission)
 4. CreationBlends Reality: Enhancing Users' Socio-spatial Perceptions through Embodied Gestural Interactions in a Co-creative AR Environment (In Submission)
-5. Revitalizing Public Spaces with Augmented Reality Art at Common Space (In Submission)
+5. Revitalizing Public Spaces with Augmented Reality Art at Common Space (Under Review)
 
 <!--- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**-->
 
