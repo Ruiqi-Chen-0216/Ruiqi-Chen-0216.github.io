@@ -78,7 +78,7 @@ Xia Su, **Ruiqi Chen**, Weiye Zhang, Jingwei Ma, Jon E. Froehlich
 There are 3 projects currently ongoing:
 1. DocLLM: Agentic Query and Human-Aligned Evaluation for Complex Document-LLM Understanding
 2. A11yBLV: Making GAI Creativity Accessible to Blind and Low-Vision Users (advised by Prof. Jacob O. Wobbrock)
-3. AIEquityEngine: AI Pathway to Inclusive and Personalized Engineering Education
+3. RISSHAI: Room Intelligence and Safety Scanning with Human-AI Collaboration System (advised by Jon E. Froehlich)
 
 and 5 projects are under submission & review: 
 1. FlyOnlyOnce: 3D Drone-based Indoor AI Mapping System with Only Once Flying (In Submission)
