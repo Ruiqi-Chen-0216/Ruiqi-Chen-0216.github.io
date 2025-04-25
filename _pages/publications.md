@@ -8,10 +8,12 @@ layout: default
 
 # 📝 Publications 
 
+( * means equal contribution authors)
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/NSZT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Immersive Biography: Supporting Intercultural Empathy and Understanding for Displaced Cultural Objects in Virtual Reality](https://ruiqichen338.github.io/)
+[Immersive Biography: Supporting Intercultural Empathy and Understanding for Displaced Cultural Objects in Virtual Reality](https://doi.org/10.1145/3706598.3714303)
 
 Ke Zhao, **Ruiqi Chen**, Xiaziyu Zhang, Chenxi Wang, Siling Chen, Xiaoguang Wang, Yujue Wang, Xin Tong
 
@@ -33,28 +35,15 @@ Xia Su, **Ruiqi Chen**, Weiye Zhang, Jingwei Ma, Jon E. Froehlich
 </div>
 
 
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEEVR 2023</div><img src='images/DementiaVR_DKU.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Design and Evaluation of a VR Therapy for Patients with Mild Cognitive Impairment and Dementia: Perspectives from Patients and Stakeholders](https://ieeexplore.ieee.org/document/10108617/)
-
-**Ruiqi Chen**, Shuhe Wang, Xuhai Xu, Lan Wei, Yuling Sun, Xin Tong
-
-[**Project**](https://ieeexplore.ieee.org/document/10108617/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- This paper explores the use of Virtual Reality technology to enhance cognitive therapies for patients with mild cognitive impairment and mild dementia, incorporating insights from both patients and key stakeholders like caregivers and therapists to improve therapy design and effectiveness. 
-</div>
-</div> -->
-
-
 <!-- - [**WACV 2025**] What's Happening" - A Human-centered Multimodal Interpreter Explaining the Actions of Autonomous Vehicles, (camera-ready version coming soon) -->
 
-- [**CHI 2025**] Parental Perceptions of Children's d/Deaf Identity Shaping Technology Use: A Qualitative Study on Communication Technologies in Mixed-hearing Families, Keyi Zeng, Jingyang Lin, **Ruiqi Chen**, RAY LC, Pan Hui, Xin Tong
+<!-- - [**CHI 2025**] GestoBrush: Enhancing Graffiti Artists’ Digital Creation Experience with Embodied AR Interactions, **Ruiqi Chen**, Qingyang He, Hanxi Bao, Jung E. Choi, Xin Tong -->
 
+- [**CHI 2025**] [Parental Perceptions of Children's d/Deaf Identity Shaping Technology Use: A Qualitative Study on Communication Technologies in Mixed-hearing Families](https://doi.org/10.1145/3706599.3719753), Keyi Zeng, Jingyang Lin, **Ruiqi Chen**, RAY LC, Pan Hui, Xin Tong
 
 - [**IEEE VR 2023**] [Design and Evaluation of a VR Therapy for Patients with Mild Cognitive Impairment and Dementia: Perspectives from Patients and Stakeholders](https://ieeexplore.ieee.org/document/10108617/), **Ruiqi Chen**, Shuhe Wang, Xuhai Xu, Lan Wei, Yuling Sun, Xin Tong
 
-- [**ChineseCHI 2023**] [Exploring Designers’ Perceptions and Practices of Collaborating with Generative AI as a Co-creative Agent in a Multi-stakeholder Design Process: Take the Domain of Avatar Design as an Example](https://dl.acm.org/doi/fullHtml/10.1145/3629606.3629675), Qingyang He, Weicheng Zheng, Hanxi Bao, **Ruiqi Chen**, Xin Tong
+- [**ChineseCHI 2023**] [Exploring Designers' Perceptions and Practices of Collaborating with Generative AI as a Co-creative Agent in a Multi-stakeholder Design Process: Take the Domain of Avatar Design as an Example](https://dl.acm.org/doi/fullHtml/10.1145/3629606.3629675), Qingyang He, Weicheng Zheng, Hanxi Bao, **Ruiqi Chen**, Xin Tong
 
 
 
