@@ -58,7 +58,6 @@ Ke Zhao, **Ruiqi Chen**, Xiaziyu Zhang, Chenxi Wang, Siling Chen, Xiaoguang Wang
 <a href="https://jingweim.github.io/">Jingwei Ma</a>, 
 <a href="https://jonfroehlich.github.io/">Jon E. Froehlich</a>
 
-
 *ACM Symposium on User Interface Software and Technology* (**UIST 2024**) 
 
 <a href="https://dl.acm.org/doi/10.1145/3672539.3686782">Paper</a> |
@@ -71,7 +70,10 @@ Ke Zhao, **Ruiqi Chen**, Xiaziyu Zhang, Chenxi Wang, Siling Chen, Xiaoguang Wang
 
 <!-- - [**CHI 2025**] GestoBrush: Enhancing Graffiti Artists’ Digital Creation Experience with Embodied AR Interactions, **Ruiqi Chen**, Qingyang He, Hanxi Bao, Jung E. Choi, Xin Tong -->
 
-- [**CHI 2025**] [Parental Perceptions of Children's d/Deaf Identity Shaping Technology Use: A Qualitative Study on Communication Technologies in Mixed-hearing Families](https://doi.org/10.1145/3706599.3719753), Keyi Zeng, Jingyang Lin, **Ruiqi Chen**, RAY LC, Pan Hui, Xin Tong
+- Parental Perceptions of Children's d/Deaf Identity Shaping Technology Use: A Qualitative Study on Communication Technologies in Mixed-hearing Families
+Keyi Zeng, Jingyang Lin, **Ruiqi Chen**, RAY LC, Pan Hui, Xin Tong 
+
+ACM CHI Conference on Human Factors in Computing Systems [Paper](https://doi.org/10.1145/3706599.3719753)
 
 - [**IEEE VR 2023**] [Design and Evaluation of a VR Therapy for Patients with Mild Cognitive Impairment and Dementia: Perspectives from Patients and Stakeholders](https://ieeexplore.ieee.org/document/10108617/), **Ruiqi Chen**, Shuhe Wang, Xuhai Xu, Lan Wei, Yuling Sun, Xin Tong
 
