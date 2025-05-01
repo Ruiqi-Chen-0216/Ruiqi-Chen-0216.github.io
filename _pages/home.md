@@ -50,7 +50,7 @@ Ke Zhao, **Ruiqi Chen**, Xiaziyu Zhang, Chenxi Wang, Siling Chen, Xiaoguang Wang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2024</div><img src='images/DIAM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DIAM: Drone-based Indoor Accessibility Mapping](https://makeabilitylab.cs.washington.edu/project/diam/)
+### DIAM: Drone-based Indoor Accessibility Mapping
 
 Xia Su, **Ruiqi Chen**, Weiye Zhang, Jingwei Ma, Jon E. Froehlich
 
