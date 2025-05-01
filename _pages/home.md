@@ -42,7 +42,9 @@ My research interests lie primarily at the intersection of Human-Computer Intera
 Ke Zhao, **Ruiqi Chen**, Xiaziyu Zhang, Chenxi Wang, Siling Chen, Xiaoguang Wang, Yujue Wang, Xin Tong
 
 *ACM CHI Conference on Human Factors in Computing Systems* (**CHI2024**)
+
 [Paper](https://dl.acm.org/doi/10.1145/3706598.3714303)
+
 - This paper presents an immersive VR biography of the Admonitions Scroll to explore how embodied interactions with displaced cultural objects can promote intercultural empathy. Our findings showed that such interactions enhance understanding and interest in cultural heritage, offering a novel approach to representing and interpreting historical artifacts.
 </div>
 </div>
