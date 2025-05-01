@@ -71,8 +71,9 @@ Ke Zhao, **Ruiqi Chen**, Xiaziyu Zhang, Chenxi Wang, Siling Chen, Xiaoguang Wang
 <!-- - [**CHI 2025**] GestoBrush: Enhancing Graffiti Artists’ Digital Creation Experience with Embodied AR Interactions, **Ruiqi Chen**, Qingyang He, Hanxi Bao, Jung E. Choi, Xin Tong -->
 
 - ### Parental Perceptions of Children's d/Deaf Identity Shaping Technology Use: A Qualitative Study on Communication Technologies in Mixed-hearing Families  
-  Keyi Zeng, Jingyang Lin, **Ruiqi Chen**, RAY LC, Pan Hui, Xin Tong  
+  [Keyi Zeng](https://arkxlab.github.io/profile/keyi.html#), Jingyang Lin, **Ruiqi Chen**, [RAY LC](https://raylc.org/), [Pan Hui](https://panhui.people.ust.hk/index.html), [Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en)  
   *ACM CHI Conference on Human Factors in Computing Systems* (**CHI2025**) [Paper](https://doi.org/10.1145/3706599.3719753)
+  
 
 - ### Design and Evaluation of a VR Therapy for Patients with Mild Cognitive Impairment and Dementia: Perspectives from Patients and Stakeholders  
   **Ruiqi Chen**, [Shuhe Wang](https://www.linkedin.com/in/shuhe-wang-2455b7313/), [Xuhai Xu](https://orsonxu.com/), Lan Wei, [Yuling Sun](https://www.yulingsun.net/), [Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en)  
