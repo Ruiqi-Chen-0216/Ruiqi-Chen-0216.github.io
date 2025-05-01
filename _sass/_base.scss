@@ -124,11 +124,11 @@ a {
   }
 
   color: $link-color;
-  text-decoration: none;
+  text-decoration: none !important;
 
   &:hover,
   &:active {
-    text-decoration: underline;
+    //text-decoration: underline;
     outline: 0;
   }
 }
