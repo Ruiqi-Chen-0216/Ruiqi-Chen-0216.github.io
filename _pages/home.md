@@ -32,8 +32,6 @@ My research interests lie primarily at the intersection of Human-Computer Intera
 
 # 📝 Publications 
 
-( * means equal contribution authors)
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/NSZT.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 

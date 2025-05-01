@@ -107,3 +107,13 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.author {
+    text-decoration: none;
+    color: inherit;
+  
+    &:hover {
+      text-decoration: underline; // 可选：悬停时加下划线
+    }
+  }
+  
