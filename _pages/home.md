@@ -34,18 +34,18 @@ My research interests lie primarily at the intersection of Human-Computer Intera
 
 ( * means equal contribution authors)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/NSZT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/NSZT.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ### Immersive Biography: Supporting Intercultural Empathy and Understanding for Displaced Cultural Objects in Virtual Reality
 
 Ke Zhao, **Ruiqi Chen**, Xiaziyu Zhang, Chenxi Wang, Siling Chen, Xiaoguang Wang, Yujue Wang, Xin Tong
 
-*ACM CHI Conference on Human Factors in Computing Systems* (**CHI2024**)
+*ACM CHI Conference on Human Factors in Computing Systems* (**CHI2025**)
 
 [Paper](https://dl.acm.org/doi/10.1145/3706598.3714303)
 
-- This paper presents an immersive VR biography of the Admonitions Scroll to explore how embodied interactions with displaced cultural objects can promote intercultural empathy. Our findings showed that such interactions enhance understanding and interest in cultural heritage, offering a novel approach to representing and interpreting historical artifacts.
+<!-- - This paper presents an immersive VR biography of the Admonitions Scroll to explore how embodied interactions with displaced cultural objects can promote intercultural empathy. Our findings showed that such interactions enhance understanding and interest in cultural heritage, offering a novel approach to representing and interpreting historical artifacts. -->
 </div>
 </div>
 
