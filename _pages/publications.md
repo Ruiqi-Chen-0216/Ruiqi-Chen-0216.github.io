@@ -8,29 +8,35 @@ layout: default
 
 # 📝 Publications 
 
-( * means equal contribution authors)
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/NSZT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Immersive Biography: Supporting Intercultural Empathy and Understanding for Displaced Cultural Objects in Virtual Reality](https://doi.org/10.1145/3706598.3714303)
+## Immersive Biography: Supporting Intercultural Empathy and Understanding for Displaced Cultural Objects in Virtual Reality
 
-Ke Zhao, **Ruiqi Chen**, Xiaziyu Zhang, Chenxi Wang, Siling Chen, Xiaoguang Wang, Yujue Wang, Xin Tong
+[Ke Zhao](https://scholar.google.com/citations?user=j5KqV84AAAAJ&hl=en), **Ruiqi Chen**, Xiaziyu Zhang, Chenxi Wang, Siling Chen, [Xiaoguang Wang](https://sim.whu.edu.cn/info/1206/6151.htm), [Yujue Wang](https://sim.whu.edu.cn/info/1205/6163.htm), [Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en) 
 
-[**Paper will come soon**]
-- This paper presents an immersive VR biography of the Admonitions Scroll to explore how embodied interactions with displaced cultural objects can promote intercultural empathy. Our findings showed that such interactions enhance understanding and interest in cultural heritage, offering a novel approach to representing and interpreting historical artifacts.
+*ACM CHI Conference on Human Factors in Computing Systems* (**CHI2025**)
+
+[Paper](https://dl.acm.org/doi/10.1145/3706598.3714303)
+
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2024</div><img src='images/DIAM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DIAM: Drone-based Indoor Accessibility Mapping](https://makeabilitylab.cs.washington.edu/project/diam/)
+## DIAM: Drone-based Indoor Accessibility Mapping
 
-Xia Su, **Ruiqi Chen**, Weiye Zhang, Jingwei Ma, Jon E. Froehlich
+<a href="https://xiasu.github.io/">Xia Su</a>, 
+**Ruiqi Chen**, 
+<a href="https://makeabilitylab.cs.washington.edu/member/richardweiyezhang/">Weiye Zhang</a>, 
+<a href="https://jingweim.github.io/">Jingwei Ma</a>, 
+<a href="https://jonfroehlich.github.io/">Jon E. Froehlich</a>
 
-[**Project**](https://dl.acm.org/doi/10.1145/3672539.3686782) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- This paper introduces Drone-based Indoor Accessibility Mapping (DIAM), a drone-based indoor scanning system that efficiently produces 3D reconstructions of indoor spaces with key accessibility facilities recognized and located in the model. With DIAM, users can scan indoor spaces quickly and generate a precise, detailed, and visual 3D indoor accessibility map.
+*ACM Symposium on User Interface Software and Technology* (**UIST 2024**) 
+
+<a href="https://dl.acm.org/doi/10.1145/3672539.3686782">Paper</a> |
+<a href="https://makeabilitylab.cs.washington.edu/project/diam/">Website</a>
 </div>
 </div>
 
@@ -39,13 +45,19 @@ Xia Su, **Ruiqi Chen**, Weiye Zhang, Jingwei Ma, Jon E. Froehlich
 
 <!-- - [**CHI 2025**] GestoBrush: Enhancing Graffiti Artists’ Digital Creation Experience with Embodied AR Interactions, **Ruiqi Chen**, Qingyang He, Hanxi Bao, Jung E. Choi, Xin Tong -->
 
-- [**CHI 2025**] [Parental Perceptions of Children's d/Deaf Identity Shaping Technology Use: A Qualitative Study on Communication Technologies in Mixed-hearing Families](https://doi.org/10.1145/3706599.3719753), Keyi Zeng, Jingyang Lin, **Ruiqi Chen**, RAY LC, Pan Hui, Xin Tong
-
-- [**IEEE VR 2023**] [Design and Evaluation of a VR Therapy for Patients with Mild Cognitive Impairment and Dementia: Perspectives from Patients and Stakeholders](https://ieeexplore.ieee.org/document/10108617/), **Ruiqi Chen**, Shuhe Wang, Xuhai Xu, Lan Wei, Yuling Sun, Xin Tong
-
-- [**ChineseCHI 2023**] [Exploring Designers' Perceptions and Practices of Collaborating with Generative AI as a Co-creative Agent in a Multi-stakeholder Design Process: Take the Domain of Avatar Design as an Example](https://dl.acm.org/doi/fullHtml/10.1145/3629606.3629675), Qingyang He, Weicheng Zheng, Hanxi Bao, **Ruiqi Chen**, Xin Tong
+- ## Parental Perceptions of Children's d/Deaf Identity Shaping Technology Use: A Qualitative Study on Communication Technologies in Mixed-hearing Families  
+  [Keyi Zeng](https://arkxlab.github.io/profile/keyi.html#), [Jingyang Lin](https://orcid.org/0009-0000-1832-6381), **Ruiqi Chen**, [RAY LC](https://raylc.org/), [Pan Hui](https://panhui.people.ust.hk/index.html), [Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en)  
+  *ACM CHI Conference on Human Factors in Computing Systems* (**CHI2025**) [[Paper]](https://doi.org/10.1145/3706599.3719753)
 
 
+- ## Design and Evaluation of a VR Therapy for Patients with Mild Cognitive Impairment and Dementia: Perspectives from Patients and Stakeholders  
+  **Ruiqi Chen**, [Shuhe Wang](https://www.linkedin.com/in/shuhe-wang-2455b7313/), [Xuhai Xu](https://orsonxu.com/), Lan Wei, [Yuling Sun](https://www.yulingsun.net/), [Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en)  
+  *IEEE Conference on Virtual Reality and 3D User Interfaces* (**IEEEVR2023**) [[Paper]](https://ieeexplore.ieee.org/document/10108617/)
+
+
+- ## Exploring Designers' Perceptions and Practices of Collaborating with Generative AI as a Co-creative Agent in a Multi-stakeholder Design Process: Take the Domain of Avatar Design as an Example  
+  [Qingyang He](https://qingyanghe.com/), [Weicheng Zheng](https://orcid.org/0009-0002-2550-8823), [Hanxi Bao](https://orcid.org/0009-0004-4014-2908), **Ruiqi Chen**, [Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en)  
+  *International Symposium of Chinese Computer-Human Interaction* (**ChineseCHI2023**) [[Paper]](https://dl.acm.org/doi/fullHtml/10.1145/3629606.3629675)
 
 
 

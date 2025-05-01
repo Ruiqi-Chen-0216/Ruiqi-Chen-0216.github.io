@@ -71,7 +71,7 @@ My research interests lie primarily at the intersection of Human-Computer Intera
 <!-- - [**CHI 2025**] GestoBrush: Enhancing Graffiti Artists’ Digital Creation Experience with Embodied AR Interactions, **Ruiqi Chen**, Qingyang He, Hanxi Bao, Jung E. Choi, Xin Tong -->
 
 - ## Parental Perceptions of Children's d/Deaf Identity Shaping Technology Use: A Qualitative Study on Communication Technologies in Mixed-hearing Families  
-  [Keyi Zeng](https://arkxlab.github.io/profile/keyi.html#), Jingyang Lin, **Ruiqi Chen**, [RAY LC](https://raylc.org/), [Pan Hui](https://panhui.people.ust.hk/index.html), [Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en)  
+  [Keyi Zeng](https://arkxlab.github.io/profile/keyi.html#), [Jingyang Lin](https://orcid.org/0009-0000-1832-6381), **Ruiqi Chen**, [RAY LC](https://raylc.org/), [Pan Hui](https://panhui.people.ust.hk/index.html), [Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en)  
   *ACM CHI Conference on Human Factors in Computing Systems* (**CHI2025**) [[Paper]](https://doi.org/10.1145/3706599.3719753)
 
 
