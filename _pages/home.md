@@ -76,9 +76,11 @@ Ke Zhao, **Ruiqi Chen**, Xiaziyu Zhang, Chenxi Wang, Siling Chen, Xiaoguang Wang
 
 - ### Design and Evaluation of a VR Therapy for Patients with Mild Cognitive Impairment and Dementia: Perspectives from Patients and Stakeholders
   **Ruiqi Chen**, Shuhe Wang, Xuhai Xu, Lan Wei, Yuling Sun, Xin Tong 
-  [Paper](https://ieeexplore.ieee.org/document/10108617/)
+  *IEEE Conference on Virtual Reality and 3D User Interfaces* (**IEEEVR2023**) [Paper](https://ieeexplore.ieee.org/document/10108617/)
 
-- [**ChineseCHI 2023**] [Exploring Designers' Perceptions and Practices of Collaborating with Generative AI as a Co-creative Agent in a Multi-stakeholder Design Process: Take the Domain of Avatar Design as an Example](https://dl.acm.org/doi/fullHtml/10.1145/3629606.3629675), Qingyang He, Weicheng Zheng, Hanxi Bao, **Ruiqi Chen**, Xin Tong
+- ### Exploring Designers' Perceptions and Practices of Collaborating with Generative AI as a Co-creative Agent in a Multi-stakeholder Design Process: Take the Domain of Avatar Design as an Example
+  Qingyang He, Weicheng Zheng, Hanxi Bao, **Ruiqi Chen**, Xin Tong
+  *International Symposium of Chinese Computer-Human Interaction* (**ChineseCHI2023**) [Paper](https://dl.acm.org/doi/fullHtml/10.1145/3629606.3629675)
 
 
 
