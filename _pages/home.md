@@ -37,7 +37,7 @@ My research interests lie primarily at the intersection of Human-Computer Intera
 
 ### Immersive Biography: Supporting Intercultural Empathy and Understanding for Displaced Cultural Objects in Virtual Reality
 
-Ke Zhao, **Ruiqi Chen**, Xiaziyu Zhang, Chenxi Wang, Siling Chen, Xiaoguang Wang, Yujue Wang, <a href="https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en" class="author">Xin Tong</a> 
+Ke Zhao, **Ruiqi Chen**, Xiaziyu Zhang, Chenxi Wang, Siling Chen, Xiaoguang Wang, Yujue Wang, <a href="https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en">Xin Tong</a> 
 
 *ACM CHI Conference on Human Factors in Computing Systems* (**CHI2025**)
 
@@ -52,7 +52,12 @@ Ke Zhao, **Ruiqi Chen**, Xiaziyu Zhang, Chenxi Wang, Siling Chen, Xiaoguang Wang
 
 ### DIAM: Drone-based Indoor Accessibility Mapping
 
-Xia Su, **Ruiqi Chen**, Weiye Zhang, Jingwei Ma, Jon E. Froehlich
+<a href="https://xiasu.github.io/">Xia Su</a>, 
+**Ruiqi Chen**, 
+<a href="https://makeabilitylab.cs.washington.edu/member/richardweiyezhang/">Weiye Zhang</a>, 
+<a href="https://jingweim.github.io/">Jingwei Ma</a>, 
+<a href="https://jonfroehlich.github.io/">Jon E. Froehlich</a>
+
 
 *ACM Symposium on User Interface Software and Technology* (**UIST 2024**) 
 
