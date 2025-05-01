@@ -54,6 +54,8 @@ Ke Zhao, **Ruiqi Chen**, Xiaziyu Zhang, Chenxi Wang, Siling Chen, Xiaoguang Wang
 
 Xia Su, **Ruiqi Chen**, Weiye Zhang, Jingwei Ma, Jon E. Froehlich
 
+*ACM Symposium on User Interface Software and Technology* (**UIST 2024**) 
+
 [Paper](https://dl.acm.org/doi/10.1145/3672539.3686782) | [Website](https://makeabilitylab.cs.washington.edu/project/diam/)
 
 - This paper introduces Drone-based Indoor Accessibility Mapping (DIAM), a drone-based indoor scanning system that efficiently produces 3D reconstructions of indoor spaces with key accessibility facilities recognized and located in the model. With DIAM, users can scan indoor spaces quickly and generate a precise, detailed, and visual 3D indoor accessibility map.
