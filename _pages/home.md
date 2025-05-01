@@ -37,7 +37,7 @@ My research interests lie primarily at the intersection of Human-Computer Intera
 
 ## Immersive Biography: Supporting Intercultural Empathy and Understanding for Displaced Cultural Objects in Virtual Reality
 
-Ke Zhao, **Ruiqi Chen**, Xiaziyu Zhang, Chenxi Wang, Siling Chen, Xiaoguang Wang, Yujue Wang, <a href="https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en">Xin Tong</a> 
+[Ke Zhao](https://scholar.google.com/citations?user=j5KqV84AAAAJ&hl=en), **Ruiqi Chen**, Xiaziyu Zhang, Chenxi Wang, Siling Chen, [Xiaoguang Wang](https://sim.whu.edu.cn/info/1206/6151.htm), [Yujue Wang](https://sim.whu.edu.cn/info/1205/6163.htm), [Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en) 
 
 *ACM CHI Conference on Human Factors in Computing Systems* (**CHI2025**)
 
