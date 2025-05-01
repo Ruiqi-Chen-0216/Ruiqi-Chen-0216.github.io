@@ -128,8 +128,18 @@ a {
 
   &:hover,
   &:active {
-    //text-decoration: underline;
+    text-decoration: underline;
     outline: 0;
+  }
+}
+
+.page__content a {
+  color: $link-color;
+  text-decoration: none;
+
+  &:hover,
+  &:active {
+    text-decoration: underline;
   }
 }
 
