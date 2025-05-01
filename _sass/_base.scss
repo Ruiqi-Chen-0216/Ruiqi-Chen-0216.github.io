@@ -123,11 +123,22 @@ a {
     @extend %tab-focus;
   }
 
+  color: $link-color;
+  text-decoration: none;
+
   &:hover,
   &:active {
+    text-decoration: underline;
     outline: 0;
   }
 }
+
+/* bold text */
+
+strong, b {
+  color: #000 !important;
+}
+
 
 /* code */
 
