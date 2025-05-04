@@ -70,11 +70,11 @@ There are 3 projects currently ongoing:
 3. RISSHAI: Room Intelligence and Safety Scanning with Human-AI Collaboration System (advised by Jon E. Froehlich)
 
 and 5 projects are under submission & review: 
-1. FlyOnlyOnce: 3D Drone-based Indoor AI Mapping System with Only Once Flying (In Submission)
-2. CreA11y: A Dataset for Evaluating GAI Creativity with LLMs for Blind and Low-Vision Users (In Submission)
+1. FlyOnlyOnce: 3D Drone-based Indoor AI Mapping System with Only Once Flying (Under Review)
+2. CreA11y: A Dataset for Evaluating GAI Creativity with LLMs for Blind and Low-Vision Users (Under Review)
 3. Enhancing Memory and Communication Abilities in Mild Dementia: A Personalized Memory Collage App with AIGC Technology (In Submission)
-4. CreationBlends Reality: Enhancing Users' Socio-spatial Perceptions through Embodied Gestural Interactions in a Co-creative AR Environment (In Submission)
-5. Revitalizing Public Spaces with Augmented Reality Art at Common Space (Under Review)
+4. CreationBlends Reality: Enhancing Users' Socio-spatial Perceptions through Embodied Gestural Interactions in a Co-creative AR Environment (Under Review)
+5. Revitalizing Public Spaces with Augmented Reality Art at Common Space (Under Revison)
 
 <!--- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**-->
 
