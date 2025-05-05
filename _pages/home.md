@@ -24,6 +24,8 @@ My research interests lie primarily at the intersection of Human-Computer Intera
 
 
 # 🔥 News
+- *2025.04*: &nbsp;🎉🎉 I joined the EPIC Data Lab and supervised by Prof. Aditya Parameswaran at University of California, Berkeley, focusing on LLM system development. 
+
 - *2025.02*: &nbsp;🎉🎉 Two of my undergraduate research works are accepted by CHI 2025!
 
 - *2024.09*: &nbsp;🎉🎉 I joined the ACE Lab directed by Prof. Jacob O. Wobbrock at University of Washington, focusing on AI for accessibility and creative task!
@@ -119,7 +121,6 @@ and 5 projects are under submission & review:
   * Graduate Research Assistant to [Prof. Aditya Parameswaran](https://people.eecs.berkeley.edu/~adityagp/) 
   * Date: April 2025 – Present
   * Contribute to two research project, focusing on LLM system and semantic data processing in HAI.
-
 
 * [ACE Lab](https://depts.washington.edu/acelab/index.html), University of Washington
   * Graduate Research Assistant to [Prof. Jacob O. Wobbrock](https://faculty.washington.edu/wobbrock/) 
