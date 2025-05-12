@@ -95,7 +95,7 @@ There are 3 projects currently ongoing:
 and 5 projects are under submission & review: 
 1. FlyOnlyOnce: 3D Drone-based Indoor AI Mapping System with Only Once Flying (Under Review)
 2. CreA11y: A Dataset for Evaluating GAI Creativity with LLMs for Blind and Low-Vision Users (Under Review)
-3. Enhancing Memory and Communication Abilities in Mild Dementia: A Personalized Memory Collage App with AIGC Technology (In Submission)
+3. Designing AI-Powered Reminiscence Interventions for Dementia: Exploring Personalization, Professional Support, and Collaboration (Under Review)
 4. CreationBlends Reality: Enhancing Users' Socio-spatial Perceptions through Embodied Gestural Interactions in a Co-creative AR Environment (Under Review)
 5. Revitalizing Public Spaces with Augmented Reality Art at Common Space (Under Revison)
 
