@@ -33,8 +33,3 @@ layout: default
   * Undergraduate Research Assistant to [Prof. Xin Tong](https://scholar.google.com/citations?user=XIM08ZwAAAAJ&hl=zh-CN&oi=sra)    
   * Date: March 2022 – June 2024
   * Contribute to five research projects, focusing on HCI, AI, and VR.
-
-* Anthropocene Extended Reality (XR) Lab, Duke Kunshan University
-  * Undergraduate Research Assistant to [Prof. Jung Choi](https://jungchoi.org/) and [Prof. Xin Tong](https://scholar.google.com/citations?user=XIM08ZwAAAAJ&hl=zh-CN&oi=sra)   
-  * Date: May 2022 – May 2024
-  * Contribute to two research projects, focusing on HCI, AR and MR. 
