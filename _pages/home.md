@@ -93,8 +93,8 @@ There are 3 projects currently ongoing:
 3. RISSHAI: Room Intelligence and Safety Scanning with Human-AI Collaboration System (advised by Jon E. Froehlich)
 
 and 5 projects are under submission & review: 
-1. FlyOnlyOnce: 3D Drone-based Indoor AI Mapping System with Only Once Flying (Under Review)
-2. CreA11y: A Dataset for Evaluating GAI Creativity with LLMs for Blind and Low-Vision Users (Under Review)
+1. FlyOnlyOnce: 3D Drone-based Indoor AI Mapping System with Only Once Flying (Under Revison)
+2. CreA11y: A Dataset for Evaluating GAI Creativity with LLMs for Blind and Low-Vision Users (Under Revison)
 3. Designing AI-Powered Reminiscence Interventions for Dementia: Exploring Personalization, Professional Support, and Collaboration (Under Review)
 4. CreationBlends Reality: Enhancing Users' Socio-spatial Perceptions through Embodied Gestural Interactions in a Co-creative AR Environment (Under Review)
 5. Revitalizing Public Spaces with Augmented Reality Art at Common Space (Under Revison)
@@ -138,11 +138,6 @@ and 5 projects are under submission & review:
   * Undergraduate Research Assistant to [Prof. Xin Tong](https://scholar.google.com/citations?user=XIM08ZwAAAAJ&hl=zh-CN&oi=sra)    
   * Date: March 2022 – June 2024
   * Contribute to five research projects, focusing on HCI, AI, and VR.
-
-* Anthropocene Extended Reality (XR) Lab, Duke Kunshan University
-  * Undergraduate Research Assistant to [Prof. Jung Choi](https://jungchoi.org/) and [Prof. Xin Tong](https://scholar.google.com/citations?user=XIM08ZwAAAAJ&hl=zh-CN&oi=sra)   
-  * Date: May 2022 – May 2024
-  * Contribute to two research projects, focusing on HCI, AR and MR. 
   
 
 <!-- # 💻 Internships
