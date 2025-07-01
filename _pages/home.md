@@ -44,8 +44,10 @@ My research interests lie primarily at the intersection of Human-Computer Intera
 *ACM Symposium on User Interface Software and Technology* (**UIST 2025**) 
 
 Paper is coming soon
+</div>
+</div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2024</div><img src='images/UIST25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2025</div><img src='images/UIST25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## FlyOnlyOnce: 3D Drone-based Indoor AI Mapping System with Only Once Flying
