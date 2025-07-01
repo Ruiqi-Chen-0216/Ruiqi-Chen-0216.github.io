@@ -87,20 +87,6 @@ Paper is coming soon
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2024</div><img src='images/DIAM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## DIAM: Drone-based Indoor Accessibility Mapping
-
-<a href="https://xiasu.github.io/">Xia Su</a>, 
-**Ruiqi Chen**, 
-<a href="https://makeabilitylab.cs.washington.edu/member/richardweiyezhang/">Weiye Zhang</a>, 
-<a href="https://jingweim.github.io/">Jingwei Ma</a>, 
-<a href="https://jonfroehlich.github.io/">Jon E. Froehlich</a>
-
-*ACM Symposium on User Interface Software and Technology* (**UIST 2024**) 
-
-<a href="https://dl.acm.org/doi/10.1145/3672539.3686782">Paper</a> |
-<a href="https://makeabilitylab.cs.washington.edu/project/diam/">Website</a>
-</div>
-</div>
 
 
 <!-- - [**WACV 2025**] What's Happening" - A Human-centered Multimodal Interpreter Explaining the Actions of Autonomous Vehicles, (camera-ready version coming soon) -->
@@ -113,12 +99,11 @@ Paper is coming soon
 
 - ### DIAM: Drone-based Indoor Accessibility Mapping  
   [Xia Su](https://xiasu.github.io/), **Ruiqi Chen**, [Weiye Zhang](https://makeabilitylab.cs.washington.edu/member/richardweiyezhang/), [Jingwei Ma](https://jingweim.github.io/), [Jon E. Froehlich](https://jonfroehlich.github.io/)  
-  *ACM Symposium on User Interface Software and Technology* (**UIST 2024**) [[Paper]](https://dl.acm.org/doi/10.1145/3672539.3686782) | [Website](https://makeabilitylab.cs.washington.edu/project/diam/)
+  *ACM Symposium on User Interface Software and Technology* (**UIST 2024**) [[Paper]](https://dl.acm.org/doi/10.1145/3672539.3686782) | [[Website]](https://makeabilitylab.cs.washington.edu/project/diam/)
 
 - ### Design and Evaluation of a VR Therapy for Patients with Mild Cognitive Impairment and Dementia: Perspectives from Patients and Stakeholders  
   **Ruiqi Chen**, [Shuhe Wang](https://www.linkedin.com/in/shuhe-wang-2455b7313/), [Xuhai Xu](https://orsonxu.com/), Lan Wei, [Yuling Sun](https://www.yulingsun.net/), [Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en)  
   *IEEE Conference on Virtual Reality and 3D User Interfaces* (**IEEEVR2023**) [[Paper]](https://ieeexplore.ieee.org/document/10108617/)
-
 
 - ### Exploring Designers' Perceptions and Practices of Collaborating with Generative AI as a Co-creative Agent in a Multi-stakeholder Design Process: Take the Domain of Avatar Design as an Example  
   [Qingyang He](https://qingyanghe.com/), [Weicheng Zheng](https://orcid.org/0009-0002-2550-8823), [Hanxi Bao](https://orcid.org/0009-0004-4014-2908), **Ruiqi Chen**, [Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en)  
