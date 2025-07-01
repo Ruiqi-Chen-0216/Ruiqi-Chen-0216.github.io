@@ -53,10 +53,10 @@ Paper is coming soon
 ## FlyOnlyOnce: 3D Drone-based Indoor AI Mapping System with Only Once Flying
 
 <a href="https://xiasu.github.io/"><em>Xia Su</em></a><sup>*</sup>, 
-<strong><em>Ruiqi Chen</em></strong><sup>*</sup>  
+<strong><em>Ruiqi Chen</em></strong><sup>*</sup>,  
 <a href="https://jingweim.github.io/">Jingwei Ma</a>, 
 <a href="https://www.chu-li.me/">Chu Li</a>, 
-<a href="https://jonfroehlich.github.io/">Jon E. Froehlich</a>
+<a href="https://jonfroehlich.github.io/">Jon E. Froehlich</a>  
 
 (<sup>*</sup>Equal contribution)
 
