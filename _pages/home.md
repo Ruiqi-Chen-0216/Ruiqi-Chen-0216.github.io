@@ -30,6 +30,26 @@ My research interests lie primarily at the intersection of Human-Computer Intera
 - *2024.05*: &nbsp;🎉🎉 I joined the Makeability Lab directed by Prof. Jon E. Froehlich at University of Washington, and began my research journey at University of Washington! 
 
 # 📝 Publications 
+(<sup>*</sup>Equal contribution)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2025</div><img src='images/UIST25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## FlyOnlyOnce: 3D Drone-based Indoor AI Mapping System with Only Once Flying
+
+<a href="https://xiasu.github.io/"><em>Xia Su</em></a><sup>*</sup>, 
+<strong><em>Ruiqi Chen</em></strong><sup>*</sup>, 
+<a href="https://jingweim.github.io/">Jingwei Ma</a>, 
+<a href="https://www.chu-li.me/">Chu Li</a>, 
+<a href="https://jonfroehlich.github.io/">Jon E. Froehlich</a>  
+
+*ACM Symposium on User Interface Software and Technology* (**UIST 2025**) 
+
+Paper is coming soon
+
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2025</div><img src='images/UIST25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -47,26 +67,6 @@ Paper is coming soon
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2025</div><img src='images/UIST25.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## FlyOnlyOnce: 3D Drone-based Indoor AI Mapping System with Only Once Flying
-
-<a href="https://xiasu.github.io/"><em>Xia Su</em></a><sup>*</sup>, 
-<strong><em>Ruiqi Chen</em></strong><sup>*</sup>, 
-<a href="https://jingweim.github.io/">Jingwei Ma</a>, 
-<a href="https://www.chu-li.me/">Chu Li</a>, 
-<a href="https://jonfroehlich.github.io/">Jon E. Froehlich</a>  
-
-(<sup>*</sup>Equal contribution)
-
-*ACM Symposium on User Interface Software and Technology* (**UIST 2025**) 
-
-Paper is coming soon
-
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/NSZT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
