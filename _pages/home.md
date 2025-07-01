@@ -80,7 +80,6 @@ Paper is coming soon
 
 [Paper](https://dl.acm.org/doi/10.1145/3706598.3714303)
 
-<!-- - This paper presents an immersive VR biography of the Admonitions Scroll to explore how embodied interactions with displaced cultural objects can promote intercultural empathy. Our findings showed that such interactions enhance understanding and interest in cultural heritage, offering a novel approach to representing and interpreting historical artifacts. -->
 </div>
 </div>
 
@@ -119,8 +118,8 @@ There are 3 projects currently ongoing:
 3. RISSHAI: Room Intelligence and Safety Scanning with Human-AI Collaboration System (advised by Jon E. Froehlich)
 
 and 5 projects are under submission & review: 
-1. FlyOnlyOnce: 3D Drone-based Indoor AI Mapping System with Only Once Flying (Under Revison)
-2. CreA11y: A Dataset for Evaluating GAI Creativity with LLMs for Blind and Low-Vision Users (Under Revison)
+1. FlyOnlyOnce: 3D Drone-based Indoor AI Mapping System with Only Once Flying (Conditional Accepted)
+2. CreA11y: A Dataset for Evaluating GAI Slide Design Deficiencies with Large Language Model (Conditional Accepted)
 3. Designing AI-Powered Reminiscence Interventions for Dementia: Exploring Personalization, Professional Support, and Collaboration (Under Review)
 4. CreationBlends Reality: Enhancing Users' Socio-spatial Perceptions through Embodied Gestural Interactions in a Co-creative AR Environment (Under Review)
 5. Revitalizing Public Spaces with Augmented Reality Art at Common Space (Under Revison)
