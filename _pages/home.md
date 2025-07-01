@@ -83,10 +83,6 @@ Paper is coming soon
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2024</div><img src='images/DIAM.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
 
 <!-- - [**WACV 2025**] What's Happening" - A Human-centered Multimodal Interpreter Explaining the Actions of Autonomous Vehicles, (camera-ready version coming soon) -->
 
