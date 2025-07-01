@@ -34,7 +34,7 @@ My research interests lie primarily at the intersection of Human-Computer Intera
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2025</div><img src='images/UIST25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## CreA11y: A Dataset for Evaluating GAI Creativity with Large Language Model
+## CreA11y: A Dataset for Evaluating GAI Slide Design Deficiencies with Large Language Model
 
 <a href="https://zhuohaozhang.com/">Zhuohao Zhang</a>, 
 **Ruiqi Chen**, 
@@ -44,6 +44,23 @@ My research interests lie primarily at the intersection of Human-Computer Intera
 *ACM Symposium on User Interface Software and Technology* (**UIST 2025**) 
 
 Paper is coming soon
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2024</div><img src='images/UIST25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## FlyOnlyOnce: 3D Drone-based Indoor AI Mapping System with Only Once Flying
+
+<a href="https://xiasu.github.io/">Xia Su</a>, 
+**Ruiqi Chen**, 
+<a href="https://jingweim.github.io/">Jingwei Ma</a>, 
+<a href="https://www.chu-li.me/">Chu Li</a>, 
+<a href="https://jonfroehlich.github.io/">Jon E. Froehlich</a>
+
+*ACM Symposium on User Interface Software and Technology* (**UIST 2025**) 
+
+Paper is coming soon
+</div>
+</div>
 
 </div>
 </div>
