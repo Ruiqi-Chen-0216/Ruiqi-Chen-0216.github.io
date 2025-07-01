@@ -32,6 +32,7 @@ My research interests lie primarily at the intersection of Human-Computer Intera
 # 📝 Publications 
 (<sup>*</sup>Equal contribution)
 
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2025</div><img src='images/UIST25.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -66,7 +67,7 @@ Paper is coming soon
 Paper is coming soon
 </div>
 </div>
-
+-->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/NSZT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -110,6 +111,9 @@ Paper is coming soon
   [Keyi Zeng](https://arkxlab.github.io/profile/keyi.html#), [Jingyang Lin](https://orcid.org/0009-0000-1832-6381), **Ruiqi Chen**, [RAY LC](https://raylc.org/), [Pan Hui](https://panhui.people.ust.hk/index.html), [Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en)  
   *ACM CHI Conference on Human Factors in Computing Systems* (**CHI2025**) [[Paper]](https://doi.org/10.1145/3706599.3719753)
 
+- ### DIAM: Drone-based Indoor Accessibility Mapping  
+  [Xia Su](https://xiasu.github.io/), **Ruiqi Chen**, [Weiye Zhang](https://makeabilitylab.cs.washington.edu/member/richardweiyezhang/), [Jingwei Ma](https://jingweim.github.io/), [Jon E. Froehlich](https://jonfroehlich.github.io/)  
+  *ACM Symposium on User Interface Software and Technology* (**UIST 2024**) [[Paper]](https://dl.acm.org/doi/10.1145/3672539.3686782) | [Website](https://makeabilitylab.cs.washington.edu/project/diam/)
 
 - ### Design and Evaluation of a VR Therapy for Patients with Mild Cognitive Impairment and Dementia: Perspectives from Patients and Stakeholders  
   **Ruiqi Chen**, [Shuhe Wang](https://www.linkedin.com/in/shuhe-wang-2455b7313/), [Xuhai Xu](https://orsonxu.com/), Lan Wei, [Yuling Sun](https://www.yulingsun.net/), [Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en)  
