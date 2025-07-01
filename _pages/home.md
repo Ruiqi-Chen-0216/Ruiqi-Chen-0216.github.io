@@ -32,7 +32,7 @@ My research interests lie primarily at the intersection of Human-Computer Intera
 # 📝 Publications 
 (<sup>*</sup>Equal contribution)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2025</div><img src='images/UIST25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2025</div><img src='images/UIST25.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## FlyOnlyOnce: 3D Drone-based Indoor AI Mapping System with Only Once Flying
@@ -51,7 +51,7 @@ Paper is coming soon
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2025</div><img src='images/UIST25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2025</div><img src='images/UIST25.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## CreA11y: A Dataset for Evaluating GAI Slide Design Deficiencies with Large Language Model
