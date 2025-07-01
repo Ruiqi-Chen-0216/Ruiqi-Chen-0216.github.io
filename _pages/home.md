@@ -63,8 +63,6 @@ Paper is coming soon
 *ACM Symposium on User Interface Software and Technology* (**UIST 2025**) 
 
 Paper is coming soon
-</div>
-</div>
 
 </div>
 </div>
