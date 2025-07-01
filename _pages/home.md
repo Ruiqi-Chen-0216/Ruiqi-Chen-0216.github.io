@@ -31,6 +31,24 @@ My research interests lie primarily at the intersection of Human-Computer Intera
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2025</div><img src='images/UIST25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## DIAM: Drone-based Indoor Accessibility Mapping
+
+<a href="https://xiasu.github.io/">Xia Su</a>, 
+**Ruiqi Chen**, 
+<a href="https://makeabilitylab.cs.washington.edu/member/richardweiyezhang/">Weiye Zhang</a>, 
+<a href="https://jingweim.github.io/">Jingwei Ma</a>, 
+<a href="https://jonfroehlich.github.io/">Jon E. Froehlich</a>
+
+*ACM Symposium on User Interface Software and Technology* (**UIST 2024**) 
+
+<a href="https://dl.acm.org/doi/10.1145/3672539.3686782">Paper</a> |
+<a href="https://makeabilitylab.cs.washington.edu/project/diam/">Website</a>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/NSZT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
