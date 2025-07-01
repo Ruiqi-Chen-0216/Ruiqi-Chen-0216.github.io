@@ -8,6 +8,45 @@ layout: default
 
 # 📝 Publications 
 
+(<sup>*</sup>Equal contribution)
+
+<!--
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2025</div><img src='images/UIST25.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## FlyOnlyOnce: 3D Drone-based Indoor AI Mapping System with Only Once Flying
+
+<a href="https://xiasu.github.io/"><em>Xia Su</em></a><sup>*</sup>, 
+<strong><em>Ruiqi Chen</em></strong><sup>*</sup>, 
+<a href="https://jingweim.github.io/">Jingwei Ma</a>, 
+<a href="https://www.chu-li.me/">Chu Li</a>, 
+<a href="https://jonfroehlich.github.io/">Jon E. Froehlich</a>  
+
+*ACM Symposium on User Interface Software and Technology* (**UIST 2025**) 
+
+Paper is coming soon
+
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2025</div><img src='images/UIST25.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## CreA11y: A Dataset for Evaluating GAI Slide Design Deficiencies with Large Language Model
+
+<a href="https://zhuohaozhang.com/">Zhuohao Zhang</a>, 
+**Ruiqi Chen**, 
+<a href="https://jszh.github.io/">Mingyuan Zhong</a>, 
+<a href="https://faculty.washington.edu/wobbrock/">Jacob O. Wobbrock</a>, 
+
+*ACM Symposium on User Interface Software and Technology* (**UIST 2025**) 
+
+Paper is coming soon
+</div>
+</div>
+-->
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/NSZT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -22,24 +61,6 @@ layout: default
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2024</div><img src='images/DIAM.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## DIAM: Drone-based Indoor Accessibility Mapping
-
-<a href="https://xiasu.github.io/">Xia Su</a>, 
-**Ruiqi Chen**, 
-<a href="https://makeabilitylab.cs.washington.edu/member/richardweiyezhang/">Weiye Zhang</a>, 
-<a href="https://jingweim.github.io/">Jingwei Ma</a>, 
-<a href="https://jonfroehlich.github.io/">Jon E. Froehlich</a>
-
-*ACM Symposium on User Interface Software and Technology* (**UIST 2024**) 
-
-<a href="https://dl.acm.org/doi/10.1145/3672539.3686782">Paper</a> |
-<a href="https://makeabilitylab.cs.washington.edu/project/diam/">Website</a>
-</div>
-</div>
-
 
 <!-- - [**WACV 2025**] What's Happening" - A Human-centered Multimodal Interpreter Explaining the Actions of Autonomous Vehicles, (camera-ready version coming soon) -->
 
@@ -49,11 +70,13 @@ layout: default
   [Keyi Zeng](https://arkxlab.github.io/profile/keyi.html#), [Jingyang Lin](https://orcid.org/0009-0000-1832-6381), **Ruiqi Chen**, [RAY LC](https://raylc.org/), [Pan Hui](https://panhui.people.ust.hk/index.html), [Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en)  
   *ACM CHI Conference on Human Factors in Computing Systems* (**CHI2025**) [[Paper]](https://doi.org/10.1145/3706599.3719753)
 
+- ### DIAM: Drone-based Indoor Accessibility Mapping  
+  [Xia Su](https://xiasu.github.io/), **Ruiqi Chen**, [Weiye Zhang](https://makeabilitylab.cs.washington.edu/member/richardweiyezhang/), [Jingwei Ma](https://jingweim.github.io/), [Jon E. Froehlich](https://jonfroehlich.github.io/)  
+  *ACM Symposium on User Interface Software and Technology* (**UIST 2024**) [[Paper]](https://dl.acm.org/doi/10.1145/3672539.3686782) | [[Website]](https://makeabilitylab.cs.washington.edu/project/diam/)
 
 - ### Design and Evaluation of a VR Therapy for Patients with Mild Cognitive Impairment and Dementia: Perspectives from Patients and Stakeholders  
   **Ruiqi Chen**, [Shuhe Wang](https://www.linkedin.com/in/shuhe-wang-2455b7313/), [Xuhai Xu](https://orsonxu.com/), Lan Wei, [Yuling Sun](https://www.yulingsun.net/), [Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en)  
   *IEEE Conference on Virtual Reality and 3D User Interfaces* (**IEEEVR2023**) [[Paper]](https://ieeexplore.ieee.org/document/10108617/)
-
 
 - ### Exploring Designers' Perceptions and Practices of Collaborating with Generative AI as a Co-creative Agent in a Multi-stakeholder Design Process: Take the Domain of Avatar Design as an Example  
   [Qingyang He](https://qingyanghe.com/), [Weicheng Zheng](https://orcid.org/0009-0002-2550-8823), [Hanxi Bao](https://orcid.org/0009-0004-4014-2908), **Ruiqi Chen**, [Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en)  
@@ -61,17 +84,16 @@ layout: default
 
 
 
-
 **About Manuscripts**: 
 
 There are 3 projects currently ongoing:
-1. DocLLM: Agentic Query and Human-Aligned Evaluation for Complex Document-LLM Understanding
+1. DocLLM: Agentic Query and Human-Aligned Evaluation for Complex Document-LLM Understanding (advised by Prof. Aditya Parameswaran)
 2. A11yBLV: Making GAI Creativity Accessible to Blind and Low-Vision Users (advised by Prof. Jacob O. Wobbrock)
 3. RISSHAI: Room Intelligence and Safety Scanning with Human-AI Collaboration System (advised by Jon E. Froehlich)
 
 and 5 projects are under submission & review: 
-1. FlyOnlyOnce: 3D Drone-based Indoor AI Mapping System with Only Once Flying (Under Revison)
-2. CreA11y: A Dataset for Evaluating GAI Creativity with LLMs for Blind and Low-Vision Users (Under Revison)
+1. FlyOnlyOnce: 3D Drone-based Indoor AI Mapping System with Only Once Flying (Conditional Accepted)
+2. CreA11y: A Dataset for Evaluating GAI Slide Design Deficiencies with Large Language Model (Conditional Accepted)
 3. Designing AI-Powered Reminiscence Interventions for Dementia: Exploring Personalization, Professional Support, and Collaboration (Under Review)
 4. CreationBlends Reality: Enhancing Users' Socio-spatial Perceptions through Embodied Gestural Interactions in a Co-creative AR Environment (Under Review)
 5. Revitalizing Public Spaces with Augmented Reality Art at Common Space (Under Revison)
