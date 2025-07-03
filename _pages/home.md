@@ -57,7 +57,7 @@ Conditionally Accepted | Paper is coming soon
 <a href="https://zhuohaozhang.com/">Zhuohao Zhang</a>, 
 **Ruiqi Chen**, 
 <a href="https://jszh.github.io/">Mingyuan Zhong</a>, 
-<a href="https://faculty.washington.edu/wobbrock/">Jacob O. Wobbrock</a>, 
+<a href="https://faculty.washington.edu/wobbrock/">Jacob O. Wobbrock</a>
 
 *ACM Symposium on User Interface Software and Technology* (**UIST 2025**) 
 
