@@ -10,7 +10,7 @@ layout: default
 
 (<sup>*</sup>Equal contribution)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2025</div><img src='images/UIST25.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Anon</div><img src='images/Arxiv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## FlyOnlyOnce: 3D Drone-based Indoor AI Mapping System with Only Once Flying
@@ -21,15 +21,14 @@ layout: default
 <a href="https://www.chu-li.me/">Chu Li</a>, 
 <a href="https://jonfroehlich.github.io/">Jon E. Froehlich</a>  
 
-*ACM Symposium on User Interface Software and Technology* (**UIST 2025**) 
+<!-- *ACM Symposium on User Interface Software and Technology* (**UIST 2025**) -->
 
-Conditionally Accepted | Paper is coming soon
-
+<div>Conditionally Accepted | Paper is coming soon</div>
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2025</div><img src='images/UIST25.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Anon</div><img src='images/Arxiv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## CreA11y: A Dataset for Evaluating GAI Creativity Design Deficiencies with Large Language Model
@@ -37,11 +36,11 @@ Conditionally Accepted | Paper is coming soon
 <a href="https://zhuohaozhang.com/">Zhuohao Zhang</a>, 
 **Ruiqi Chen**, 
 <a href="https://jszh.github.io/">Mingyuan Zhong</a>, 
-<a href="https://faculty.washington.edu/wobbrock/">Jacob O. Wobbrock</a>, 
+<a href="https://faculty.washington.edu/wobbrock/">Jacob O. Wobbrock</a>
 
-*ACM Symposium on User Interface Software and Technology* (**UIST 2025**) 
+<!-- *ACM Symposium on User Interface Software and Technology* (**UIST 2025**) -->
 
-Conditionally Accepted | Paper is coming soon
+<div>Conditionally Accepted | Paper is coming soon</div>
 </div>
 </div>
 
