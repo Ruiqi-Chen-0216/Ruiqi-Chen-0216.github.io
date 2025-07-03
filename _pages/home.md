@@ -60,7 +60,7 @@ My research interests lie primarily at the intersection of Human-Computer Intera
 <a href="https://jszh.github.io/">Mingyuan Zhong</a>, 
 <a href="https://faculty.washington.edu/wobbrock/">Jacob O. Wobbrock</a>
 
-*ACM Symposium on User Interface Software and Technology* (**UIST 2025**) 
+<!-- *ACM Symposium on User Interface Software and Technology* (**UIST 2025**) -->
 
 Conditionally Accepted | Paper is coming soon
 </div>
