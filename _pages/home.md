@@ -32,7 +32,7 @@ My research interests lie primarily at the intersection of Human-Computer Intera
 # 📝 Publications 
 (<sup>*</sup>Equal contribution)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Anon</div><img src='images/Arxiv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Anon</div><img src='images/ArXiv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## FlyOnlyOnce: 3D Drone-based Indoor AI Mapping System with Only Once Flying
@@ -50,7 +50,7 @@ My research interests lie primarily at the intersection of Human-Computer Intera
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Anon</div><img src='images/Arxiv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Anon</div><img src='images/ArXiv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## CreA11y: A Dataset for Evaluating GAI Creativity Design Deficiencies with Large Language Model
