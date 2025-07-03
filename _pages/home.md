@@ -32,7 +32,6 @@ My research interests lie primarily at the intersection of Human-Computer Intera
 # 📝 Publications 
 (<sup>*</sup>Equal contribution)
 
-<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2025</div><img src='images/UIST25.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -46,7 +45,7 @@ My research interests lie primarily at the intersection of Human-Computer Intera
 
 *ACM Symposium on User Interface Software and Technology* (**UIST 2025**) 
 
-Paper is coming soon
+Conditionally Accepted | Paper is coming soon
 
 
 </div>
@@ -55,7 +54,7 @@ Paper is coming soon
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2025</div><img src='images/UIST25.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## CreA11y: A Dataset for Evaluating GAI Slide Design Deficiencies with Large Language Model
+## CreA11y: A Dataset for Evaluating GAI Creativity Design Deficiencies with Large Language Model
 
 <a href="https://zhuohaozhang.com/">Zhuohao Zhang</a>, 
 **Ruiqi Chen**, 
@@ -64,10 +63,9 @@ Paper is coming soon
 
 *ACM Symposium on User Interface Software and Technology* (**UIST 2025**) 
 
-Paper is coming soon
+Conditionally Accepted | Paper is coming soon
 </div>
 </div>
--->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/NSZT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -113,12 +111,10 @@ There are 3 projects currently ongoing:
 2. A11yBLV: Making GAI Creativity Accessible to Blind and Low-Vision Users (advised by Prof. Jacob O. Wobbrock)
 3. RISSHAI: Room Intelligence and Safety Scanning with Human-AI Collaboration System (advised by Jon E. Froehlich)
 
-and 5 projects are under submission & review: 
-1. FlyOnlyOnce: 3D Drone-based Indoor AI Mapping System with Only Once Flying (Conditional Accepted)
-2. CreA11y: A Dataset for Evaluating GAI Slide Design Deficiencies with Large Language Model (Conditional Accepted)
-3. Designing AI-Powered Reminiscence Interventions for Dementia: Exploring Personalization, Professional Support, and Collaboration (Under Review)
-4. CreationBlends Reality: Enhancing Users' Socio-spatial Perceptions through Embodied Gestural Interactions in a Co-creative AR Environment (Under Review)
-5. Revitalizing Public Spaces with Augmented Reality Art at Common Space (Under Revison)
+and 3 projects are under submission & review: 
+1. Designing AI-Powered Reminiscence Interventions for Dementia: Exploring Personalization, Professional Support, and Collaboration (Under Review)
+2. CreationBlends Reality: Enhancing Users' Socio-spatial Perceptions through Embodied Gestural Interactions in a Co-creative AR Environment (Under Review)
+3. Revitalizing Public Spaces with Augmented Reality Art at Common Space (Under Revison)
 
 
 
