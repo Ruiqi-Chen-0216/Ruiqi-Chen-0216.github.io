@@ -46,8 +46,6 @@ My research interests lie primarily at the intersection of Human-Computer Intera
 *ACM Symposium on User Interface Software and Technology* (**UIST 2025**) 
 
 Conditionally Accepted | Paper is coming soon
-
-
 </div>
 </div>
 
