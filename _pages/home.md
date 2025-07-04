@@ -161,4 +161,4 @@ and 3 projects are under submission & review:
 - *2021.06 - 2021.08*, Software Engineering Process Group Intern, China Unicom Smart Connection Technology, China. -->
 
 # 📧 Contact Me
-- If you have a research project related to Human-AI, especially on GAI & HAI creativity, and are looking for a collaborator proficient in AI algorithms, please feel free to contact me!
+- If you have a research project related to Human-AI, especially on GAI & HAI system, and are looking for a collaborator proficient in AI algorithms, please feel free to contact me!
