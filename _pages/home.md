@@ -30,7 +30,7 @@ My research interests lie primarily at the intersection of Human-Computer Intera
 - *2024.05*: &nbsp;🎉🎉 I joined the Makeability Lab directed by Prof. Jon E. Froehlich at University of Washington, and began my research journey at University of Washington! 
 
 # 📝 Publications 
-(<sup>*</sup>Equal contribution)
+(<sup>*</sup> means Equal Contribution)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Anon</div><img src='images/ArXiv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
