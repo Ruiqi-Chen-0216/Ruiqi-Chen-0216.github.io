@@ -53,7 +53,7 @@ layout: default
 
 *ACM CHI Conference on Human Factors in Computing Systems* (**CHI2025**)
 
-<div>[Paper](https://dl.acm.org/doi/10.1145/3706598.3714303) | [Project](https://github.com/Ruiqi-Chen-0216/ImmersiveBiography)</div>
+[Paper](https://dl.acm.org/doi/10.1145/3706598.3714303) \| [Project](https://github.com/Ruiqi-Chen-0216/ImmersiveBiography)
 
 </div>
 </div>
