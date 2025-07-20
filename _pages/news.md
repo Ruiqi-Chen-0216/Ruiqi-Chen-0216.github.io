@@ -7,6 +7,7 @@ layout: default
 ---
 
 # 🔥 News
+- *2025.07*: &nbsp;🎉🎉 Two human-AI research papers completed during my time at UW have been accepted.
 - *2025.04*: &nbsp;🎉🎉 I joined the EPIC Data Lab and supervised by Prof. Aditya Parameswaran at University of California, Berkeley, focusing on LLM system development. 
 - *2025.02*: &nbsp;🎉🎉 Two of my undergraduate research works are accepted by CHI 2025!
 - *2024.09*: &nbsp;🎉🎉 I joined the ACE Lab directed by Prof. Jacob O. Wobbrock at University of Washington, focusing on AI for accessibility and creative task!
