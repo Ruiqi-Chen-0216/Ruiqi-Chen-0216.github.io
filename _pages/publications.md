@@ -10,7 +10,7 @@ layout: default
 
 (<sup>*</sup>Equal contribution)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Anon</div><img src='images/ArXiv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2025</div><img src='images/ArXiv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## FlyOnlyOnce: 3D Drone-based Indoor AI Mapping System with Only Once Flying
@@ -21,14 +21,14 @@ layout: default
 <a href="https://www.chu-li.me/">Chu Li</a>, 
 <a href="https://jonfroehlich.github.io/">Jon E. Froehlich</a>  
 
-<!-- *ACM Symposium on User Interface Software and Technology* (**UIST 2025**) -->
+*ACM Symposium on User Interface Software and Technology* (**UIST 2025**) 
 
-<div>Conditionally Accepted | Paper is coming soon</div>
+<div>Paper is coming soon</div>
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Anon</div><img src='images/ArXiv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2025</div><img src='images/ArXiv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## CreA11y: A Dataset for Evaluating GAI Creativity Design Deficiencies with Large Language Model
@@ -38,9 +38,9 @@ layout: default
 <a href="https://jszh.github.io/">Mingyuan Zhong</a>, 
 <a href="https://faculty.washington.edu/wobbrock/">Jacob O. Wobbrock</a>
 
-<!-- *ACM Symposium on User Interface Software and Technology* (**UIST 2025**) -->
+*ACM Symposium on User Interface Software and Technology* (**UIST 2025**) 
 
-<div>Conditionally Accepted | Paper is coming soon</div>
+Paper is coming soon
 </div>
 </div>
 
@@ -58,8 +58,6 @@ layout: default
 </div>
 </div>
 
-
-<!-- - [**WACV 2025**] What's Happening" - A Human-centered Multimodal Interpreter Explaining the Actions of Autonomous Vehicles, (camera-ready version coming soon) -->
 
 <!-- - [**CHI 2025**] GestoBrush: Enhancing Graffiti Artists’ Digital Creation Experience with Embodied AR Interactions, **Ruiqi Chen**, Qingyang He, Hanxi Bao, Jung E. Choi, Xin Tong -->
 
