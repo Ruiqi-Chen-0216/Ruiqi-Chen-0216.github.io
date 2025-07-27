@@ -24,12 +24,16 @@ layout: default
   * Date: May 2024 – Present
   * Contribute to two research project, focusing on HAI system, CV and 3DV.
 
-* [AI & Art for Knowledge & Creativity (ARK) Lab](https://arkxlab.github.io/), Hong Kong University of Science and Technology (GZ)
+* [AI & Art for Knowledge & Creativity Lab](https://arkxlab.github.io/), Hong Kong University of Science and Technology (GZ)
   * Graduate Research Assistant to [Prof. Xin Tong](https://cma.hkust-gz.edu.cn/people/tong-xin/)    
   * Date: June 2024 – September 2024
   * Contribute to one research project, focusing on HCI and accessibility.
 
-* [Human-Computer Interaction (HCI) Lab](https://arkxlab.github.io/), Duke Kunshan University
+* [Human-Computer Interaction Lab](https://arkxlab.github.io/), Duke Kunshan University
   * Undergraduate Research Assistant to [Prof. Xin Tong](https://scholar.google.com/citations?user=XIM08ZwAAAAJ&hl=zh-CN&oi=sra)    
   * Date: March 2022 – June 2024
   * Contribute to five research projects, focusing on HCI, AI, and VR.
+
+
+# 🎖 Teaching, Mentorship and Service
+* Paper reviewer for ACM Conference on Human Factors in Computing Systems (CHI), 2025

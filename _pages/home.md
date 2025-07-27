@@ -143,7 +143,7 @@ and 3 projects are under submission & review:
   * Date: May 2024 – Present
   * Contribute to two research project, focusing on HAI system, CV and 3DV.
 
-* [AI & Art for Knowledge & Creativity (ARK) Lab](https://arkxlab.github.io/), Hong Kong University of Science and Technology (GZ)
+* [AI & Art for Knowledge & Creativity Lab](https://arkxlab.github.io/), Hong Kong University of Science and Technology (GZ)
   * Graduate Research Assistant to [Prof. Xin Tong](https://cma.hkust-gz.edu.cn/people/tong-xin/)    
   * Date: June 2024 – September 2024
   * Contribute to one research project, focusing on HCI and accessibility.
