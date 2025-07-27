@@ -148,7 +148,7 @@ and 3 projects are under submission & review:
   * Date: June 2024 – September 2024
   * Contribute to one research project, focusing on HCI and accessibility.
 
-* [Human-Computer Interaction (HCI) Lab](https://arkxlab.github.io/), Duke Kunshan University
+* [Human-Computer Interaction Lab](https://arkxlab.github.io/), Duke Kunshan University
   * Undergraduate Research Assistant to [Prof. Xin Tong](https://scholar.google.com/citations?user=XIM08ZwAAAAJ&hl=zh-CN&oi=sra)    
   * Date: March 2022 – June 2024
   * Contribute to five research projects, focusing on HCI, AI, and VR.
