@@ -40,7 +40,7 @@ layout: default
 
 *ACM Symposium on User Interface Software and Technology* (**UIST 2025**) 
 
-Paper is coming soon
+[Paper (PDF)](papers/slideaudit.pdf) \| [Project GitHub](https://github.com/Ruiqi-Chen-0216/SlideAudit)
 </div>
 </div>
 
