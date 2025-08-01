@@ -63,7 +63,7 @@ My research interests lie primarily at the intersection of Human-Computer Intera
 
 *ACM Symposium on User Interface Software and Technology* (**UIST 2025**) 
 
-Paper is coming soon
+[Paper (PDF)](papers/slideaudit.pdf) \| [Project](https://github.com/Ruiqi-Chen-0216/SlideAudit)
 </div>
 </div>
 
