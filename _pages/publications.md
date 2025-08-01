@@ -28,10 +28,10 @@ layout: default
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2025</div><img src='images/ArXiv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2025</div><img src='images/slideaudit.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## CreA11y: A Dataset for Evaluating GAI Creativity Design Deficiencies with Large Language Model
+## SlideAudit: A Dataset and Taxonomy for Automated Evaluation of Presentation Slides
 
 <a href="https://zhuohaozhang.com/">Zhuohao Zhang</a>, 
 **Ruiqi Chen**, 
