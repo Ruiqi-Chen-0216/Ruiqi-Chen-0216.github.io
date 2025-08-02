@@ -44,7 +44,7 @@ My research interests lie primarily at the intersection of Human-Computer Intera
 <a href="https://www.chu-li.me/">Chu Li</a>, 
 <a href="https://jonfroehlich.github.io/">Jon E. Froehlich</a>  
 
-*ACM Symposium on User Interface Software and Technology* (**UIST 2025**) 
+*ACM Symposium on User Interface Software and Technology* (**UIST2025**) 
 
 <div>Paper is coming soon</div>
 
@@ -61,7 +61,7 @@ My research interests lie primarily at the intersection of Human-Computer Intera
 <a href="https://jszh.github.io/">Mingyuan Zhong</a>, 
 <a href="https://faculty.washington.edu/wobbrock/">Jacob O. Wobbrock</a>
 
-*ACM Symposium on User Interface Software and Technology* (**UIST 2025**) 
+*ACM Symposium on User Interface Software and Technology* (**UIST2025**) 
 
 [Paper (PDF)](papers/slideaudit.pdf) \| [Project](https://github.com/Ruiqi-Chen-0216/SlideAudit)
 </div>
@@ -90,7 +90,7 @@ My research interests lie primarily at the intersection of Human-Computer Intera
 
 - ### DIAM: Drone-based Indoor Accessibility Mapping  
   [Xia Su](https://xiasu.github.io/), **Ruiqi Chen**, [Weiye Zhang](https://makeabilitylab.cs.washington.edu/member/richardweiyezhang/), [Jingwei Ma](https://jingweim.github.io/), [Jon E. Froehlich](https://jonfroehlich.github.io/)  
-  *ACM Symposium on User Interface Software and Technology* (**UIST 2024**) [[Paper]](https://dl.acm.org/doi/10.1145/3672539.3686782) | [[Website]](https://makeabilitylab.cs.washington.edu/project/diam/)
+  *ACM Symposium on User Interface Software and Technology* (**UIST2024**) [[Paper]](https://dl.acm.org/doi/10.1145/3672539.3686782) | [[Website]](https://makeabilitylab.cs.washington.edu/project/diam/)
 
 - ### Design and Evaluation of a VR Therapy for Patients with Mild Cognitive Impairment and Dementia: Perspectives from Patients and Stakeholders  
   **Ruiqi Chen**, [Shuhe Wang](https://www.linkedin.com/in/shuhe-wang-2455b7313/), [Xuhai Xu](https://orsonxu.com/), Lan Wei, [Yuling Sun](https://www.yulingsun.net/), [Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en)  
