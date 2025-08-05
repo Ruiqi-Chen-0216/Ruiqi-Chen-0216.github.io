@@ -84,7 +84,7 @@ layout: default
 There are 3 projects currently ongoing:
 1. DocLLM: Agentic Query and Human-Aligned Evaluation for Complex Document-LLM Understanding (advised by Prof. Aditya Parameswaran)
 2. A11yBLV: Making GAI Creativity Accessible to Blind and Low-Vision Users (advised by Prof. Jacob O. Wobbrock)
-3. RISSHAI: Room Intelligence and Safety Scanning with Human-AI Collaboration System (advised by Jon E. Froehlich)
+3. RSSR-VLM: Human-AI Reasoning for Room Scanning and Safety (advised by Jon E. Froehlich)
 
 and 4 projects are under submission & review: 
 1. The Agent Will Query You Now: Making Data Systems Natively AI-Friendly (Under Review)
