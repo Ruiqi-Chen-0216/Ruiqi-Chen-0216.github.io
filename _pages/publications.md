@@ -44,6 +44,19 @@ layout: default
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Anon</div><img src='images/ArXiv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## Graffiti in Motion: Embodied AR Interactions for Enhanced Digital Graffiti Creation
+
+**Ruiqi Chen**, Qingyang He, Hanxi Bao, Jung E. Choi, [Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en) 
+
+Conditionally Accepted \| Paper will come soon
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/NSZT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
