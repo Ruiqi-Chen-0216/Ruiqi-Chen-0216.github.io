@@ -67,17 +67,6 @@ My research interests lie primarily at the intersection of Human-Computer Intera
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Anon</div><img src='images/ArXiv.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## Graffiti in Motion: Embodied AR Interactions for Enhanced Digital Graffiti Creation
-
-**Ruiqi Chen**, Qingyang He, Hanxi Bao, Jung E. Choi, [Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en) 
-
-Conditionally Accepted \| Paper will come soon
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/NSZT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -95,7 +84,9 @@ Conditionally Accepted \| Paper will come soon
 
 
 
-<!-- - [**CHI 2025**] GestoBrush: Enhancing Graffiti Artists’ Digital Creation Experience with Embodied AR Interactions, **Ruiqi Chen**, Qingyang He, Hanxi Bao, Jung E. Choi, Xin Tong -->
+- ### Graffiti in Motion: Embodied AR Interactions for Enhanced Digital Graffiti Creation    
+  **Ruiqi Chen**, Qingyang He, Hanxi Bao, Jung E. Choi, [Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en)   
+  Conditionally Accepted \| Paper will come soon
 
 - ### Parental Perceptions of Children's d/Deaf Identity Shaping Technology Use: A Qualitative Study on Communication Technologies in Mixed-hearing Families  
   [Keyi Zeng](https://arkxlab.github.io/profile/keyi.html#), [Jingyang Lin](https://orcid.org/0009-0000-1832-6381), **Ruiqi Chen**, [RAY LC](https://raylc.org/), [Pan Hui](https://panhui.people.ust.hk/index.html), [Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en)  
