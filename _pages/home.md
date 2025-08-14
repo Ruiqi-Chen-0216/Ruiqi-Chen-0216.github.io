@@ -67,7 +67,7 @@ My research interests lie primarily at the intersection of Human-Computer Intera
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Anon</div><img src='ArXiv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Anon</div><img src='images/ArXiv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## Graffiti in Motion: Embodied AR Interactions for Enhanced Digital Graffiti Creation
