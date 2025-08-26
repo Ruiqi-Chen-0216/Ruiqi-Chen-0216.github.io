@@ -13,7 +13,7 @@ layout: default
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2025</div><img src='images/ArXiv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## FlyOnlyOnce: 3D Drone-based Indoor AI Mapping System with Only Once Flying
+## FlyMeThrough: Human-AI Collaborative 3D Indoor Mapping with Commodity Drones
 
 <a href="https://xiasu.github.io/"><em>Xia Su</em></a><sup>*</sup>, 
 <strong><em>Ruiqi Chen</em></strong><sup>*</sup>, 
