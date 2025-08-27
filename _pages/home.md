@@ -33,7 +33,7 @@ My research interests lie primarily at the intersection of Human-Computer Intera
 # 📝 Publications 
 ( **<sup>*</sup>** means Equal Contribution)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2025</div><img src='images/ArXiv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2025</div><img src='images/FlyMeThrough.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## FlyMeThrough: Human-AI Collaborative 3D Indoor Mapping with Commodity Drones
