@@ -46,7 +46,7 @@ My research interests lie primarily at the intersection of Human-Computer Intera
 
 *ACM Symposium on User Interface Software and Technology* (**UIST2025**) 
 
-<div>Paper is coming soon</div>
+[Paper](https://makeabilitylab.cs.washington.edu/media/publications/Su_FlymethroughHumanAiCollaborative3DIndoorMappingWithCommodityDrones_UIST2025.pdf) \| [Project](https://github.com/makeabilitylab/FlyMeThrough) \| [Website](https://makeabilitylab.cs.washington.edu/project/flymethrough/)
 
 </div>
 </div>
