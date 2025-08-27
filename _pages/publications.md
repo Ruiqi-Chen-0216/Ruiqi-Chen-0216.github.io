@@ -10,7 +10,7 @@ layout: default
 
 (<sup>*</sup>Equal contribution)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2025</div><img src='images/ArXiv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2025</div><img src='images/FlyMeThrough.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## FlyMeThrough: Human-AI Collaborative 3D Indoor Mapping with Commodity Drones
@@ -23,7 +23,7 @@ layout: default
 
 *ACM Symposium on User Interface Software and Technology* (**UIST2025**) 
 
-<div>Paper is coming soon</div>
+[Paper](https://makeabilitylab.cs.washington.edu/media/publications/Su_FlymethroughHumanAiCollaborative3DIndoorMappingWithCommodityDrones_UIST2025.pdf) \| [Project](https://github.com/makeabilitylab/FlyMeThrough) \| [Website](https://makeabilitylab.cs.washington.edu/project/flymethrough/)
 
 </div>
 </div>
