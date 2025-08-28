@@ -23,7 +23,7 @@ layout: default
 
 *ACM Symposium on User Interface Software and Technology* (**UIST2025**) 
 
-[Paper](papers/flymethrough.pdf) \| [Project](https://github.com/makeabilitylab/FlyMeThrough) \| [Website](https://makeabilitylab.cs.washington.edu/project/flymethrough/)
+[Paper (PDF)](papers/flymethrough.pdf) \| [Project](https://github.com/makeabilitylab/FlyMeThrough) \| [Website](https://makeabilitylab.cs.washington.edu/project/flymethrough/)
 
 </div>
 </div>
