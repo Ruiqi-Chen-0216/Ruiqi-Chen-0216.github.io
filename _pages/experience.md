@@ -37,3 +37,4 @@ layout: default
 
 # 🎖 Teaching, Mentorship and Service
 * Paper reviewer for ACM Conference on Human Factors in Computing Systems (CHI), 2025
+* Student volunteer for ACM Symposium on User Interface Software and Technology (UIST), 2025
