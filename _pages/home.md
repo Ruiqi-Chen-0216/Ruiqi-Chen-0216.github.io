@@ -119,6 +119,7 @@ and 3 projects are under submission & review:
 
 # 🎖 Teaching, Mentorship and Service
 * Paper reviewer for ACM Conference on Human Factors in Computing Systems (CHI), 2025
+* Student volunteer for ACM Symposium on User Interface Software and Technology (UIST), 2025
 <!--# 🎖 Honors and Awards-->
 <!--- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 <!--- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
