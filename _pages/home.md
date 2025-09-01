@@ -67,6 +67,17 @@ My research interests lie primarily at the intersection of Human-Computer Intera
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/ArXiv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## The Agent Will Query You Now: Making Data Systems Natively AI-Friendly
+
+[Shu Liu](https://scholar.google.com/citations?hl=en&user=DB50KvcAAAAJ&view_op=list_works&sortby=pubdate), [Soujanya Ponnapalli](https://soujanyaponnapalli.github.io/), [Shreya Shankar](https://www.sh-reya.com/), [Sepanta Zeighami](https://szeighami.github.io/), [Alan Zhu](https://az1326.github.io/), [Shubham Agarwal](https://skejriwal44.github.io/), **Ruiqi Chen**, [Samion Suwito](https://samion.org/), [Shuo Yuan](https://www.linkedin.com/in/shuo-yuan-395a7b281/), [Ion Stoica](https://people.eecs.berkeley.edu/~istoica/), [Matei Zaharia](https://people.eecs.berkeley.edu/~matei/), [Alvin Cheung](https://people.eecs.berkeley.edu/~akcheung/), [Natacha Crooks](https://nacrooks.github.io/), [Joseph E. Gonzalez](https://people.eecs.berkeley.edu/~jegonzal/), [Aditya G. Parameswaran](https://people.eecs.berkeley.edu/~adityagp/)
+
+
+Paper is coming soon
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/NSZT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -112,10 +123,9 @@ There are 3 projects currently ongoing:
 2. A11yBLV: Making GAI Creativity Accessible to Blind and Low-Vision Users (advised by Prof. Jacob O. Wobbrock)
 3. RSSR-VLM: Human-AI Reasoning for Room Scanning and Safety (advised by Prof. Jon E. Froehlich)
 
-and 3 projects are under submission & review: 
-1. The Agent Will Query You Now: Making Data Systems Natively AI-Friendly (Under Review)
-2. Designing AI-Powered Reminiscence Interventions for Dementia: Exploring Personalization, Professional Support, and Collaboration (Under Review)
-3. Revitalizing Public Spaces with Augmented Reality Art at Common Space (Under Revison)
+and 2 projects are under submission & review: 
+1. Designing AI-Powered Reminiscence Interventions for Dementia: Exploring Personalization, Professional Support, and Collaboration (Under Review)
+2. Revitalizing Public Spaces with Augmented Reality Art at Common Space (Under Revison)
 
 # 🎖 Teaching, Mentorship and Service
 * Paper reviewer for ACM Conference on Human Factors in Computing Systems (CHI), 2025
