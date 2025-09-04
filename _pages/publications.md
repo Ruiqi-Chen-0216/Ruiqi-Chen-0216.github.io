@@ -71,7 +71,6 @@ layout: default
 </div>
 
 
-<!-- - [**CHI 2025**] GestoBrush: Enhancing Graffiti Artists’ Digital Creation Experience with Embodied AR Interactions, **Ruiqi Chen**, Qingyang He, Hanxi Bao, Jung E. Choi, Xin Tong -->
 
 - ### Graffiti in Motion: Embodied AR Interactions for Enhanced Digital Graffiti Creation    
   **Ruiqi Chen**, Qingyang He, Hanxi Bao, Jung E. Choi, [Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en)   
