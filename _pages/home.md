@@ -145,7 +145,7 @@ and 2 projects are under submission & review:
 
 * [EPIC Data Lab](https://epic.berkeley.edu/), University of California, Berkeley
   * Graduate Research Assistant to [Prof. Aditya Parameswaran](https://people.eecs.berkeley.edu/~adityagp/) 
-  * Date: April 2025 – Present
+  * Date: April 2025 – September 2025
   * Contribute to two research project, focusing on LLM system and semantic data processing in HAI.
 
 * [ACE Lab](https://depts.washington.edu/acelab/index.html), University of Washington
