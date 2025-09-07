@@ -96,7 +96,7 @@ My research interests lie primarily at the intersection of Human-Computer Intera
 
 
 - ### Graffiti in Motion: Embodied AR Interactions for Enhanced Digital Graffiti Creation    
-  **Ruiqi Chen**, Qingyang He, Hanxi Bao, Jung E. Choi, [Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en)   
+  **Ruiqi Chen**, [Qingyang He](https://qingyanghe.com/), Hanxi Bao, Jung E. Choi, [Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en)   
   Conditionally Accepted \| Paper will come soon
 
 - ### Parental Perceptions of Children's d/Deaf Identity Shaping Technology Use: A Qualitative Study on Communication Technologies in Mixed-hearing Families  
