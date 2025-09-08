@@ -20,3 +20,8 @@ My research interests lie primarily at the intersection of Human-Computer Intera
 - *2025.02*: &nbsp;🎉🎉 Two of my undergraduate research works have been accepted by CHI 2025!
 - *2024.09*: &nbsp;🎉🎉 I joined the ACE Lab directed by Prof. Jacob O. Wobbrock at University of Washington, focusing on AI for accessibility and creative task!
 - *2024.05*: &nbsp;🎉🎉 I joined the Makeability Lab directed by Prof. Jon E. Froehlich at University of Washington, and began my research journey at University of Washington! 
+
+# 📖 Educations
+* M.S. in Human Centered Design & Engineering, University of Washington, 2024 - 2026
+* B.S. in Interdisciplinary Studies of Data Science, Duke University, 2020 - 2024
+* B.S. in Data Science, Duke Kunshan University, 2020 - 2024
