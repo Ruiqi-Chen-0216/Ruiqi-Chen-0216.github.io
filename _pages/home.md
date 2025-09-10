@@ -97,7 +97,7 @@ My research interests lie primarily at the intersection of Human-Computer Intera
 
 
 
-- ### Graffiti in Motion: Embodied AR Interactions for Enhanced Digital Graffiti Creation    
+- ### GestoBrush: Facilitating Graffiti Artists' Digital Creation Experiences through Embodied AR Interactions   
   **Ruiqi Chen**, [Qingyang He](https://qingyanghe.com/), Hanxi Bao, Jung E. Choi, [Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en)   
   Conditionally Accepted \| [[Paper]](https://arxiv.org/abs/2509.05619)
 
