@@ -125,9 +125,10 @@ There are 3 projects currently ongoing:
 2. A11yBLV: Making GAI Creativity Accessible to Blind and Low-Vision Users (advised by Prof. Jacob O. Wobbrock)
 3. RSSR-VLM: Human-AI Reasoning for Room Scanning and Safety (advised by Prof. Jon E. Froehlich)
 
-and 2 projects are under submission & review: 
+and 3 projects are under submission & review: 
 1. Designing AI-Powered Reminiscence Interventions for Dementia: Exploring Personalization, Professional Support, and Collaboration (Under Review)
 2. Revitalizing Public Spaces with Augmented Reality Art at Common Space (Under Revison)
+3. Negotiating Identity and Value in the Age of Generative AI: Insights from a Five-Year Study of Digital Painters
 
 # 🎖 Teaching, Mentorship and Service
 * Paper reviewer 
