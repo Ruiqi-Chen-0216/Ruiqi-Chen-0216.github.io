@@ -76,7 +76,7 @@ layout: default
 
 - ### GestoBrush: Facilitating Graffiti Artists' Digital Creation Experiences through Embodied AR Interactions  
   **Ruiqi Chen**, [Qingyang He](https://qingyanghe.com/), Hanxi Bao, Jung E. Choi, [Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en)   
-  Conditionally Accepted \| Paper will come soon
+  *International Symposium on Visual Information Communication and Interaction* (**VINCI2025**) \| Paper will come soon
 
 - ### Parental Perceptions of Children's d/Deaf Identity Shaping Technology Use: A Qualitative Study on Communication Technologies in Mixed-hearing Families  
   [Keyi Zeng](https://arkxlab.github.io/profile/keyi.html#), Jingyang Lin, **Ruiqi Chen**, [RAY LC](https://raylc.org/), [Pan Hui](https://panhui.people.ust.hk/index.html), [Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en)  
