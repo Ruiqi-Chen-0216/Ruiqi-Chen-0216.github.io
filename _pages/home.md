@@ -33,6 +33,20 @@ My research interests lie primarily at the intersection of Human-Computer Intera
 # 📝 Publications 
 ( **<sup>*</sup>** means Equal Contribution)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/ArXiv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## Supporting Our AI Overlords: Redesigning Data Systems to be Agent-First
+
+[Shu Liu](https://scholar.google.com/citations?hl=en&user=DB50KvcAAAAJ&view_op=list_works&sortby=pubdate), [Soujanya Ponnapalli](https://soujanyaponnapalli.github.io/), [Shreya Shankar](https://www.sh-reya.com/), [Sepanta Zeighami](https://szeighami.github.io/), [Alan Zhu](https://az1326.github.io/), [Shubham Agarwal](https://skejriwal44.github.io/), **Ruiqi Chen**, [Samion Suwito](https://samion.org/), [Shuo Yuan](https://www.linkedin.com/in/shuo-yuan-395a7b281/), [Ion Stoica](https://people.eecs.berkeley.edu/~istoica/), [Matei Zaharia](https://people.eecs.berkeley.edu/~matei/), [Alvin Cheung](https://people.eecs.berkeley.edu/~akcheung/), [Natacha Crooks](https://nacrooks.github.io/), [Joseph E. Gonzalez](https://people.eecs.berkeley.edu/~jegonzal/), [Aditya G. Parameswaran](https://people.eecs.berkeley.edu/~adityagp/)
+
+*The Conference on Innovative Data Systems Research* (**CIDR2026**)
+
+[Paper](https://arxiv.org/abs/2509.00997)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2025</div><img src='images/FlyMeThrough.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -67,19 +81,6 @@ My research interests lie primarily at the intersection of Human-Computer Intera
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/ArXiv.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## Supporting Our AI Overlords: Redesigning Data Systems to be Agent-First
-
-[Shu Liu](https://scholar.google.com/citations?hl=en&user=DB50KvcAAAAJ&view_op=list_works&sortby=pubdate), [Soujanya Ponnapalli](https://soujanyaponnapalli.github.io/), [Shreya Shankar](https://www.sh-reya.com/), [Sepanta Zeighami](https://szeighami.github.io/), [Alan Zhu](https://az1326.github.io/), [Shubham Agarwal](https://skejriwal44.github.io/), **Ruiqi Chen**, [Samion Suwito](https://samion.org/), [Shuo Yuan](https://www.linkedin.com/in/shuo-yuan-395a7b281/), [Ion Stoica](https://people.eecs.berkeley.edu/~istoica/), [Matei Zaharia](https://people.eecs.berkeley.edu/~matei/), [Alvin Cheung](https://people.eecs.berkeley.edu/~akcheung/), [Natacha Crooks](https://nacrooks.github.io/), [Joseph E. Gonzalez](https://people.eecs.berkeley.edu/~jegonzal/), [Aditya G. Parameswaran](https://people.eecs.berkeley.edu/~adityagp/)
-
-*The Conference on Innovative Data Systems Research* (**CIDR2026**)
-
-[Paper](https://arxiv.org/abs/2509.00997)
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/NSZT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
