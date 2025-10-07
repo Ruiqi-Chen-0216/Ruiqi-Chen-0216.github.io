@@ -33,7 +33,7 @@ My research interests lie primarily at the intersection of Human-Computer Intera
 # 📝 Publications 
 ( **<sup>*</sup>** means Equal Contribution)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/ArXiv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIDR 2026</div><img src='images/ArXiv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## Supporting Our AI Overlords: Redesigning Data Systems to be Agent-First
