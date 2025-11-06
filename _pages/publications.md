@@ -25,7 +25,6 @@ Paper is coming soon
 </div>
 
 
-Xia Su*, Ruiqi Chen*, Benlin Liu, Jingwei Ma, Zonglin Di, Jon E. Froehlich
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIDR 2026</div><img src='images/ArXiv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
