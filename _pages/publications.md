@@ -8,7 +8,7 @@ layout: default
 
 # 📝 Publications 
 
-(<sup>*</sup>Equal contribution)
+( **<sup>*</sup>** means Equal Contribution)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pre-print</div><img src='images/ArXiv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
