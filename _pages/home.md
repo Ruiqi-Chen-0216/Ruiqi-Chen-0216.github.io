@@ -66,8 +66,8 @@ Paper is coming soon
 
 ## FlyMeThrough: Human-AI Collaborative 3D Indoor Mapping with Commodity Drones
 
-<a href="https://xiasu.github.io/"><em>Xia Su</em></a><sup>*</sup>, 
-<strong><em>Ruiqi Chen</em></strong><sup>*</sup>, 
+<a href="https://xiasu.github.io/">Xia Su</a><sup>*</sup>, 
+<strong>Ruiqi Chen</strong><sup>*</sup>, 
 <a href="https://jingweim.github.io/">Jingwei Ma</a>, 
 <a href="https://www.chu-li.me/">Chu Li</a>, 
 <a href="https://jonfroehlich.github.io/">Jon E. Froehlich</a>  
