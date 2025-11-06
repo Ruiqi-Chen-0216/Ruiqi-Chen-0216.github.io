@@ -10,6 +10,23 @@ layout: default
 
 (<sup>*</sup>Equal contribution)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pre-print</div><img src='images/ArXiv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## CapNav: Benchmarking Vision Language Models on Capability-conditioned Indoor Navigation
+
+[Xia Su](https://xiasu.github.io/)<sup>*</sup>, **Ruiqi Chen**<sup>*</sup>, [Benlin Liu](https://liubl1217.github.io/), [Jingwei Ma](https://jingweim.github.io/), [Zonglin Di](https://scholar.google.com/citations?user=5lFDxsMAAAAJ&hl=en), [Ranjay Krishna](https://ranjaykrishna.com/index.html), [Jon E. Froehlich](https://jonfroehlich.github.io/)
+
+
+Paper is coming soon
+
+
+</div>
+</div>
+
+
+Xia Su*, Ruiqi Chen*, Benlin Liu, Jingwei Ma, Zonglin Di, Jon E. Froehlich
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIDR 2026</div><img src='images/ArXiv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
