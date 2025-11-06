@@ -15,7 +15,7 @@ layout: default
 
 ## CapNav: Benchmarking Vision Language Models on Capability-conditioned Indoor Navigation
 
-[*Xia Su*](https://xiasu.github.io/)<sup>*</sup>, ***Ruiqi Chen***<sup>*</sup>, [Benlin Liu](https://liubl1217.github.io/), [Jingwei Ma](https://jingweim.github.io/), [Zonglin Di](https://scholar.google.com/citations?user=5lFDxsMAAAAJ&hl=en), [Ranjay Krishna](https://ranjaykrishna.com/index.html), [Jon E. Froehlich](https://jonfroehlich.github.io/)
+[Xia Su](https://xiasu.github.io/)<sup>*</sup>, **Ruiqi Chen**<sup>*</sup>, [Benlin Liu](https://liubl1217.github.io/), [Jingwei Ma](https://jingweim.github.io/), [Zonglin Di](https://scholar.google.com/citations?user=5lFDxsMAAAAJ&hl=en), [Ranjay Krishna](https://ranjaykrishna.com/index.html), [Jon E. Froehlich](https://jonfroehlich.github.io/)
 
 
 Paper is coming soon
@@ -45,8 +45,8 @@ Paper is coming soon
 
 ## FlyMeThrough: Human-AI Collaborative 3D Indoor Mapping with Commodity Drones
 
-<a href="https://xiasu.github.io/"><em>Xia Su</em></a><sup>*</sup>, 
-<strong><em>Ruiqi Chen</em></strong><sup>*</sup>, 
+<a href="https://xiasu.github.io/">Xia Su</a><sup>*</sup>, 
+<strong>Ruiqi Chen</strong><sup>*</sup>, 
 <a href="https://jingweim.github.io/">Jingwei Ma</a>, 
 <a href="https://www.chu-li.me/">Chu Li</a>, 
 <a href="https://jonfroehlich.github.io/">Jon E. Froehlich</a>  
