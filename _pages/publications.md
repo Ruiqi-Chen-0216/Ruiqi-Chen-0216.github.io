@@ -116,10 +116,9 @@ Paper is coming soon
 
 **About Manuscripts**: 
 
-There are 3 projects currently ongoing:
-1. MulDB-LLM: Agentic Query and Human-Aligned Evaluation for Multiply DBs-LLMs Understanding (advised by Prof. Aditya Parameswaran)
-2. BLV-VLM: Extending Multimodal Design Auditing to Enhance Generative AI Accessibility for Blind and Low-Vision Users. (advised by Prof. Jacob O. Wobbrock)
-3. CapNav-Tune: Fine-Tuning Vision-Language Models for Capability-Aware Indoor Navigation (advised by Prof. Jon E. Froehlich)
+There are several projects currently ongoing:
+1. BLV-VLM: Extending Multimodal Design Auditing to Enhance Generative AI Accessibility for Blind and Low-Vision Users. (advised by Prof. Jacob O. Wobbrock)
+2. CapNav-Tune: Fine-Tuning Vision-Language Models for Capability-Aware Indoor Navigation (advised by Prof. Jon E. Froehlich)
 
 and 2 projects are under submission & review: 
 1. Designing AI-Powered Reminiscence Interventions for Dementia: Exploring Personalization, Professional Support, and Collaboration (Under Revison)
