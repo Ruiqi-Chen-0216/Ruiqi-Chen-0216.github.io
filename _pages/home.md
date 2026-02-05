@@ -24,9 +24,9 @@ My research lies at the intersection of Human–Computer Interaction (HCI) and A
 
 
 # 🔥 News
-- *2025.12*: &nbsp;🎉🎉 My undergraduate research paper ***GestoBrush***, supervised by Prof. Xin Tong, received the 🏆<span style="color:red; font-weight:bold;">Best Paper Award</span> at ACM VINCI 2025!
+- *2025.12*: &nbsp;🎉🎉 My undergraduate research paper ***GestoBrush***, received the 🏆<span style="color:red; font-weight:bold;">Best Paper Award</span> at ACM VINCI 2025!
 - *2025.09*: &nbsp;🎉🎉 My research paper developed at UC Berkeley under the supervision of Prof. Aditya Parameswaran has been accepted to CIDR 2026!
-- *2025.07*: &nbsp;🎉🎉 Two human-AI research papers, ***FlyMeThrough*** and ***SlideAudit***, completed during my time at UW, have been accepted to UIST 2025!
+- *2025.07*: &nbsp;🎉🎉 Two human-AI research papers ***FlyMeThrough*** and ***SlideAudit*** have been accepted to UIST 2025!
 - *2025.04*: &nbsp;🎉🎉 I joined the EPIC Data Lab and supervised by Prof. Aditya Parameswaran at University of California, Berkeley, focusing on LLM system development. 
 - *2025.02*: &nbsp;🎉🎉 Two of my undergraduate research works have been accepted to CHI 2025!
 
