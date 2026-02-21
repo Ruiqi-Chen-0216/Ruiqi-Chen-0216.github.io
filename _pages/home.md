@@ -40,8 +40,10 @@ My research lies at the intersection of Human–Computer Interaction (HCI) and A
 
 [Xia Su](https://xiasu.github.io/)<sup>*</sup>, **Ruiqi Chen**<sup>*</sup>, [Benlin Liu](https://liubl1217.github.io/), [Jingwei Ma](https://jingweim.github.io/), [Zonglin Di](https://scholar.google.com/citations?user=5lFDxsMAAAAJ&hl=en), [Ranjay Krishna](https://ranjaykrishna.com/index.html), [Jon E. Froehlich](https://jonfroehlich.github.io/)
 
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026* (**CVPR2026**)
 
 Paper is coming soon
+
 
 
 </div>
