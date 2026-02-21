@@ -10,13 +10,14 @@ layout: default
 
 ( **<sup>*</sup>** means Equal Contribution)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pre-print</div><img src='images/ArXiv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/capnav.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## CapNav: Benchmarking Vision Language Models on Capability-conditioned Indoor Navigation
 
 [Xia Su](https://xiasu.github.io/)<sup>*</sup>, **Ruiqi Chen**<sup>*</sup>, [Benlin Liu](https://liubl1217.github.io/), [Jingwei Ma](https://jingweim.github.io/), [Zonglin Di](https://scholar.google.com/citations?user=5lFDxsMAAAAJ&hl=en), [Ranjay Krishna](https://ranjaykrishna.com/index.html), [Jon E. Froehlich](https://jonfroehlich.github.io/)
 
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026* (**CVPR2026**)
 
 Paper is coming soon
 
