@@ -42,7 +42,7 @@ My research lies at the intersection of Human–Computer Interaction (HCI) and A
 
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026* (**CVPR2026**)
 
-Paper is coming soon
+[Paper](https://arxiv.org/pdf/2602.18424) \| [Project](https://github.com/makeabilitylab/CapNav) \| [Hugging Face](https://huggingface.co/datasets/RichardC0216/CapNav)
 
 
 
