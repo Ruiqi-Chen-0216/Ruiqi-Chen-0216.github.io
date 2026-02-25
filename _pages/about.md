@@ -12,7 +12,6 @@ I am Ruiqi Chen, I am currently pursuing a Master of Science in  [Human Centered
 
 My research interests lie primarily at the intersection of Human-Computer Interaction(HCI) and Artificial Intelligence(AI), combining human and machine intelligence to create interactive systems for creativity, collaboration, and beyond. In my past four years of research experience, my research scope has included human-centered AI, Computer Vision, LLM & VLM, and Machine Learning.
 
-**<span style="font-size: 24px;">I am enthusiastically pursuing a PhD position in CS starting from 2026 fall!</span>**
 
 # 🔥 News
 - *2025.12*: &nbsp;🎉🎉 My undergraduate research paper ***GestoBrush*** received the 🏆<span style="color:red; font-weight:bold;">Best Paper Award</span> at ACM VINCI 2025!
