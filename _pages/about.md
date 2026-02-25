@@ -14,6 +14,7 @@ My research interests lie primarily at the intersection of Human-Computer Intera
 
 
 # 🔥 News
+- *2026.02*: &nbsp;🎉🎉 Our paper ***CapNav*** has been accepted to CVPR 2026! Proud to be co-first author on my first CVPR paper.
 - *2025.12*: &nbsp;🎉🎉 My undergraduate research paper ***GestoBrush*** received the 🏆<span style="color:red; font-weight:bold;">Best Paper Award</span> at ACM VINCI 2025!
 - *2025.09*: &nbsp;🎉🎉 My research paper developed at UC Berkeley under the supervision of Prof. Aditya Parameswaran has been accepted to CIDR 2026!
 - *2025.07*: &nbsp;🎉🎉 Two human-AI research papers ***FlyMeThrough*** and ***SlideAudit*** have been accepted to UIST 2025!
