@@ -19,15 +19,12 @@ I am Ruiqi Chen, I am currently pursuing a Master of Science in  [Human Centered
 
 My research lies at the intersection of Human–Computer Interaction (HCI) and Artificial Intelligence (AI), combining human and machine intelligence to **train human-centered AI models** and **build human-centered AI systems**. My work bridges HCI and AI through the design of **AI-assisted tools** that empower rather than replace human intelligence. Over the past four years, my research has spanned human-centered AI, computer vision, large language and vision-language models, and machine learning.
 
-**<span style="font-size: 24px;">I am enthusiastically pursuing a PhD position in CS starting from 2026 fall!</span>**
-
-
 
 # 🔥 News
+- *2026.02*: &nbsp;🎉🎉 Our paper ***CapNav*** has been accepted to CVPR 2026! Proud to be co-first author on my first CVPR paper.
 - *2025.12*: &nbsp;🎉🎉 My undergraduate research paper ***GestoBrush*** received the 🏆<span style="color:red; font-weight:bold;">Best Paper Award</span> at ACM VINCI 2025!
 - *2025.09*: &nbsp;🎉🎉 My research paper developed at UC Berkeley under the supervision of Prof. Aditya Parameswaran has been accepted to CIDR 2026!
 - *2025.07*: &nbsp;🎉🎉 Two human-AI research papers ***FlyMeThrough*** and ***SlideAudit*** have been accepted to UIST 2025!
-- *2025.04*: &nbsp;🎉🎉 I joined the EPIC Data Lab and supervised by Prof. Aditya Parameswaran at University of California, Berkeley, focusing on LLM system development. 
 - *2025.02*: &nbsp;🎉🎉 Two of my undergraduate research works have been accepted to CHI 2025!
 
 # 📝 Publications 
