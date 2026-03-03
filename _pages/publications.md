@@ -10,6 +10,23 @@ layout: default
 
 ( **<sup>*</sup>** means Equal Contribution)
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/ArXiv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## Data Agent Benchmark 
+
+[Ruiying Ma](https://ruiying-ma.github.io/)<sup>*</sup>, 
+[Shreya Shankar](https://www.sh-reya.com/)<sup>*</sup>, **Ruiqi Chen**, …, [Aditya G. Parameswaran](https://people.eecs.berkeley.edu/~adityagp/)
+
+Paper is coming soon (with full author list).
+
+[Paper]() \| [Project](https://github.com/ucbepic/DataAgentBench) 
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/capnav.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
