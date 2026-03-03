@@ -39,7 +39,7 @@ My research lies at the intersection of Human–Computer Interaction (HCI) and A
 [Ruiying Ma](https://ruiying-ma.github.io/)<sup>*</sup>, 
 [Shreya Shankar](https://www.sh-reya.com/)<sup>*</sup>, **Ruiqi Chen**, …, [Aditya G. Parameswaran](https://people.eecs.berkeley.edu/~adityagp/)
 
-Paper is coming soon.
+Paper is coming soon (with full author list).
 
 [Paper]() \| [Project](https://github.com/ucbepic/DataAgentBench) 
 
