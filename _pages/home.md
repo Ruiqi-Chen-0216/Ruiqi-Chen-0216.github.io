@@ -36,7 +36,8 @@ My research lies at the intersection of Human–Computer Interaction (HCI) and A
 
 ## Data Agent Benchmark 
 
-[Ruiying Ma](https://ruiying-ma.github.io/)<sup>*</sup>, [Shreya Shankar](https://www.sh-reya.com/)*, **Ruiqi Chen**, …, [Aditya G. Parameswaran](https://people.eecs.berkeley.edu/~adityagp/)
+[Ruiying Ma](https://ruiying-ma.github.io/)<sup>*</sup>, 
+[Shreya Shankar](https://www.sh-reya.com/)<sup>*</sup>, **Ruiqi Chen**, …, [Aditya G. Parameswaran](https://people.eecs.berkeley.edu/~adityagp/)
 
 Paper is coming soon.
 
