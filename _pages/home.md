@@ -2,7 +2,7 @@
 permalink: /
 title: ""
 excerpt: ""
-author_profile: true
+author_profile: false
 layout: default
 ---
 
@@ -13,12 +13,36 @@ layout: default
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<div class="home-top">
+
+<div class="home-profile-card">
+  <img src="{{ site.author.avatar | absolute_url }}" class="home-avatar" alt="{{ site.author.name }}">
+  <div class="home-profile-info">
+    <h2 class="home-name">{{ site.author.name }}</h2>
+    <p class="home-degree">M.S. in <a href="https://www.hcde.washington.edu/">Human Centered Design &amp; Engineering</a></p>
+    <p class="home-university">University of Washington</p>
+    <div class="home-labs">
+      <a href="https://makeabilitylab.cs.washington.edu/">Makeability Lab</a> &middot; <a href="https://depts.washington.edu/acelab/">ACE Lab</a><br>
+      Collab: <a href="https://people.eecs.berkeley.edu/~adityagp/">UC Berkeley</a>
+    </div>
+    <hr class="home-divider">
+    <div class="home-links">
+      {% if site.author.email %}<a href="mailto:{{ site.author.email }}"><i class="fas fa-fw fa-envelope"></i> Email</a>{% endif %}
+      {% if site.author.github %}<a href="https://github.com/{{ site.author.github }}"><i class="fab fa-fw fa-github"></i> GitHub</a>{% endif %}
+      {% if site.author.googlescholar %}<a href="{{ site.author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Scholar</a>{% endif %}
+      {% if site.author.linkedin %}<a href="https://www.linkedin.com/in/{{ site.author.linkedin }}"><i class="fab fa-fw fa-linkedin"></i> LinkedIn</a>{% endif %}
+      {% if site.author.orcid %}<a href="{{ site.author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a>{% endif %}
+    </div>
+  </div>
+</div>
+
+<div class="home-bio" markdown="1">
+
 <span class='anchor' id='about-me'></span>
 
 I am Ruiqi Chen, currently pursuing a Master of Science in  [Human Centered Design & Engineering](https://www.hcde.washington.edu/) at the **University of Washington**, affiliated with [Makeability Lab](https://makeabilitylab.cs.washington.edu/) by [Prof. Jon E. Froehlich](https://jonfroehlich.github.io/) and [ACE Lab](https://depts.washington.edu/acelab/index.html) by [Prof. Jacob O. Wobbrock](https://faculty.washington.edu/wobbrock/). I also collaborate closely with [Prof. Aditya Parameswaran](https://people.eecs.berkeley.edu/~adityagp/) at the **University of California, Berkeley**. Previously, I obtained my Dual B.S. degree in Data Science from Duke University and Duke Kunshan University, where I worked with [Prof. Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en) in [HCI Lab](https://arkxlab.github.io/).
 
 My research lies at the intersection of Human–Computer Interaction (HCI) and Artificial Intelligence (AI), combining human and machine intelligence to **train human-centered AI models** and **build human-centered AI systems**. My work bridges HCI and AI through the design of **AI-assisted tools** that empower rather than replace human intelligence. Over the past four years, my research has spanned human-centered AI, computer vision, large language and vision-language models, and machine learning.
-
 
 # 🔥 News
 - *2026.02*: &nbsp;🎉🎉 Our paper ***CapNav*** has been accepted to CVPR 2026! Proud to be co-first author on my first CVPR paper.
@@ -26,6 +50,10 @@ My research lies at the intersection of Human–Computer Interaction (HCI) and A
 - *2025.09*: &nbsp;🎉🎉 My research paper developed at UC Berkeley under the supervision of Prof. Aditya Parameswaran has been accepted to CIDR 2026!
 - *2025.07*: &nbsp;🎉🎉 Two human-AI research papers ***FlyMeThrough*** and ***SlideAudit*** have been accepted to UIST 2025!
 - *2025.02*: &nbsp;🎉🎉 Two of my undergraduate research works have been accepted to CHI 2025!
+
+</div>
+
+</div>
 
 # 📝 Publications
 ( **<sup>*</sup>** means Equal Contribution)
