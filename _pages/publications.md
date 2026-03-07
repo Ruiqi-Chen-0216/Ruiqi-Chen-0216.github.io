@@ -139,9 +139,10 @@ There are several projects currently ongoing:
 2. CapNav-Tune: Fine-Tuning Vision-Language Models for Capability-Aware Indoor Navigation (advised by Prof. Jon E. Froehlich)
 3. Benchmarking Data Processing Agents (advised by Prof. Aditya Parameswaran)
 
-and 2 projects are under submission & review: 
+and 3 projects are under submission & review:
 1. Designing AI-Powered Reminiscence Interventions for Dementia: Exploring Personalization, Professional Support, and Collaboration (Under Revison)
 2. Revitalizing Public Spaces with Augmented Reality Art at Common Space (Under Revison)
+3. Negotiating Identity and Value in the Age of Generative AI: Insights from a Five-Year Study of Digital Painters (Under Review)
 
 
 <!--- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**-->
