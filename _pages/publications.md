@@ -158,7 +158,7 @@ Paper is coming soon (with full author list).
 
 [Xia Su](https://xiasu.github.io/), **Ruiqi Chen**, [Weiye Zhang](https://makeabilitylab.cs.washington.edu/member/richardweiyezhang/), [Jingwei Ma](https://jingweim.github.io/), [Jon E. Froehlich](https://jonfroehlich.github.io/)
 
-*ACM Symposium on User Interface Software and Technology* (**UIST2024**) [[Paper]](https://dl.acm.org/doi/10.1145/3672539.3686782) | [[Website]](https://makeabilitylab.cs.washington.edu/project/diam/)
+*ACM Symposium on User Interface Software and Technology* (**UIST2024**) [[Paper]](https://dl.acm.org/doi/10.1145/3672539.3686782) \| [[Website]](https://makeabilitylab.cs.washington.edu/project/diam/)
 
 </div>
 </div>
@@ -182,7 +182,7 @@ Paper is coming soon (with full author list).
 
 [Qingyang He](https://qingyanghe.com/)<sup>\*</sup>, [Weicheng Zheng](https://orcid.org/0009-0002-2550-8823)<sup>\*</sup>, Hanxi Bao, **Ruiqi Chen**, [Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en)
 
-*International Symposium of Chinese Computer-Human Interaction* (**ChineseCHI2023**) [[Paper]](https://dl.acm.org/doi/fullHtml/10.1145/3629606.3629675) | [[Project]](https://github.com/Ruiqi-Chen-0216/0-Sketch-Paint)
+*International Symposium of Chinese Computer-Human Interaction* (**ChineseCHI2023**) [[Paper]](https://dl.acm.org/doi/fullHtml/10.1145/3629606.3629675) \| [[Project]](https://github.com/Ruiqi-Chen-0216/0-Sketch-Paint)
 
 </div>
 </div>
