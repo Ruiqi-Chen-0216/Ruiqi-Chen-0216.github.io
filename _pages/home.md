@@ -2,7 +2,7 @@
 permalink: /
 title: ""
 excerpt: ""
-author_profile: true
+author_profile: false
 layout: default
 ---
 
@@ -13,11 +13,27 @@ layout: default
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
-
-I am Ruiqi Chen, I am currently pursuing a Master of Science in  [Human Centered Design & Engineering](https://www.hcde.washington.edu/) at the **University of Washington**, affiliated with [Makeability Lab](https://makeabilitylab.cs.washington.edu/) by [Prof. Jon E. Froehlich](https://jonfroehlich.github.io/) and [ACE Lab](https://depts.washington.edu/acelab/index.html) by [Prof. Jacob O. Wobbrock](https://faculty.washington.edu/wobbrock/). I also collaborate closely with [Prof. Aditya Parameswaran](https://people.eecs.berkeley.edu/~adityagp/) at the **University of California, Berkeley**. Previously, I obtained my Dual B.S. degree in Data Science from Duke University and Duke Kunshan University, where I worked with [Prof. Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en) in [HCI Lab](https://arkxlab.github.io/).
+<div class="profile-hero">
+  <div class="profile-hero__left">
+    <img src="images/ruiqichen.png" alt="Ruiqi Chen" class="profile-hero__photo">
+    <div class="profile-hero__links">
+      <a href="mailto:ruiqichen338@gmail.com"><i class="fas fa-envelope"></i> Email</a>
+      <a href="https://scholar.google.com/citations?user=UyIUfssAAAAJ&hl=zh-CN"><i class="ai ai-google-scholar"></i> Scholar</a>
+      <a href="https://github.com/Ruiqi-Chen-0216"><i class="fab fa-github"></i> Github</a>
+      <a href="https://www.linkedin.com/in/ruiqi-chen-rc338"><i class="fab fa-linkedin"></i> LinkedIn</a>
+      <a href="https://orcid.org/0000-0001-7255-5353"><i class="ai ai-orcid"></i> ORCID</a>
+    </div>
+  </div>
+  <div class="profile-hero__bio">
+    <h1 class="profile-hero__name">Ruiqi Chen</h1>
+    <p class="profile-hero__affil">M.S. Student &middot; University of Washington &middot; Seattle, United States</p>
+    <div class="profile-hero__text" markdown="1">
+I am Ruiqi Chen, currently pursuing a Master of Science in [Human Centered Design & Engineering](https://www.hcde.washington.edu/) at the **University of Washington**, affiliated with [Makeability Lab](https://makeabilitylab.cs.washington.edu/) by [Prof. Jon E. Froehlich](https://jonfroehlich.github.io/) and [ACE Lab](https://depts.washington.edu/acelab/index.html) by [Prof. Jacob O. Wobbrock](https://faculty.washington.edu/wobbrock/). I also collaborate closely with [Prof. Aditya Parameswaran](https://people.eecs.berkeley.edu/~adityagp/) at the **University of California, Berkeley**. Previously, I obtained my Dual B.S. degree in Data Science from Duke University and Duke Kunshan University, where I worked with [Prof. Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en) in [HCI Lab](https://arkxlab.github.io/).
 
 My research lies at the intersection of Human–Computer Interaction (HCI) and Artificial Intelligence (AI), combining human and machine intelligence to **train human-centered AI models** and **build human-centered AI systems**. My work bridges HCI and AI through the design of **AI-assisted tools** that empower rather than replace human intelligence. Over the past four years, my research has spanned human-centered AI, computer vision, large language and vision-language models, and machine learning.
+    </div>
+  </div>
+</div>
 
 
 # 🔥 News
@@ -101,7 +117,7 @@ Paper is coming soon (with full author list).
 
 *ACM Symposium on User Interface Software and Technology* (**UIST2025**)
 
-[Paper](https://dl.acm.org/doi/10.1145/3746059.3747777) \| [Project](https://github.com/makeabilitylab/FlyMeThrough) \| [Website](https://makeabilitylab.cs.washington.edu/project/flymethrough/)
+[Paper (PDF)](papers/flymethrough.pdf) \| [Project](https://github.com/makeabilitylab/FlyMeThrough) \| [Website](https://makeabilitylab.cs.washington.edu/project/flymethrough/)
 
 </div>
 </div>
@@ -120,7 +136,7 @@ Paper is coming soon (with full author list).
 
 *ACM Symposium on User Interface Software and Technology* (**UIST2025**)
 
-[Paper](https://dl.acm.org/doi/10.1145/3746059.3747736) \| [Project](https://github.com/Ruiqi-Chen-0216/SlideAudit)
+[Paper (PDF)](papers/slideaudit.pdf) \| [Project](https://github.com/Ruiqi-Chen-0216/SlideAudit)
 
 </div>
 </div>
@@ -137,7 +153,7 @@ Paper is coming soon (with full author list).
 
 *ACM CHI Conference on Human Factors in Computing Systems* (**CHI2025**)
 
-[Paper](https://dl.acm.org/doi/10.1145/3706598.3714303) \| [Project](https://github.com/Ruiqi-Chen-0216/ImmersiveBiography)
+[Paper (PDF)](papers/ImmersiveBiography.pdf) \| [Project](https://github.com/Ruiqi-Chen-0216/ImmersiveBiography)
 
 </div>
 </div>
@@ -151,7 +167,7 @@ Paper is coming soon (with full author list).
 
 **Ruiqi Chen**, [Qingyang He](https://qingyanghe.com/), Hanxi Bao, [Jung E. Choi](https://orcid.org/0000-0003-0058-8281), [Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en)
 
-*ACM International Symposium on Visual Information Communication and Interaction* (**VINCI2025**) \| [[Paper]](https://dl.acm.org/doi/10.1145/3769534.3769548)
+*ACM International Symposium on Visual Information Communication and Interaction* (**VINCI2025**) \| [Paper (PDF)](papers/GestoBrush.pdf)
 
 🏆<span style="color:red; font-weight:bold;">Best Paper Award</span>
 
@@ -232,53 +248,3 @@ There are several projects currently ongoing:
 1. BLV-VLM: Extending Multimodal Design Auditing to Enhance Generative AI Accessibility for Blind and Low-Vision Users. (advised by Prof. Jacob O. Wobbrock)
 2. CapNav-Tune: Fine-Tuning Vision-Language Models for Capability-Aware Indoor Navigation (advised by Prof. Jon E. Froehlich)
 3. Benchmarking Data Processing Agents (advised by Prof. Aditya Parameswaran)
-
-# 🎖 Teaching, Mentorship and Service
-* Paper reviewer
-  * ACM Conference on Human Factors in Computing Systems (CHI), 2025
-  * ACM Conference on Human Factors in Computing Systems (CHI), 2026
-* Student volunteer
-  * ACM Symposium on User Interface Software and Technology (UIST), 2025
-<!--# 🎖 Honors and Awards-->
-<!--- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
-<!--- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
-
-# 📖 Educations
-* M.S. in Human Centered Design & Engineering, University of Washington, 2024 - 2026
-* B.S. in Interdisciplinary Studies of Data Science, Duke University, 2020 - 2024
-* B.S. in Data Science, Duke Kunshan University, 2020 - 2024
-
-# 📚 Experiences
-
-* [EPIC Data Lab](https://epic.berkeley.edu/), University of California, Berkeley
-  * Graduate Research Assistant to [Prof. Aditya Parameswaran](https://people.eecs.berkeley.edu/~adityagp/)
-  * Date: April 2025 – September 2025
-  * Contribute to two research project, focusing on LLM system and semantic data processing in HAI.
-
-* [ACE Lab](https://depts.washington.edu/acelab/index.html), University of Washington
-  * Graduate Research Assistant to [Prof. Jacob O. Wobbrock](https://faculty.washington.edu/wobbrock/)
-  * Date: September 2024 – Present
-  * Contribute to two research project, focusing on HAI creativity and interaction.
-
-* [Makeability Lab](https://makeabilitylab.cs.washington.edu/), University of Washington
-  * Graduate Research Assistant to [Prof. Jon E. Froehlich](https://jonfroehlich.github.io/)
-  * Date: May 2024 – Present
-  * Contribute to two research project, focusing on HAI system, CV and 3DV.
-
-* [AI & Art for Knowledge & Creativity Lab](https://arkxlab.github.io/), Hong Kong University of Science and Technology (GZ)
-  * Graduate Research Assistant to [Prof. Xin Tong](https://cma.hkust-gz.edu.cn/people/tong-xin/)
-  * Date: June 2024 – August 2024
-  * Contribute to two research project, focusing on HCI and accessibility.
-
-* [Human-Computer Interaction Lab](https://arkxlab.github.io/), Duke Kunshan University
-  * Undergraduate Research Assistant to [Prof. Xin Tong](https://scholar.google.com/citations?user=XIM08ZwAAAAJ&hl=zh-CN&oi=sra)
-  * Date: March 2022 – May 2024
-  * Contribute to four research projects, focusing on HCI, AI, and VR.
-
-
-<!-- # 💻 Internships
-- *2023.07 - 2023.08*, Artificial Intelligence Engineer Intern, Nanjing Institute of Mathware Technology, China.
-- *2021.06 - 2021.08*, Software Engineering Process Group Intern, China Unicom Smart Connection Technology, China. -->
-
-# 📧 Contact Me
-- If you have a research project related to Human-AI, especially on GAI & HAI system, and are looking for a collaborator proficient in AI algorithms, please feel free to contact me!
