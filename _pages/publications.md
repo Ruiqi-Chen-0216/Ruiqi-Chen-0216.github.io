@@ -129,8 +129,11 @@ Paper is coming soon (with full author list).
 <div class="pub-list-paper" markdown="1">
 
 ### GestoBrush: Facilitating Graffiti Artists' Digital Creation Experiences through Embodied AR Interactions
+
 **Ruiqi Chen**, [Qingyang He](https://qingyanghe.com/), Hanxi Bao, [Jung E. Choi](https://orcid.org/0000-0003-0058-8281), [Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en)
+
 *ACM International Symposium on Visual Information Communication and Interaction* (**VINCI2025**) \| [Paper (PDF)](papers/GestoBrush.pdf)
+
 🏆<span style="color:red; font-weight:bold;">Best Paper Award</span>
 
 </div>
@@ -140,7 +143,9 @@ Paper is coming soon (with full author list).
 <div class="pub-list-paper" markdown="1">
 
 ### Parental Perceptions of Children's d/Deaf Identity Shaping Technology Use: A Qualitative Study on Communication Technologies in Mixed-hearing Families
+
 [Keyi Zeng](https://arkxlab.github.io/profile/keyi.html#), Jingyang Lin, **Ruiqi Chen**, [RAY LC](https://raylc.org/), [Pan Hui](https://panhui.people.ust.hk/index.html), [Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en)
+
 *ACM CHI Conference on Human Factors in Computing Systems* (**CHI2025**) [[Paper]](https://doi.org/10.1145/3706599.3719753)
 
 </div>
@@ -150,7 +155,9 @@ Paper is coming soon (with full author list).
 <div class="pub-list-paper" markdown="1">
 
 ### DIAM: Drone-based Indoor Accessibility Mapping
+
 [Xia Su](https://xiasu.github.io/), **Ruiqi Chen**, [Weiye Zhang](https://makeabilitylab.cs.washington.edu/member/richardweiyezhang/), [Jingwei Ma](https://jingweim.github.io/), [Jon E. Froehlich](https://jonfroehlich.github.io/)
+
 *ACM Symposium on User Interface Software and Technology* (**UIST2024**) [[Paper]](https://dl.acm.org/doi/10.1145/3672539.3686782) | [[Website]](https://makeabilitylab.cs.washington.edu/project/diam/)
 
 </div>
@@ -160,7 +167,9 @@ Paper is coming soon (with full author list).
 <div class="pub-list-paper" markdown="1">
 
 ### Design and Evaluation of a VR Therapy for Patients with Mild Cognitive Impairment and Dementia: Perspectives from Patients and Stakeholders
+
 **Ruiqi Chen**, Shuhe Wang, [Xuhai Xu](https://orsonxu.com/), Lan Wei, [Yuling Sun](https://www.yulingsun.net/), [Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en)
+
 *IEEE Conference on Virtual Reality and 3D User Interfaces* (**IEEEVR2023**) [[Paper]](https://ieeexplore.ieee.org/document/10108617/)
 
 </div>
@@ -170,7 +179,9 @@ Paper is coming soon (with full author list).
 <div class="pub-list-paper" markdown="1">
 
 ### Exploring Designers' Perceptions and Practices of Collaborating with Generative AI as a Co-creative Agent in a Multi-stakeholder Design Process: Take the Domain of Avatar Design as an Example
+
 [Qingyang He](https://qingyanghe.com/)<sup>\*</sup>, [Weicheng Zheng](https://orcid.org/0009-0002-2550-8823)<sup>\*</sup>, Hanxi Bao, **Ruiqi Chen**, [Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en)
+
 *International Symposium of Chinese Computer-Human Interaction* (**ChineseCHI2023**) [[Paper]](https://dl.acm.org/doi/fullHtml/10.1145/3629606.3629675) | [[Project]](https://github.com/Ruiqi-Chen-0216/0-Sketch-Paint)
 
 </div>
