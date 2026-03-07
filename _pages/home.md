@@ -2,7 +2,7 @@
 permalink: /
 title: ""
 excerpt: ""
-author_profile: false
+author_profile: true
 layout: default
 ---
 
@@ -13,27 +13,11 @@ layout: default
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<div class="profile-hero">
-  <div class="profile-hero__left">
-    <img src="images/ruiqichen.png" alt="Ruiqi Chen" class="profile-hero__photo">
-    <div class="profile-hero__links">
-      <a href="mailto:ruiqichen338@gmail.com"><i class="fas fa-envelope"></i> Email</a>
-      <a href="https://scholar.google.com/citations?user=UyIUfssAAAAJ&hl=zh-CN"><i class="ai ai-google-scholar"></i> Scholar</a>
-      <a href="https://github.com/Ruiqi-Chen-0216"><i class="fab fa-github"></i> Github</a>
-      <a href="https://www.linkedin.com/in/ruiqi-chen-rc338"><i class="fab fa-linkedin"></i> LinkedIn</a>
-      <a href="https://orcid.org/0000-0001-7255-5353"><i class="ai ai-orcid"></i> ORCID</a>
-    </div>
-  </div>
-  <div class="profile-hero__bio">
-    <h1 class="profile-hero__name">Ruiqi Chen</h1>
-    <p class="profile-hero__affil">M.S. Student &middot; University of Washington &middot; Seattle, United States</p>
-    <div class="profile-hero__text" markdown="1">
-I am Ruiqi Chen, currently pursuing a Master of Science in [Human Centered Design & Engineering](https://www.hcde.washington.edu/) at the **University of Washington**, affiliated with [Makeability Lab](https://makeabilitylab.cs.washington.edu/) by [Prof. Jon E. Froehlich](https://jonfroehlich.github.io/) and [ACE Lab](https://depts.washington.edu/acelab/index.html) by [Prof. Jacob O. Wobbrock](https://faculty.washington.edu/wobbrock/). I also collaborate closely with [Prof. Aditya Parameswaran](https://people.eecs.berkeley.edu/~adityagp/) at the **University of California, Berkeley**. Previously, I obtained my Dual B.S. degree in Data Science from Duke University and Duke Kunshan University, where I worked with [Prof. Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en) in [HCI Lab](https://arkxlab.github.io/).
+<span class='anchor' id='about-me'></span>
+
+I am Ruiqi Chen, currently pursuing a Master of Science in  [Human Centered Design & Engineering](https://www.hcde.washington.edu/) at the **University of Washington**, affiliated with [Makeability Lab](https://makeabilitylab.cs.washington.edu/) by [Prof. Jon E. Froehlich](https://jonfroehlich.github.io/) and [ACE Lab](https://depts.washington.edu/acelab/index.html) by [Prof. Jacob O. Wobbrock](https://faculty.washington.edu/wobbrock/). I also collaborate closely with [Prof. Aditya Parameswaran](https://people.eecs.berkeley.edu/~adityagp/) at the **University of California, Berkeley**. Previously, I obtained my Dual B.S. degree in Data Science from Duke University and Duke Kunshan University, where I worked with [Prof. Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en) in [HCI Lab](https://arkxlab.github.io/).
 
 My research lies at the intersection of Human–Computer Interaction (HCI) and Artificial Intelligence (AI), combining human and machine intelligence to **train human-centered AI models** and **build human-centered AI systems**. My work bridges HCI and AI through the design of **AI-assisted tools** that empower rather than replace human intelligence. Over the past four years, my research has spanned human-centered AI, computer vision, large language and vision-language models, and machine learning.
-    </div>
-  </div>
-</div>
 
 
 # 🔥 News
