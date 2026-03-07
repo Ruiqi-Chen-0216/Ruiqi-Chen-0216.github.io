@@ -207,3 +207,33 @@ h1:before, .anchor:before {
         margin-bottom: 0.25em;
     }
 }
+
+// ===== Desktop layout: replace Susy floats with flexbox =====
+@include breakpoint($large) {
+    #main {
+        display: flex !important;
+        flex-wrap: nowrap !important;
+        align-items: flex-start !important;
+        max-width: 1060px !important;
+    }
+
+    .sidebar {
+        float: none !important;
+        clear: none !important;
+        width: 210px !important;
+        min-width: 210px !important;
+        flex-shrink: 0 !important;
+    }
+
+    .page {
+        float: none !important;
+        clear: none !important;
+        width: auto !important;
+        flex: 1 1 0 !important;
+        min-width: 0 !important;
+        margin-left: 2em !important;
+        margin-right: 0 !important;
+        padding-left: 0 !important;
+        max-width: none !important;
+    }
+}
