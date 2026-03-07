@@ -73,6 +73,13 @@
         padding-left: 1.6em;
         max-width: 100%;
         order: 1;
+
+        h2 {
+            color: #1a1a1a;
+            font-size: 1.1em;
+            margin-top: 0.3em;
+            margin-bottom: 0.3em;
+        }
     }
 
     @include breakpoint($medium) {
@@ -114,4 +121,5 @@ h1:before, .anchor:before {
     color: white;
     background-color: #00369f;
     font-size: .8em;
+    border-radius: 4px;
 }
