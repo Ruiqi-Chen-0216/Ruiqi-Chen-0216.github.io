@@ -47,8 +47,14 @@
     flex-direction: row;
     flex-wrap: wrap;
     border-bottom: 1px #efefef solid;
-    padding: 1.5em 0 1.5em 0;
-    
+    padding: 1.5em 0.5em 1.5em 0.5em;
+    border-radius: 8px;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+    &:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 6px 20px rgba(0, 0, 0, 0.09);
+    }
 
     .paper-box-image{
         justify-content: center;
@@ -59,15 +65,16 @@
             max-width: 300px;
             box-shadow: 3px 3px 6px #888;
             object-fit: cover;
+            border-radius: 6px;
         }
     }
-    
+
     .paper-box-text{
         padding-left: 1.6em;
         max-width: 100%;
         order: 1;
     }
-    
+
     @include breakpoint($medium) {
         .paper-box-image{
             justify-content: left;
@@ -75,7 +82,7 @@
             max-width: 30%;
             order: 1;
         }
-        
+
         .paper-box-text{
             justify-content: left;
             padding-left: 2.0em;
