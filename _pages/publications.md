@@ -12,12 +12,12 @@ layout: default
 
 <div class="pub-filter">
   <button class="filter-btn active" data-filter="all">All</button>
-  <button class="filter-btn" data-filter="hci">HCI</button>
-  <button class="filter-btn" data-filter="ai">AI &amp; CV</button>
-  <button class="filter-btn" data-filter="benchmark">Benchmark</button>
+  <button class="filter-btn" data-filter="benchmark">AI Benchmark</button>
+  <button class="filter-btn" data-filter="human-ai">Human-AI</button>
+  <button class="filter-btn" data-filter="hci">Human Computer Interaction</button>
 </div>
 
-<div class="pub-item" data-categories="ai benchmark">
+<div class="pub-item" data-categories="benchmark">
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/ArXiv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -35,7 +35,7 @@ Paper is coming soon (with full author list).
 </div>
 
 
-<div class="pub-item" data-categories="ai benchmark">
+<div class="pub-item" data-categories="benchmark">
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/capnav.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -52,7 +52,7 @@ Paper is coming soon (with full author list).
 </div>
 
 
-<div class="pub-item" data-categories="ai">
+<div class="pub-item" data-categories="human-ai">
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIDR 2026</div><img src='images/AIOverlord.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -68,7 +68,7 @@ Paper is coming soon (with full author list).
 </div>
 </div>
 
-<div class="pub-item" data-categories="hci ai">
+<div class="pub-item" data-categories="human-ai">
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2025</div><img src='images/FlyMeThrough.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -88,7 +88,7 @@ Paper is coming soon (with full author list).
 </div>
 </div>
 
-<div class="pub-item" data-categories="hci benchmark">
+<div class="pub-item" data-categories="benchmark">
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2025</div><img src='images/slideaudit.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -146,7 +146,7 @@ Paper is coming soon (with full author list).
 </div>
 </div>
 
-<div class="pub-item" data-categories="hci ai">
+<div class="pub-item" data-categories="human-ai">
 <div class="pub-list-paper" markdown="1">
 
 ### DIAM: Drone-based Indoor Accessibility Mapping
@@ -166,7 +166,7 @@ Paper is coming soon (with full author list).
 </div>
 </div>
 
-<div class="pub-item" data-categories="hci ai">
+<div class="pub-item" data-categories="human-ai">
 <div class="pub-list-paper" markdown="1">
 
 ### Exploring Designers' Perceptions and Practices of Collaborating with Generative AI as a Co-creative Agent in a Multi-stakeholder Design Process: Take the Domain of Avatar Design as an Example
