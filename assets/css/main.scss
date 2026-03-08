@@ -225,47 +225,31 @@ h1:before, .anchor:before {
 
 // ===== Home page two-column layout =====
 
+/* --- Mobile-first base styles --- */
+
 .home-top {
     margin-bottom: 2em;
-
-    @include breakpoint($medium) {
-        display: flex;
-        align-items: flex-start;
-        gap: 2.5em;
-    }
 }
 
-// Mobile: profile card is a horizontal row (photo left, info right)
+/* Mobile: profile card = horizontal flex (photo left, info right) */
 .home-profile-card {
     display: flex;
     align-items: flex-start;
-    gap: 1em;
     margin-bottom: 1.5em;
-
-    @include breakpoint($medium) {
-        display: block;
-        flex-shrink: 0;
-        width: 255px;
-        margin-bottom: 0;
-    }
 }
 
 .home-avatar {
-    width: 90px;
+    width: 90px !important;
+    max-width: 90px !important;
     min-width: 80px;
     border-radius: 50%;
     flex-shrink: 0;
-
-    @include breakpoint($medium) {
-        width: 100%;
-        max-width: 210px;
-        display: block;
-        margin-bottom: 0.8em;
-    }
+    margin-right: 1em;
 }
 
 .home-profile-info {
     flex: 1;
+    min-width: 0;
 }
 
 .home-name {
@@ -274,11 +258,6 @@ h1:before, .anchor:before {
     font-weight: 700;
     margin: 0 0 0.25em;
     line-height: 1.2;
-
-    @include breakpoint($medium) {
-        font-size: 1.6em;
-        margin-top: 0.2em;
-    }
 }
 
 .home-degree {
@@ -317,19 +296,50 @@ h1:before, .anchor:before {
 .home-links {
     display: flex;
     flex-wrap: wrap;
-    gap: 0.25em 0.65em;
     font-size: 0.88em;
 
     a {
         color: $link-color;
         text-decoration: none;
         white-space: nowrap;
+        margin-right: 0.65em;
+        margin-bottom: 0.25em;
         &:hover { text-decoration: underline; }
     }
 }
 
-.home-bio {
-    @include breakpoint($medium) {
+/* --- Tablet / Desktop (>= 768px): two-column layout --- */
+
+@media screen and (min-width: 768px) {
+    .home-top {
+        display: flex;
+        align-items: flex-start;
+    }
+
+    .home-profile-card {
+        display: block !important;
+        width: 255px !important;
+        min-width: 255px !important;
+        flex-shrink: 0;
+        margin-right: 2.5em;
+        margin-bottom: 0;
+    }
+
+    .home-avatar {
+        width: 100% !important;
+        max-width: 210px !important;
+        display: block;
+        border-radius: 8px;
+        margin-right: 0;
+        margin-bottom: 0.8em;
+    }
+
+    .home-name {
+        font-size: 1.6em;
+        margin-top: 0.2em;
+    }
+
+    .home-bio {
         flex: 1;
         min-width: 0;
     }
