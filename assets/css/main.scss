@@ -250,6 +250,14 @@ h1:before, .anchor:before {
     width: 100%;  // table-cell trick: this cell absorbs all remaining space
 }
 
+// Active nav link: box highlight for current page
+.greedy-nav .visible-links a.active {
+    border: 1.5px solid $masthead-link-color;
+    border-radius: 4px;
+    padding: 0.2rem 0.55rem !important;
+    margin: 0 0.45rem !important;
+}
+
 // ===== Home page two-column layout =====
 
 /* --- Mobile-first base styles --- */
