@@ -225,6 +225,11 @@ h1:before, .anchor:before {
     }
 }
 
+// UMich maize top accent bar
+.masthead {
+    border-top: 5px solid #FFCB05 !important;
+}
+
 // Align masthead width with content area
 .masthead__inner-wrap {
     max-width: 1060px !important;
