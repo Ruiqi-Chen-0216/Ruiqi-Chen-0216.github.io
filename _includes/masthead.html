@@ -11,6 +11,16 @@
             <a href="{{ site.baseurl }}{{ link.url }}"{% if page.url contains link.url %} class="active"{% endif %}>{{ link.title }}</a>
           </li>
           {% endfor %}
+          {% if site.author.github %}
+          <li class="site-nav-icon">
+            <a href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener" title="GitHub"><i class="fab fa-github"></i></a>
+          </li>
+          {% endif %}
+          {% if site.author.googlescholar %}
+          <li class="site-nav-icon">
+            <a href="{{ site.author.googlescholar }}" target="_blank" rel="noopener" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a>
+          </li>
+          {% endif %}
         </ul>
       </nav>
     </div>
