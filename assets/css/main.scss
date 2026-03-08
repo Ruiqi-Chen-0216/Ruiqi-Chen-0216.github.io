@@ -225,19 +225,9 @@ h1:before, .anchor:before {
     }
 }
 
-// UMich maize top accent bar
-.umich-topbar {
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    height: 5px;
-    background-color: #FFCB05;
-    z-index: 9999;
-}
-
+// UMich maize top accent bar — part of the masthead itself
 .masthead {
-    top: 5px;
+    border-top: 5px solid #FFCB05 !important;
 }
 
 // Align masthead width with content area
