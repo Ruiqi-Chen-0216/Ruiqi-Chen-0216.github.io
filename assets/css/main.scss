@@ -226,8 +226,20 @@ h1:before, .anchor:before {
 }
 
 // UMich maize top accent bar
+body::before {
+    content: '';
+    display: block;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 5px;
+    background-color: #FFCB05;
+    z-index: 9999;
+}
+
 .masthead {
-    border-top: 5px solid #FFCB05 !important;
+    top: 5px;
 }
 
 // Align masthead width with content area
