@@ -23,17 +23,17 @@ My research lies at the intersection of Human–Computer Interaction (HCI) and A
 * [EPIC Data Lab](https://epic.berkeley.edu/), University of California, Berkeley
   * Graduate Research Assistant to [Prof. Aditya Parameswaran](https://people.eecs.berkeley.edu/~adityagp/)
   * April 2025 – September 2025
-  * Contributed to two research projects focusing on LLM systems and semantic data processing in HAI.
+  * Contributed to two research projects focusing on AI agent evaluation and benchmarking, and agentic LLM system design.
 
 * [ACE Lab](https://depts.washington.edu/acelab/index.html), University of Washington
   * Graduate Research Assistant to [Prof. Jacob O. Wobbrock](https://faculty.washington.edu/wobbrock/)
   * September 2024 – Present
-  * Contributed to two research projects focusing on HAI creativity and interaction.
+  * Contributed to two research projects focusing on LLM-based automated evaluation of visual design and AI-driven design transformation.
 
 * [Makeability Lab](https://makeabilitylab.cs.washington.edu/), University of Washington
   * Graduate Research Assistant to [Prof. Jon E. Froehlich](https://jonfroehlich.github.io/)
   * May 2024 – Present
-  * Contributed to two research projects focusing on HAI systems, CV and 3D vision.
+  * Contributed to two research projects focusing on vision-language model benchmarking and human-AI collaborative perception systems.
 
 * [AI & Art for Knowledge & Creativity Lab](https://arkxlab.github.io/), Hong Kong University of Science and Technology (GZ)
   * Research Assistant to [Prof. Xin Tong](https://cma.hkust-gz.edu.cn/people/tong-xin/)
