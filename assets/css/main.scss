@@ -236,18 +236,18 @@ h1:before, .anchor:before {
 }
 
 // Masthead: site name on left, nav links on right
+// Keep display:table so greedy-nav JS width calculations still work
 .greedy-nav .visible-links {
-    display: flex !important;
-    align-items: center;
+    display: table !important;
     width: 100%;
 }
 
 .greedy-nav .visible-links li {
-    display: block !important;
+    display: table-cell !important;
 }
 
 .greedy-nav .visible-links .masthead__menu-home-item {
-    flex: 1;
+    width: 100%;  // table-cell trick: this cell absorbs all remaining space
 }
 
 // ===== Home page two-column layout =====
