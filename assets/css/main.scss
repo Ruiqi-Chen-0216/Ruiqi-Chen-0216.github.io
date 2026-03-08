@@ -226,9 +226,7 @@ h1:before, .anchor:before {
 }
 
 // UMich maize top accent bar
-body::before {
-    content: '';
-    display: block;
+.umich-topbar {
     position: fixed;
     top: 0;
     left: 0;
