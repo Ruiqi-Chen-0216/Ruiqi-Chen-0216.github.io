@@ -38,12 +38,12 @@ My research lies at the intersection of Human–Computer Interaction (HCI) and A
 * [AI & Art for Knowledge & Creativity Lab](https://arkxlab.github.io/), Hong Kong University of Science and Technology (GZ)
   * Research Assistant to [Prof. Xin Tong](https://cma.hkust-gz.edu.cn/people/tong-xin/)
   * June 2024 – August 2024
-  * Contributed to one research project focusing on HCI and accessibility.
+  * Contributed to two research project focusing on HCI and accessibility.
 
-* [Human-Computer Interaction Lab](https://arkxlab.github.io/), Duke Kunshan University
+* [Human-Computer Interactron Lab](https://arkxlab.github.io/), Duke Kunshan University
   * Undergraduate Research Assistant to [Prof. Xin Tong](https://scholar.google.com/citations?user=XIM08ZwAAAAJ&hl=zh-CN&oi=sra)
   * March 2022 – May 2024
-  * Contributed to five research projects focusing on HCI, AI, and VR.
+  * Contributed to foue research projects focusing on HCI, AI, and VR.
 
 # 🎖 Teaching, Mentorship and Service
 
