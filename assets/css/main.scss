@@ -223,6 +223,13 @@ h1:before, .anchor:before {
     }
 }
 
+// Align masthead width with content area
+.masthead__inner-wrap {
+    max-width: 1060px !important;
+    padding-left: 1em !important;
+    padding-right: 1em !important;
+}
+
 // ===== Home page two-column layout =====
 
 /* --- Mobile-first base styles --- */
