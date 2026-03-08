@@ -230,6 +230,21 @@ h1:before, .anchor:before {
     padding-right: 1em !important;
 }
 
+// Masthead: site name on left, nav links on right
+.greedy-nav .visible-links {
+    display: flex !important;
+    align-items: center;
+    width: 100%;
+}
+
+.greedy-nav .visible-links li {
+    display: block !important;
+}
+
+.greedy-nav .visible-links .masthead__menu-home-item {
+    flex: 1;
+}
+
 // ===== Home page two-column layout =====
 
 /* --- Mobile-first base styles --- */
