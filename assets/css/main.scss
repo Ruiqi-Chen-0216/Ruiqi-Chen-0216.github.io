@@ -252,10 +252,11 @@ h1:before, .anchor:before {
         white-space: nowrap;
     }
 
+    // Base style — padding always same so hover/active don't shift layout
     a {
         display: block;
-        padding: 0.5rem 0;
-        margin: 0 0.6rem;
+        padding: 0.25rem 0.55rem;
+        margin: 0 0.3rem;
         color: $masthead-link-color;
         text-decoration: none;
         font-family: $sans-serif-narrow;
@@ -265,14 +266,11 @@ h1:before, .anchor:before {
         transition: border-color 0.15s ease, color 0.15s ease;
 
         &:hover {
-            color: $masthead-link-color;
             border-color: $masthead-link-color;
-            padding: 0.2rem 0.55rem;
-            margin: 0 0.05rem;
         }
     }
 
-    // Home item takes all remaining space → pushes other links to the right
+    // Home item: flex-grows to push other links right, no border box
     .site-nav-home {
         flex: 1;
         font-weight: 700;
@@ -280,35 +278,26 @@ h1:before, .anchor:before {
         a {
             margin-left: 0;
             font-size: 1em;
-            border: none;
+            border-color: transparent !important;
 
             &:hover {
-                border: none;
-                padding: 0.5rem 0;
-                margin: 0;
                 color: $masthead-link-color-hover;
             }
         }
     }
 
-    // Active page: box highlight
+    // Active page: same border as hover
     a.active {
         border-color: $masthead-link-color;
-        padding: 0.2rem 0.55rem;
-        margin: 0 0.05rem;
     }
 
-    // Icon-only links (GitHub, Scholar)
+    // Icon-only links: no border box, just color change on hover
     .site-nav-icon a {
         font-size: 1.1em;
-        margin: 0 0.3rem;
-        padding: 0.5rem 0.3rem;
-        border: none;
+        padding: 0.25rem 0.45rem;
+        border-color: transparent !important;
 
         &:hover {
-            border: none;
-            padding: 0.5rem 0.3rem;
-            margin: 0 0.3rem;
             color: $masthead-link-color-hover;
         }
     }
