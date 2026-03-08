@@ -235,27 +235,55 @@ h1:before, .anchor:before {
     box-sizing: border-box !important;
 }
 
-// Masthead: site name on left, nav links on right
-// Keep display:table so greedy-nav JS width calculations still work
-.greedy-nav .visible-links {
-    display: table !important;
+// Simple flexbox nav — bypasses greedy-nav JS entirely
+.site-nav-simple {
     width: 100%;
 }
 
-.greedy-nav .visible-links li {
-    display: table-cell !important;
-}
+.site-nav-links {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
 
-.greedy-nav .visible-links .masthead__menu-home-item {
-    width: 100%;  // table-cell trick: this cell absorbs all remaining space
-}
+    li {
+        white-space: nowrap;
+    }
 
-// Active nav link: box highlight for current page
-.greedy-nav .visible-links a.active {
-    border: 1.5px solid $masthead-link-color;
-    border-radius: 4px;
-    padding: 0.2rem 0.55rem !important;
-    margin: 0 0.45rem !important;
+    a {
+        display: block;
+        padding: 0.5rem 0;
+        margin: 0 1rem;
+        color: $masthead-link-color;
+        text-decoration: none;
+        font-family: $sans-serif-narrow;
+        font-size: $type-size-5;
+
+        &:hover {
+            color: $masthead-link-color-hover;
+        }
+    }
+
+    // Home item takes all remaining space → pushes other links to the right
+    .site-nav-home {
+        flex: 1;
+        font-weight: 700;
+
+        a {
+            margin-left: 0;
+            font-size: 1em;
+        }
+    }
+
+    // Active page: box highlight
+    a.active {
+        border: 1.5px solid $masthead-link-color;
+        border-radius: 4px;
+        padding: 0.2rem 0.55rem;
+        margin: 0 0.45rem;
+    }
 }
 
 // ===== Home page two-column layout =====
