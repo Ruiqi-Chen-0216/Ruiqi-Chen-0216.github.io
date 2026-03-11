@@ -24,7 +24,12 @@ layout: default
 ## Data Agent Benchmark
 
 [Ruiying Ma](https://ruiying-ma.github.io/)<sup>*</sup>,
-[Shreya Shankar](https://www.sh-reya.com/)<sup>*</sup>, **Ruiqi Chen**, …, [Aditya G. Parameswaran](https://people.eecs.berkeley.edu/~adityagp/)
+[Shreya Shankar](https://www.sh-reya.com/)<sup>*</sup>, 
+**Ruiqi Chen**,
+[Yiming Lin](https://yiminglin18.com/),
+[Sepanta Zeighami](https://szeighami.github.io/),
+ …, [Aditya G. Parameswaran](https://people.eecs.berkeley.edu/~adityagp/)
+
 
 Paper is coming soon (with full author list).
 
