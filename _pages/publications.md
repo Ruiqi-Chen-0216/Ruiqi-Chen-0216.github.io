@@ -33,7 +33,7 @@ layout: default
 
 Paper is coming soon (with full author list).
 
-[Paper]() \| [Project](https://github.com/ucbepic/DataAgentBench)
+[Paper](https://arxiv.org/abs/2603.20576v1) \| [Github](https://github.com/ucbepic/DataAgentBench) \| [Website](https://ucbepic.github.io/DataAgentBench/)
 
 </div>
 </div>
@@ -50,7 +50,7 @@ Paper is coming soon (with full author list).
 
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026* (**CVPR2026**)
 
-[Paper](https://arxiv.org/pdf/2602.18424) \| [Project](https://github.com/makeabilitylab/CapNav) \| [Hugging Face](https://huggingface.co/datasets/RichardC0216/CapNav)
+[Paper](https://arxiv.org/pdf/2602.18424) \| [Github](https://github.com/makeabilitylab/CapNav) \| [Hugging Face](https://huggingface.co/datasets/RichardC0216/CapNav)
 
 </div>
 </div>
@@ -87,7 +87,7 @@ Paper is coming soon (with full author list).
 
 *ACM Symposium on User Interface Software and Technology* (**UIST2025**)
 
-[Paper (PDF)](papers/flymethrough.pdf) \| [Project](https://github.com/makeabilitylab/FlyMeThrough) \| [Website](https://makeabilitylab.cs.washington.edu/project/flymethrough/)
+[Paper (PDF)](papers/flymethrough.pdf) \| [Github](https://github.com/makeabilitylab/FlyMeThrough) \| [Website](https://makeabilitylab.cs.washington.edu/project/flymethrough/)
 
 </div>
 </div>
@@ -106,7 +106,7 @@ Paper is coming soon (with full author list).
 
 *ACM Symposium on User Interface Software and Technology* (**UIST2025**)
 
-[Paper (PDF)](papers/slideaudit.pdf) \| [Project](https://github.com/Ruiqi-Chen-0216/SlideAudit)
+[Paper (PDF)](papers/slideaudit.pdf) \| [Github](https://github.com/Ruiqi-Chen-0216/SlideAudit)
 
 </div>
 </div>
@@ -123,7 +123,7 @@ Paper is coming soon (with full author list).
 
 *ACM CHI Conference on Human Factors in Computing Systems* (**CHI2025**)
 
-[Paper (PDF)](papers/ImmersiveBiography.pdf) \| [Project](https://github.com/Ruiqi-Chen-0216/ImmersiveBiography)
+[Paper (PDF)](papers/ImmersiveBiography.pdf) \| [Github](https://github.com/Ruiqi-Chen-0216/ImmersiveBiography)
 
 </div>
 </div>
@@ -151,7 +151,7 @@ Paper is coming soon (with full author list).
 
 [Keyi Zeng](https://arkxlab.github.io/profile/keyi.html#), Jingyang Lin, **Ruiqi Chen**, [RAY LC](https://raylc.org/), [Pan Hui](https://panhui.people.ust.hk/index.html), [Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en)
 
-*ACM CHI Conference on Human Factors in Computing Systems* (**CHI2025**) [[Paper]](https://doi.org/10.1145/3706599.3719753)
+*ACM CHI Conference on Human Factors in Computing Systems* (**CHI2025**) [Paper](https://doi.org/10.1145/3706599.3719753)
 
 </div>
 </div>
@@ -163,7 +163,7 @@ Paper is coming soon (with full author list).
 
 [Xia Su](https://xiasu.github.io/), **Ruiqi Chen**, [Weiye Zhang](https://makeabilitylab.cs.washington.edu/member/richardweiyezhang/), [Jingwei Ma](https://jingweim.github.io/), [Jon E. Froehlich](https://jonfroehlich.github.io/)
 
-*ACM Symposium on User Interface Software and Technology* (**UIST2024**) [[Paper]](https://dl.acm.org/doi/10.1145/3672539.3686782) \| [[Website]](https://makeabilitylab.cs.washington.edu/project/diam/)
+*ACM Symposium on User Interface Software and Technology* (**UIST2024**) [Paper](https://dl.acm.org/doi/10.1145/3672539.3686782) \| [[Website]](https://makeabilitylab.cs.washington.edu/project/diam/)
 
 </div>
 </div>
@@ -175,7 +175,7 @@ Paper is coming soon (with full author list).
 
 **Ruiqi Chen**, Shuhe Wang, [Xuhai Xu](https://orsonxu.com/), Lan Wei, [Yuling Sun](https://www.yulingsun.net/), [Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en)
 
-*IEEE Conference on Virtual Reality and 3D User Interfaces* (**IEEEVR2023**) [[Paper]](https://ieeexplore.ieee.org/document/10108617/)
+*IEEE Conference on Virtual Reality and 3D User Interfaces* (**IEEEVR2023**) [Paper](https://ieeexplore.ieee.org/document/10108617/)
 
 </div>
 </div>
@@ -187,7 +187,7 @@ Paper is coming soon (with full author list).
 
 [Qingyang He](https://qingyanghe.com/)<sup>\*</sup>, [Weicheng Zheng](https://orcid.org/0009-0002-2550-8823)<sup>\*</sup>, Hanxi Bao, **Ruiqi Chen**, [Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en)
 
-*International Symposium of Chinese Computer-Human Interaction* (**ChineseCHI2023**) [[Paper]](https://dl.acm.org/doi/fullHtml/10.1145/3629606.3629675) \| [[Project]](https://github.com/Ruiqi-Chen-0216/0-Sketch-Paint)
+*International Symposium of Chinese Computer-Human Interaction* (**ChineseCHI2023**) [Paper](https://dl.acm.org/doi/fullHtml/10.1145/3629606.3629675) \| [Github](https://github.com/Ruiqi-Chen-0216/0-Sketch-Paint)
 
 </div>
 </div>
