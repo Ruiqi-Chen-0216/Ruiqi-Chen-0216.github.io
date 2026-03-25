@@ -18,20 +18,20 @@ layout: default
 </div>
 
 <div class="pub-item" data-categories="benchmark">
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/ArXiv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/DAB.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## Data Agent Benchmark
+## Can AI Agents Answer Your Data Questions? A Benchmark for Data Agents
 
 [Ruiying Ma](https://ruiying-ma.github.io/)<sup>*</sup>,
-[Shreya Shankar](https://www.sh-reya.com/)<sup>*</sup>, 
+[Shreya Shankar](https://www.sh-reya.com/)<sup>*</sup>,
 **Ruiqi Chen**,
 [Yiming Lin](https://yiminglin18.com/),
 [Sepanta Zeighami](https://szeighami.github.io/),
- …, [Aditya G. Parameswaran](https://people.eecs.berkeley.edu/~adityagp/)
+Rajoshi Ghosh, Abhinav Gupta, Anushrut Gupta, Tanmai Gopal,
+[Aditya G. Parameswaran](https://people.eecs.berkeley.edu/~adityagp/)
 
-
-Paper is coming soon (with full author list).
+*Preprint*
 
 [Paper](https://arxiv.org/abs/2603.20576v1) \| [Github](https://github.com/ucbepic/DataAgentBench) \| [Website](https://ucbepic.github.io/DataAgentBench/)
 
@@ -50,7 +50,7 @@ Paper is coming soon (with full author list).
 
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026* (**CVPR2026**)
 
-[Paper](https://arxiv.org/pdf/2602.18424) \| [Github](https://github.com/makeabilitylab/CapNav) \| [Hugging Face](https://huggingface.co/datasets/RichardC0216/CapNav)
+[Paper](https://arxiv.org/pdf/2602.18424) \| [Github](https://github.com/makeabilitylab/CapNav) \| [Hugging Face](https://huggingface.co/datasets/RichardC0216/CapNav) \| [Website](https://makeabilitylab.github.io/CapNav/)
 
 </div>
 </div>
