@@ -102,7 +102,7 @@ Rajoshi Ghosh, Abhinav Gupta, Anushrut Gupta, Tanmai Gopal,
 
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026* (**CVPR2026**)
 
-[Paper](https://arxiv.org/pdf/2602.18424) \| [Github](https://github.com/makeabilitylab/CapNav) \| [Hugging Face](https://huggingface.co/datasets/RichardC0216/CapNav)
+[Paper](https://arxiv.org/pdf/2602.18424) \| [Github](https://github.com/makeabilitylab/CapNav) \| [Hugging Face](https://huggingface.co/datasets/RichardC0216/CapNav) \| [Website](https://makeabilitylab.github.io/CapNav/)
 
 </div>
 </div>
