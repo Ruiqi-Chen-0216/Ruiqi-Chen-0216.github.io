@@ -70,7 +70,7 @@ My research lies at the intersection of Human–Computer Interaction (HCI) and A
 </div>
 
 <div class="pub-item" data-categories="benchmark">
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/ArXiv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/DAB.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## Can AI Agents Answer Your Data Questions? A Benchmark for Data Agents
