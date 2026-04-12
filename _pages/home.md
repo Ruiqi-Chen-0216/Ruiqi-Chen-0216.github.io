@@ -21,6 +21,7 @@ layout: default
     <h2 class="home-name">{{ site.author.name }}</h2>
     <p class="home-degree">M.S. in <a href="https://www.hcde.washington.edu/">Human Centered Design &amp; Engineering</a></p>
     <p class="home-university">University of Washington</p>
+    <p class="home-incoming">Incoming Ph.D. @ <a href="https://cse.engin.umich.edu/">University of Michigan CSE</a></p>
     <div class="home-labs">
       <a href="https://makeabilitylab.cs.washington.edu/">Makeability Lab</a> &middot; <a href="https://depts.washington.edu/acelab/">ACE Lab</a><br>
       Collab: <a href="https://people.eecs.berkeley.edu/~adityagp/">UC Berkeley</a>

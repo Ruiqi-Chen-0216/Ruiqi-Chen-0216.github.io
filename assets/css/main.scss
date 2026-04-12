@@ -355,8 +355,15 @@ h1:before, .anchor:before {
 .home-university {
     font-size: 0.88em;
     font-weight: 600;
-    margin: 0 0 0.4em;
+    margin: 0 0 0.15em;
     color: $text-color;
+}
+
+.home-incoming {
+    font-size: 0.88em;
+    font-weight: 600;
+    margin: 0 0 0.4em;
+    color: $link-color;
 }
 
 .home-labs {
