@@ -245,7 +245,7 @@ $scroll_offset : 2em;
         display: block;
         padding: 0.25rem 0.55rem;
         margin: 0 0.3rem;
-        color: $masthead-link-color;
+        color: $info-color;
         text-decoration: none;
         font-family: $sans-serif-narrow;
         font-size: $type-size-5;
@@ -254,7 +254,7 @@ $scroll_offset : 2em;
         transition: border-color 0.15s ease, color 0.15s ease;
 
         &:hover {
-            border-color: $masthead-link-color;
+            border-color: $info-color;
         }
     }
 
@@ -269,14 +269,16 @@ $scroll_offset : 2em;
             border-color: transparent !important;
 
             &:hover {
-                color: $masthead-link-color-hover;
+                color: $info-color;
             }
         }
     }
 
-    // Active page: same border as hover
+    // Active page: navy border box + bold weight so the current section is
+    // unambiguously highlighted, even at a glance.
     a.active {
-        border-color: $masthead-link-color;
+        border-color: $info-color;
+        font-weight: 700;
     }
 
     // Icon-only links: no border box, just color change on hover
@@ -286,7 +288,7 @@ $scroll_offset : 2em;
         border-color: transparent !important;
 
         &:hover {
-            color: $masthead-link-color-hover;
+            color: $info-color;
         }
     }
 }
