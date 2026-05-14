@@ -103,13 +103,21 @@
 }
 
 $scroll_offset : 2em;
-h1:before, .anchor:before { 
-    content: ''; 
-    display: block; 
-    position: relative; 
-    width: 0; 
-    height: $scroll_offset; 
+h1:before, .anchor:before {
+    content: '';
+    display: block;
+    position: relative;
+    width: 0;
+    height: $scroll_offset;
     margin-top: -$scroll_offset;
+}
+
+// Chenglin-style section headings: navy text + maize vertical bar on the left.
+.page__content h1 {
+    color: $info-color;
+    border-left: 4px solid #FFCB05;
+    padding-left: 0.55em;
+    line-height: 1.15;
 }
 
 .badge {
@@ -315,6 +323,7 @@ h1:before, .anchor:before {
     font-weight: 700;
     margin: 0 0 0.25em;
     line-height: 1.2;
+    color: $info-color;
 }
 
 .home-degree {
@@ -328,7 +337,7 @@ h1:before, .anchor:before {
     font-size: 0.88em;
     font-weight: 600;
     margin: 0 0 0.15em;
-    color: $text-color;
+    color: $info-color;
 }
 
 .home-incoming {
