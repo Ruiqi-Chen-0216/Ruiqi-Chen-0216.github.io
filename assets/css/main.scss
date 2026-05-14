@@ -119,7 +119,7 @@ h1:before, .anchor:before {
     margin-top: .5em;
     margin-left: -.5em;
     color: white;
-    background-color: #00369f;
+    background-color: $info-color;
     font-size: .8em;
     border-radius: 4px;
 }
@@ -134,9 +134,10 @@ h1:before, .anchor:before {
 
 .filter-btn {
     padding: 0.4em 1.25em;
-    border: 2px solid currentColor;
+    border: 2px solid $info-color;
     border-radius: 999px;
     background: white;
+    color: $info-color;
     font-size: 0.85em;
     font-weight: 600;
     cursor: pointer;
@@ -146,43 +147,14 @@ h1:before, .anchor:before {
 
     &:hover {
         transform: translateY(-1px);
-        box-shadow: 0 3px 10px rgba(0,0,0,0.12);
+        box-shadow: 0 3px 10px rgba(0, 39, 76, 0.18);
     }
 
-    &[data-filter="all"] {
-        color: #374151;
-        &:hover, &.active {
-            background: #374151;
-            color: white;
-            box-shadow: 0 3px 10px rgba(55,65,81,0.3);
-        }
-    }
-
-    &[data-filter="benchmark"] {
-        color: #7C3AED;
-        &:hover, &.active {
-            background: #7C3AED;
-            color: white;
-            box-shadow: 0 3px 10px rgba(124,58,237,0.3);
-        }
-    }
-
-    &[data-filter="human-ai"] {
-        color: #0891B2;
-        &:hover, &.active {
-            background: #0891B2;
-            color: white;
-            box-shadow: 0 3px 10px rgba(8,145,178,0.3);
-        }
-    }
-
-    &[data-filter="hci"] {
-        color: #2563EB;
-        &:hover, &.active {
-            background: #2563EB;
-            color: white;
-            box-shadow: 0 3px 10px rgba(37,99,235,0.3);
-        }
+    &:hover,
+    &.active {
+        background: $info-color;
+        color: white;
+        box-shadow: 0 3px 10px rgba(0, 39, 76, 0.3);
     }
 }
 
