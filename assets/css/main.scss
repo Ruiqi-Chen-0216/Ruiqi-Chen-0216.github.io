@@ -40,6 +40,13 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+// Chenglin-style emphasis: bold text inside page content reads as UMich navy,
+// so it stops competing with body-gray and starts agreeing with links/headings.
+.page__content strong,
+.page__content b {
+    color: $info-color;
+}
+
 .paper-box {
     display: flex;
     justify-content: left;
@@ -75,7 +82,7 @@
         order: 1;
 
         h2 {
-            color: #1a1a1a;
+            color: $info-color;
             font-size: 1.1em;
             margin-top: 0.3em;
             margin-bottom: 0.3em;
@@ -170,7 +177,7 @@ h1:before, .anchor:before {
     }
 
     h3 {
-        color: #1a1a1a;
+        color: $info-color;
         margin-top: 0.2em;
         margin-bottom: 0.25em;
     }
