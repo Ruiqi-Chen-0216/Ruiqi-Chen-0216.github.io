@@ -103,7 +103,7 @@
 }
 
 $scroll_offset : 2em;
-h1:before, .anchor:before {
+.anchor:before {
     content: '';
     display: block;
     position: relative;
@@ -113,11 +113,14 @@ h1:before, .anchor:before {
 }
 
 // Chenglin-style section headings: navy text + maize vertical bar on the left.
+// scroll-margin-top replaces the old `:before` hack — gives the same anchor
+// offset without inflating the h1's box height (which made border-left tall).
 .page__content h1 {
     color: $info-color;
     border-left: 4px solid #FFCB05;
     padding-left: 0.55em;
     line-height: 1.15;
+    scroll-margin-top: $scroll_offset;
 }
 
 .badge {
