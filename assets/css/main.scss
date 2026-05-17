@@ -40,6 +40,8 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+$umich-maize: #FFCB05;
+
 .paper-box {
     display: flex;
     justify-content: left;
@@ -117,10 +119,23 @@ $scroll_offset : 2em;
 // offset without inflating the h1's box height (which made border-left tall).
 .page__content h1 {
     color: $info-color;
-    border-left: 4px solid #FFCB05;
+    border-left: 4px solid $umich-maize;
     padding-left: 0.55em;
     line-height: 1.15;
     scroll-margin-top: $scroll_offset;
+}
+
+.page__content a {
+    text-decoration: none !important;
+    text-decoration-thickness: 0.11em;
+    text-underline-offset: 0.18em;
+    transition: color 0.15s ease, text-decoration-color 0.15s ease;
+
+    &:hover,
+    &:focus {
+        text-decoration: underline !important;
+        text-decoration-color: $umich-maize !important;
+    }
 }
 
 .badge {
@@ -210,7 +225,7 @@ $scroll_offset : 2em;
 
 // UMich maize top accent bar — part of the masthead itself
 .masthead {
-    border-top: 4px solid #FFCB05 !important;
+    border-top: 4px solid $umich-maize !important;
 }
 
 // Align masthead width with content area
@@ -254,7 +269,7 @@ $scroll_offset : 2em;
         transition: border-color 0.15s ease, color 0.15s ease;
 
         &:hover {
-            border-color: $info-color;
+            border-color: $umich-maize;
         }
     }
 
@@ -274,10 +289,10 @@ $scroll_offset : 2em;
         }
     }
 
-    // Active page: navy border box + bold weight so the current section is
+    // Active page: maize border box + bold weight so the current section is
     // unambiguously highlighted, even at a glance.
     a.active {
-        border-color: $info-color;
+        border-color: $umich-maize;
         font-weight: 700;
     }
 
