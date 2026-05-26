@@ -21,7 +21,7 @@ layout: default
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/ArXiv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## MORAL TROLLEY: Compressed Moral Composition in Frontier LLMs
+## Moral Trolley Arena: Measuring Trade-offs Among Composed Moral Acts
 
 [Weijia Zhang](https://charliedreemur.github.io/)<sup>*</sup>,
 **Ruiqi Chen**<sup>*</sup>,
