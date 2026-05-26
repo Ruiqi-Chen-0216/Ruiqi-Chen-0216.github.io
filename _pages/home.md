@@ -71,6 +71,26 @@ My research lies at the intersection of Human–Computer Interaction (HCI) and A
 </div>
 
 <div class="pub-item" data-categories="benchmark">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/ArXiv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## MORAL TROLLEY: Compressed Moral Composition in Frontier LLMs
+
+[Weijia Zhang](https://charliedreemur.github.io/)<sup>*</sup>,
+**Ruiqi Chen**<sup>*</sup>,
+[Yunze Xiao](https://algoroxyolo.github.io/),
+[Weihao Xuan](https://weihaoxuan.com/)
+
+*Preprint*
+
+Paper coming soon.
+
+</div>
+</div>
+</div>
+
+
+<div class="pub-item" data-categories="benchmark">
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/DAB.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
