@@ -91,6 +91,28 @@ Paper coming soon.
 
 
 <div class="pub-item" data-categories="benchmark">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ArXiv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## Agreement Is Not Enough: Calibrating Multi-LLM Consensus for Reliable Biomedical Named Entity Recognition
+
+Shuheng Cao<sup>*</sup>,
+**Ruiqi Chen**<sup>*</sup>,
+[Renjie Cao](https://scholar.google.com/citations?user=H6wYLmwAAAAJ&hl=en),
+[Zhenhao Zhang](https://zhangzhh.cn/),
+[Siyu Zhang](https://scholar.google.com/citations?user=T_XVf3EAAAAJ&hl=en&oi=sra),
+[Tingting Dan](https://scholar.google.com/citations?user=FMcmg0gAAAAJ&hl=en&oi=ao)
+
+*Preprint*
+
+Paper coming soon.
+
+</div>
+</div>
+</div>
+
+
+<div class="pub-item" data-categories="benchmark">
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/DAB.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
