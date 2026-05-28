@@ -73,11 +73,11 @@ My research lies at the intersection of Human–Computer Interaction (HCI) and A
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/ArXiv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## Moral Trolley Arena: Measuring Trade-offs Among Composed Moral Acts
+## Every Act Has Its Price: Compressed Moral Composition in Frontier LLMs
 
 [Weijia Zhang](https://charliedreemur.github.io/)<sup>*</sup>,
 **Ruiqi Chen**<sup>*</sup>,
-[Yunze Xiao](https://algoroxyolo.github.io/),
+[Yunze Xiao](https://algoroxyolo.github.io/)<sup>*</sup>,
 [Weihao Xuan](https://weihaoxuan.com/)
 
 *Preprint*
@@ -90,10 +90,10 @@ Paper coming soon.
 
 
 <div class="pub-item" data-categories="benchmark">
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ArXiv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/ArXiv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## Agreement Is Not Enough: Calibrating Multi-LLM Consensus for Reliable Biomedical Named Entity Recognition
+## Beyond Agreement: Scoring Panel-Surfaced Biomedical Entity Candidates for Curator Triage
 
 Shuheng Cao<sup>*</sup>,
 **Ruiqi Chen**<sup>*</sup>,
