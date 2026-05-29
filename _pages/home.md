@@ -65,6 +65,7 @@ My research lies at the intersection of Human–Computer Interaction (HCI) and A
 <div class="pub-filter">
   <button class="filter-btn active" data-filter="all">All</button>
   <button class="filter-btn" data-filter="benchmark">AI Benchmark</button>
+  <button class="filter-btn" data-filter="embodied-ai">Embodied AI</button>
   <button class="filter-btn" data-filter="human-ai">Human-AI</button>
   <button class="filter-btn" data-filter="hci">Human Computer Interaction</button>
 </div>
@@ -101,6 +102,30 @@ Shuheng Cao<sup>*</sup>,
 [Zhenhao Zhang](https://zhangzhh.cn/),
 [Siyu Zhang](https://scholar.google.com/citations?user=T_XVf3EAAAAJ&hl=en&oi=sra),
 [Tingting Dan](https://scholar.google.com/citations?user=FMcmg0gAAAAJ&hl=en&oi=ao)
+
+*Preprint*
+
+Paper coming soon.
+
+</div>
+</div>
+</div>
+
+
+<div class="pub-item" data-categories="embodied-ai">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/ArXiv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## Event-Aware Action Routing for Illumination-Robust Vision-Language-Action Policies
+
+Jiaxin Liu,
+Xun Xu,
+[Zhenhao Zhang](https://zhangzhh.cn/),
+Hanqing Wang,
+**Ruiqi Chen**,
+Shi Chang,
+Weiyu Guo,
+Laurent Kneip
 
 *Preprint*
 
