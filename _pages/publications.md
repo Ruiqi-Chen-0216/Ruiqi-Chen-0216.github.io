@@ -235,6 +235,7 @@ Rajoshi Ghosh, Abhinav Gupta, Anushrut Gupta, Tanmai Gopal,
 </div>
 </div>
 
+<!--
 <div class="pub-item" data-categories="hci">
 <div class="pub-list-paper" markdown="1">
 
@@ -282,6 +283,7 @@ Rajoshi Ghosh, Abhinav Gupta, Anushrut Gupta, Tanmai Gopal,
 
 </div>
 </div>
+-->
 
 
 <!--- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**-->

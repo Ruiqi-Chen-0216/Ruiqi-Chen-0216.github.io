@@ -286,6 +286,7 @@ Rajoshi Ghosh, Abhinav Gupta, Anushrut Gupta, Tanmai Gopal,
 </div>
 </div>
 
+<!--
 <div class="pub-item" data-categories="hci">
 <div class="pub-list-paper" markdown="1">
 
@@ -333,6 +334,7 @@ Rajoshi Ghosh, Abhinav Gupta, Anushrut Gupta, Tanmai Gopal,
 
 </div>
 </div>
+-->
 
 <script>
 document.querySelectorAll('.filter-btn').forEach(function(btn) {
