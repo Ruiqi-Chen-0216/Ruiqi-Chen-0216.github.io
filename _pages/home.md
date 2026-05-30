@@ -137,6 +137,30 @@ Paper coming soon.
 
 
 <div class="pub-item" data-categories="benchmark">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/ArXiv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## How Much Vision Does Multimodal Reasoning Need? Vision-Stripping for Multimodal Benchmarks
+
+[Weijia Zhang](https://charliedreemur.github.io/),
+[Zijia Liu](https://scholar.google.com/citations?hl=zh-CN&user=17f5_L4AAAAJ),
+[Tianyi Zhang](https://pinkstrokes.com/),
+**Ruiqi Chen**,
+Lian Zhang,
+Haoru Li,
+Haoqi Chen,
+[Jiaxuan You](https://cs.stanford.edu/~jiaxuan/)
+
+*Preprint*
+
+Paper coming soon.
+
+</div>
+</div>
+</div>
+
+
+<div class="pub-item" data-categories="benchmark">
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/DAB.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
