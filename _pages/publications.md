@@ -284,12 +284,6 @@ Rajoshi Ghosh, Abhinav Gupta, Anushrut Gupta, Tanmai Gopal,
 </div>
 
 
-**About Manuscripts**:
-
-There are several projects currently ongoing:
-1. DesignBench: A Benchmark and Annotation System for Design DNA Extraction and Slide Design Evaluation. (advised by Prof. Jacob O. Wobbrock)
-2. CapNav-Tune: Fine-Tuning Vision-Language Models for Capability-Aware Indoor Navigation (advised by Prof. Jon E. Froehlich)
-
 <!--- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**-->
 
 <script>

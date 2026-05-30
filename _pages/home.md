@@ -354,8 +354,3 @@ document.querySelectorAll('.filter-btn').forEach(function(btn) {
 });
 </script>
 
-**About Manuscripts**:
-
-There are several projects currently ongoing:
-1. DesignBench: A Benchmark and Annotation System for Design DNA Extraction and Slide Design Evaluation. (advised by Prof. Jacob O. Wobbrock)
-2. CapNav-Tune: Fine-Tuning Vision-Language Models for Capability-Aware Indoor Navigation (advised by Prof. Jon E. Froehlich)
