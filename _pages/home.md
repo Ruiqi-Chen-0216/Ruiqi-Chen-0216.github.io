@@ -19,12 +19,9 @@ layout: default
   <img src="{{ site.author.avatar | absolute_url }}" class="home-avatar" alt="{{ site.author.name }}">
   <div class="home-profile-info">
     <h2 class="home-name">{{ site.author.name }}</h2>
-    <p class="home-degree">M.S. in <a href="https://www.hcde.washington.edu/">Human Centered Design &amp; Engineering</a></p>
-    <p class="home-university">University of Washington</p>
-    <p class="home-incoming">Incoming Ph.D. @ <a href="https://cse.engin.umich.edu/">University of Michigan CSE</a></p>
+    <p class="home-incoming">Incoming Ph.D. in <a href="https://cse.engin.umich.edu/">Computer Science and Engineering</a></p>
     <div class="home-labs">
-      <a href="https://makeabilitylab.cs.washington.edu/">Makeability Lab</a> &middot; <a href="https://depts.washington.edu/acelab/">ACE Lab</a><br>
-      Collab: <a href="https://people.eecs.berkeley.edu/~adityagp/">UC Berkeley</a>
+      <a href="https://guoanhong.com/">Human-AI Lab</a>
     </div>
     <hr class="home-divider">
     <div class="home-links">
