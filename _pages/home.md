@@ -65,9 +65,9 @@ My research lies at the intersection of Human–Computer Interaction (HCI) and A
 <div class="pub-filter">
   <button class="filter-btn active" data-filter="all">All</button>
   <button class="filter-btn" data-filter="benchmark">AI Benchmark</button>
+  <button class="filter-btn" data-filter="agent">AI Agents</button>
   <button class="filter-btn" data-filter="embodied-ai">Embodied AI</button>
   <button class="filter-btn" data-filter="human-ai">Human-AI</button>
-  <button class="filter-btn" data-filter="hci">Human Computer Interaction</button>
 </div>
 
 <div class="pub-item" data-categories="benchmark">
@@ -112,7 +112,7 @@ Paper coming soon.
 </div>
 
 
-<div class="pub-item" data-categories="embodied-ai">
+<div class="pub-item" data-categories="embodied-ai agent">
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/ArXiv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -160,7 +160,7 @@ Paper coming soon.
 </div>
 
 
-<div class="pub-item" data-categories="benchmark">
+<div class="pub-item" data-categories="benchmark agent">
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/DAB.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -183,7 +183,7 @@ Rajoshi Ghosh, Abhinav Gupta, Anushrut Gupta, Tanmai Gopal,
 </div>
 
 
-<div class="pub-item" data-categories="benchmark">
+<div class="pub-item" data-categories="benchmark embodied-ai">
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/capnav.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -199,7 +199,7 @@ Rajoshi Ghosh, Abhinav Gupta, Anushrut Gupta, Tanmai Gopal,
 </div>
 </div>
 
-<div class="pub-item" data-categories="human-ai">
+<div class="pub-item" data-categories="agent">
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIDR 2026</div><img src='images/AIOverlord.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -255,7 +255,7 @@ Rajoshi Ghosh, Abhinav Gupta, Anushrut Gupta, Tanmai Gopal,
 </div>
 
 
-<div class="pub-item" data-categories="hci">
+<div class="pub-item" data-categories="">
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/NSZT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -272,7 +272,7 @@ Rajoshi Ghosh, Abhinav Gupta, Anushrut Gupta, Tanmai Gopal,
 </div>
 
 
-<div class="pub-item" data-categories="hci">
+<div class="pub-item" data-categories="">
 <div class="pub-list-paper" markdown="1">
 
 ### GestoBrush: Facilitating Graffiti Artists' Digital Creation Experiences through Embodied AR Interactions
@@ -285,56 +285,6 @@ Rajoshi Ghosh, Abhinav Gupta, Anushrut Gupta, Tanmai Gopal,
 
 </div>
 </div>
-
-<!--
-<div class="pub-item" data-categories="hci">
-<div class="pub-list-paper" markdown="1">
-
-### Parental Perceptions of Children's d/Deaf Identity Shaping Technology Use: A Qualitative Study on Communication Technologies in Mixed-hearing Families
-
-[Keyi Zeng](https://arkxlab.github.io/profile/keyi.html#), Jingyang Lin, **Ruiqi Chen**, [RAY LC](https://raylc.org/), [Pan Hui](https://panhui.people.ust.hk/index.html), [Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en)
-
-*ACM CHI Conference on Human Factors in Computing Systems* (**CHI2025**) [Paper](https://doi.org/10.1145/3706599.3719753)
-
-</div>
-</div>
-
-<div class="pub-item" data-categories="human-ai">
-<div class="pub-list-paper" markdown="1">
-
-### DIAM: Drone-based Indoor Accessibility Mapping
-
-[Xia Su](https://xiasu.github.io/), **Ruiqi Chen**, [Weiye Zhang](https://makeabilitylab.cs.washington.edu/member/richardweiyezhang/), [Jingwei Ma](https://jingweim.github.io/), [Jon E. Froehlich](https://jonfroehlich.github.io/)
-
-*ACM Symposium on User Interface Software and Technology* (**UIST2024**) [Paper](https://dl.acm.org/doi/10.1145/3672539.3686782) \| [[Website]](https://makeabilitylab.cs.washington.edu/project/diam/)
-
-</div>
-</div>
-
-<div class="pub-item" data-categories="hci">
-<div class="pub-list-paper" markdown="1">
-
-### Design and Evaluation of a VR Therapy for Patients with Mild Cognitive Impairment and Dementia: Perspectives from Patients and Stakeholders
-
-**Ruiqi Chen**, Shuhe Wang, [Xuhai Xu](https://orsonxu.com/), Lan Wei, [Yuling Sun](https://www.yulingsun.net/), [Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en)
-
-*IEEE Conference on Virtual Reality and 3D User Interfaces* (**IEEEVR2023**) [Paper](https://ieeexplore.ieee.org/document/10108617/)
-
-</div>
-</div>
-
-<div class="pub-item" data-categories="human-ai">
-<div class="pub-list-paper" markdown="1">
-
-### Exploring Designers' Perceptions and Practices of Collaborating with Generative AI as a Co-creative Agent in a Multi-stakeholder Design Process: Take the Domain of Avatar Design as an Example
-
-[Qingyang He](https://qingyanghe.com/)<sup>\*</sup>, [Weicheng Zheng](https://orcid.org/0009-0002-2550-8823)<sup>\*</sup>, Hanxi Bao, **Ruiqi Chen**, [Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en)
-
-*International Symposium of Chinese Computer-Human Interaction* (**ChineseCHI2023**) [Paper](https://dl.acm.org/doi/fullHtml/10.1145/3629606.3629675) \| [Github](https://github.com/Ruiqi-Chen-0216/0-Sketch-Paint)
-
-</div>
-</div>
--->
 
 <script>
 document.querySelectorAll('.filter-btn').forEach(function(btn) {
@@ -355,4 +305,3 @@ document.querySelectorAll('.filter-btn').forEach(function(btn) {
   });
 });
 </script>
-
