@@ -20,6 +20,7 @@ layout: default
   <div class="home-profile-info">
     <h2 class="home-name">{{ site.author.name }}</h2>
     <p class="home-incoming">Incoming Ph.D. in <a href="https://cse.engin.umich.edu/">Computer Science and Engineering</a></p>
+    <p class="home-university">University of Michigan</p>
     <div class="home-labs">
       <a href="https://guoanhong.com/">Human-AI Lab</a>
     </div>
