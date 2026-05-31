@@ -60,20 +60,20 @@ Paper coming soon.
 </div>
 
 
-<div class="pub-item" data-categories="embodied-ai agent">
+<div class="pub-item" data-categories="embodied-ai human-ai agent">
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/ArXiv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## Event-Aware Action Routing for Illumination-Robust Vision-Language-Action Policies
+## Holistic Human Intent-Conditioned Planning for Autonomous Driving
 
-Jiaxin Liu,
-Xun Xu,
-[Zhenhao Zhang](https://zhangzhh.cn/),
-Hanqing Wang,
+[Xuewen Luo](https://scholar.google.com/citations?user=QzVrwt4AAAAJ&hl=en),
+Ding Fan,
 **Ruiqi Chen**,
-Shi Chang,
-Weiyu Guo,
-Laurent Kneip
+Ye Cao,
+Xiujin Liu,
+Bo Yu,
+Fengze Yang,
+[Chenxi Liu](https://chenxiliu-dylan.github.io/)
 
 *Preprint*
 
@@ -98,6 +98,30 @@ Lian Zhang,
 Haoru Li,
 Haoqi Chen,
 [Jiaxuan You](https://cs.stanford.edu/~jiaxuan/)
+
+*Preprint*
+
+Paper coming soon.
+
+</div>
+</div>
+</div>
+
+
+<div class="pub-item" data-categories="embodied-ai agent">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/ArXiv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## Event-Aware Action Routing for Illumination-Robust Vision-Language-Action Policies
+
+Jiaxin Liu,
+Xun Xu,
+[Zhenhao Zhang](https://zhangzhh.cn/),
+Hanqing Wang,
+**Ruiqi Chen**,
+Shi Chang,
+Weiyu Guo,
+Laurent Kneip
 
 *Preprint*
 
