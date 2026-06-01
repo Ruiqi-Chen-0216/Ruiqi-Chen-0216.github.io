@@ -19,7 +19,7 @@ layout: default
 </div>
 
 <div class="pub-item" data-categories="benchmark">
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/ArXiv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/MoralComposition.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## Every Act Has Its Price: Compressed Moral Composition in Frontier LLMs
