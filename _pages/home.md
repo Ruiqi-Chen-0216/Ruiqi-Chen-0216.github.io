@@ -164,9 +164,9 @@ Paper coming soon.
 
 ## Event-Aware Action Routing for Illumination-Robust Vision-Language-Action Policies
 
-Jiaxin Liu,
-Xun Xu,
-[Zhenhao Zhang](https://zhangzhh.cn/),
+Jiaxin Liu<sup>*</sup>,
+Xun Xu<sup>*</sup>,
+[Zhenhao Zhang](https://zhangzhh.cn/)<sup>*</sup>,
 Hanqing Wang,
 **Ruiqi Chen**,
 Shi Chang,
