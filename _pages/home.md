@@ -26,11 +26,12 @@ layout: default
     </div>
     <hr class="home-divider">
     <div class="home-links">
-      {% if site.author.email %}<a href="mailto:{{ site.author.email }}"><i class="fas fa-fw fa-envelope"></i> Email</a>{% endif %}
-      {% if site.author.github %}<a href="https://github.com/{{ site.author.github }}"><i class="fab fa-fw fa-github"></i> GitHub</a>{% endif %}
-      {% if site.author.googlescholar %}<a href="{{ site.author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Scholar</a>{% endif %}
-      {% if site.author.linkedin %}<a href="https://www.linkedin.com/in/{{ site.author.linkedin }}"><i class="fab fa-fw fa-linkedin"></i> LinkedIn</a>{% endif %}
-      {% if site.author.orcid %}<a href="{{ site.author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a>{% endif %}
+      {% if site.author.location %}<span class="home-link-static"><i class="fas fa-fw fa-map-marker-alt"></i><span>{{ site.author.location }}</span></span>{% endif %}
+      {% if site.author.email %}<a href="mailto:{{ site.author.email }}"><i class="fas fa-fw fa-envelope"></i><span>ruiqich [at] umich [dot] edu</span></a>{% endif %}
+      {% if site.author.googlescholar %}<a href="{{ site.author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i><span>Google Scholar</span></a>{% endif %}
+      {% if site.author.github %}<a href="https://github.com/{{ site.author.github }}"><i class="fab fa-fw fa-github"></i><span>{{ site.author.github }}</span></a>{% endif %}
+      {% if site.author.linkedin %}<a href="https://www.linkedin.com/in/{{ site.author.linkedin }}"><i class="fab fa-fw fa-linkedin"></i><span>Ruiqi Chen</span></a>{% endif %}
+      {% if site.author.orcid %}<a href="{{ site.author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i><span>0000-0001-7255-5353</span></a>{% endif %}
     </div>
   </div>
 </div>
