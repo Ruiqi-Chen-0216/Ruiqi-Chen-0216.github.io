@@ -89,7 +89,7 @@ Paper coming soon.
 
 
 <div class="pub-item" data-categories="benchmark">
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/ArXiv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/BeyondAgreement.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## Beyond Agreement: Scoring Panel-Surfaced Biomedical Entity Candidates for Curator Triage
@@ -103,7 +103,7 @@ Shuheng Cao<sup>*</sup>,
 
 *Preprint*
 
-Paper coming soon.
+[Paper](http://arxiv.org/abs/2605.30826)
 
 </div>
 </div>
