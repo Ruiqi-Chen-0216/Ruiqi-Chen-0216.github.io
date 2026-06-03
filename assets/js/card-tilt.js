@@ -1,6 +1,6 @@
 (() => {
   const cards = Array.from(document.querySelectorAll(
-    ".home-profile-card, .paper-box, .pub-list-paper"
+    ".home-profile-card"
   ));
 
   if (!cards.length) {
@@ -24,7 +24,7 @@
     const rect = card.getBoundingClientRect();
     const x = (event.clientX - rect.left) / rect.width;
     const y = (event.clientY - rect.top) / rect.height;
-    const maxRotate = card.classList.contains("home-profile-card") ? 10 : 6;
+    const maxRotate = 5.5;
     const rotateX = (0.5 - y) * maxRotate;
     const rotateY = (x - 0.5) * maxRotate * 1.25;
 
