@@ -8,8 +8,6 @@
   }
 
   const reduceMotionQuery = window.matchMedia("(prefers-reduced-motion: reduce)");
-  const maxRotate = 6;
-
   function resetCard(card) {
     card.classList.remove("is-tilting");
     card.style.removeProperty("--tilt-rx");
@@ -26,8 +24,9 @@
     const rect = card.getBoundingClientRect();
     const x = (event.clientX - rect.left) / rect.width;
     const y = (event.clientY - rect.top) / rect.height;
+    const maxRotate = card.classList.contains("home-profile-card") ? 10 : 6;
     const rotateX = (0.5 - y) * maxRotate;
-    const rotateY = (x - 0.5) * maxRotate * 1.2;
+    const rotateY = (x - 0.5) * maxRotate * 1.25;
 
     card.classList.add("is-tilting");
     card.style.setProperty("--tilt-rx", `${rotateX.toFixed(2)}deg`);
