@@ -1,6 +1,5 @@
 (() => {
   const revealSelectors = [
-    ".home-profile-card",
     ".home-bio > .notice--info",
     ".home-bio > p",
     ".page__content > h1",
