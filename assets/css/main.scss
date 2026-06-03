@@ -470,9 +470,15 @@ $scroll_offset : 2em;
     --tilt-lift: 0;
     --tilt-glow-x: 50%;
     --tilt-glow-y: 50%;
+    --tilt-perspective: 900px;
+    --reveal-opacity: 1;
+    --reveal-blur: 0;
+    --reveal-y: 0px;
 
     position: relative;
-    transform: perspective(900px) rotateX(var(--tilt-rx)) rotateY(var(--tilt-ry)) translateY(var(--tilt-lift));
+    opacity: var(--reveal-opacity);
+    filter: blur(var(--reveal-blur));
+    transform: perspective(var(--tilt-perspective)) rotateX(var(--tilt-rx)) rotateY(var(--tilt-ry)) translate3d(0, var(--reveal-y), 0) translateY(var(--tilt-lift));
     transform-style: preserve-3d;
     transition:
         transform 180ms ease,
@@ -535,6 +541,8 @@ $scroll_offset : 2em;
 }
 
 .home-profile-card.tilt-card {
+    --tilt-perspective: 620px;
+
     box-sizing: border-box;
     border: 1px solid rgba(0, 39, 76, 0.08);
     border-radius: 8px;
@@ -623,9 +631,13 @@ $scroll_offset : 2em;
 }
 
 .reveal-item {
-    opacity: 0;
-    filter: blur(4px);
-    transform: translate3d(0, 18px, 0);
+    --reveal-opacity: 0;
+    --reveal-blur: 4px;
+    --reveal-y: 18px;
+
+    opacity: var(--reveal-opacity);
+    filter: blur(var(--reveal-blur));
+    transform: translate3d(0, var(--reveal-y), 0);
     transition:
         opacity 520ms ease,
         filter 520ms ease,
@@ -635,9 +647,9 @@ $scroll_offset : 2em;
 }
 
 .reveal-item.is-visible {
-    opacity: 1;
-    filter: blur(0);
-    transform: translate3d(0, 0, 0);
+    --reveal-opacity: 1;
+    --reveal-blur: 0;
+    --reveal-y: 0px;
 }
 
 @media (prefers-reduced-motion: reduce) {
