@@ -165,7 +165,7 @@ Rajoshi Ghosh, Abhinav Gupta, Anushrut Gupta, Tanmai Gopal,
 
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026* (**CVPR2026**)
 
-[Paper](https://arxiv.org/pdf/2602.18424) \| [Github](https://github.com/makeabilitylab/CapNav) \| [Hugging Face](https://huggingface.co/datasets/RichardC0216/CapNav) \| [Website](https://makeabilitylab.github.io/CapNav/)
+[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Su_CapNav_Benchmarking_Vision_Language_Models_on_Capability-conditioned_Indoor_Navigation_CVPR_2026_paper.html) \| [Github](https://github.com/makeabilitylab/CapNav) \| [Hugging Face](https://huggingface.co/datasets/RichardC0216/CapNav) \| [Website](https://makeabilitylab.github.io/CapNav/)
 
 </div>
 </div>
