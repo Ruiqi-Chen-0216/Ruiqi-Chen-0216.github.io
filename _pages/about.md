@@ -35,11 +35,6 @@ My research focuses on building and evaluating AI models and systems that align 
   * May 2024 – Present
   * Contributed to two research projects focusing on vision-language model benchmarking and human-AI collaborative perception systems.
 
-* [AI & Art for Knowledge & Creativity Lab](https://arkxlab.github.io/), Hong Kong University of Science and Technology (GZ)
-  * Research Assistant to [Prof. Xin Tong](https://cma.hkust-gz.edu.cn/people/tong-xin/)
-  * June 2024 – August 2024
-  * Contributed to two research project focusing on HCI and accessibility.
-
 * [Human-Computer Interactron Lab](https://arkxlab.github.io/), Duke Kunshan University
   * Undergraduate Research Assistant to [Prof. Xin Tong](https://scholar.google.com/citations?user=XIM08ZwAAAAJ&hl=zh-CN&oi=sra)
   * March 2022 – May 2024
