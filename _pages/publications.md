@@ -245,20 +245,6 @@ Rajoshi Ghosh, Abhinav Gupta, Anushrut Gupta, Tanmai Gopal,
 </div>
 
 
-<div class="pub-item" data-categories="">
-<div class="pub-list-paper" markdown="1">
-
-### GestoBrush: Facilitating Graffiti Artists' Digital Creation Experiences through Embodied AR Interactions
-
-**Ruiqi Chen**, [Qingyang He](https://qingyanghe.com/), Hanxi Bao, [Jung E. Choi](https://orcid.org/0000-0003-0058-8281), [Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en)
-
-*ACM International Symposium on Visual Information Communication and Interaction* (**VINCI2025**) [Paper (PDF)](papers/GestoBrush.pdf)
-
-🏆<span style="color:red; font-weight:bold;">Best Paper Award</span>
-
-</div>
-</div>
-
 <script>
 document.querySelectorAll('.filter-btn').forEach(function(btn) {
   btn.addEventListener('click', function() {
