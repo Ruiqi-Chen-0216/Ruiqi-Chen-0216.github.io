@@ -85,7 +85,7 @@ Paper coming soon.
 
 
 <div class="pub-item" data-categories="benchmark">
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/ArXiv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/Howmuchvision.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## How Much Vision Does Multimodal Reasoning Need? Vision-Stripping for Multimodal Benchmarks
