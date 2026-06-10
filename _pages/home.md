@@ -111,6 +111,46 @@ Shuheng Cao<sup>*</sup>,
 </div>
 
 
+<div class="pub-item" data-categories="benchmark embodied-ai">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/capnav.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## CapNav: Benchmarking Vision Language Models on Capability-conditioned Indoor Navigation
+
+[Xia Su](https://xiasu.github.io/)<sup>*</sup>, **Ruiqi Chen**<sup>*</sup>, [Benlin Liu](https://liubl1217.github.io/), [Jingwei Ma](https://jingweim.github.io/), [Zonglin Di](https://scholar.google.com/citations?user=5lFDxsMAAAAJ&hl=en), [Ranjay Krishna](https://ranjaykrishna.com/index.html), [Jon E. Froehlich](https://jonfroehlich.github.io/)
+
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026* (**CVPR2026**)
+
+[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Su_CapNav_Benchmarking_Vision_Language_Models_on_Capability-conditioned_Indoor_Navigation_CVPR_2026_paper.html) \| [Github](https://github.com/makeabilitylab/CapNav) \| [Hugging Face](https://huggingface.co/datasets/RichardC0216/CapNav) \| [Website](https://makeabilitylab.github.io/CapNav/)
+
+</div>
+</div>
+</div>
+
+
+<div class="pub-item" data-categories="benchmark agent">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/DAB.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## Can AI Agents Answer Your Data Questions? A Benchmark for Data Agents
+
+[Ruiying Ma](https://ruiying-ma.github.io/)<sup>*</sup>,
+[Shreya Shankar](https://www.sh-reya.com/)<sup>*</sup>, 
+**Ruiqi Chen**,
+[Yiming Lin](https://yiminglin18.com/),
+[Sepanta Zeighami](https://szeighami.github.io/),
+Rajoshi Ghosh, Abhinav Gupta, Anushrut Gupta, Tanmai Gopal,
+[Aditya G. Parameswaran](https://people.eecs.berkeley.edu/~adityagp/)
+
+*Preprint*
+
+[Paper](https://arxiv.org/abs/2603.20576v1) \| [Github](https://github.com/ucbepic/DataAgentBench) \| [Website](https://ucbepic.github.io/DataAgentBench/)
+
+</div>
+</div>
+</div>
+
+
 <div class="pub-item" data-categories="embodied-ai human-ai agent">
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/ArXiv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -159,6 +199,30 @@ Paper coming soon.
 </div>
 
 
+<div class="pub-item" data-categories="embodied-ai agent">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/ArXiv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## Event-Aware Action Routing for Illumination-Robust Vision-Language-Action Policies
+
+Jiaxin Liu<sup>*</sup>,
+Xun Xu<sup>*</sup>,
+[Zhenhao Zhang](https://zhangzhh.cn/)<sup>*</sup>,
+Hanqing Wang,
+**Ruiqi Chen**,
+Shi Chang,
+Weiyu Guo,
+Laurent Kneip
+
+*Preprint*
+
+Paper coming soon.
+
+</div>
+</div>
+</div>
+
+
 <div class="pub-item" data-categories="benchmark">
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/nvshu.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -190,69 +254,6 @@ Xin Xu
 </div>
 </div>
 
-
-<div class="pub-item" data-categories="embodied-ai agent">
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/ArXiv.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## Event-Aware Action Routing for Illumination-Robust Vision-Language-Action Policies
-
-Jiaxin Liu<sup>*</sup>,
-Xun Xu<sup>*</sup>,
-[Zhenhao Zhang](https://zhangzhh.cn/)<sup>*</sup>,
-Hanqing Wang,
-**Ruiqi Chen**,
-Shi Chang,
-Weiyu Guo,
-Laurent Kneip
-
-*Preprint*
-
-Paper coming soon.
-
-</div>
-</div>
-</div>
-
-
-<div class="pub-item" data-categories="benchmark agent">
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/DAB.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## Can AI Agents Answer Your Data Questions? A Benchmark for Data Agents
-
-[Ruiying Ma](https://ruiying-ma.github.io/)<sup>*</sup>,
-[Shreya Shankar](https://www.sh-reya.com/)<sup>*</sup>, 
-**Ruiqi Chen**,
-[Yiming Lin](https://yiminglin18.com/),
-[Sepanta Zeighami](https://szeighami.github.io/),
-Rajoshi Ghosh, Abhinav Gupta, Anushrut Gupta, Tanmai Gopal,
-[Aditya G. Parameswaran](https://people.eecs.berkeley.edu/~adityagp/)
-
-*Preprint*
-
-[Paper](https://arxiv.org/abs/2603.20576v1) \| [Github](https://github.com/ucbepic/DataAgentBench) \| [Website](https://ucbepic.github.io/DataAgentBench/)
-
-</div>
-</div>
-</div>
-
-
-<div class="pub-item" data-categories="benchmark embodied-ai">
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/capnav.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## CapNav: Benchmarking Vision Language Models on Capability-conditioned Indoor Navigation
-
-[Xia Su](https://xiasu.github.io/)<sup>*</sup>, **Ruiqi Chen**<sup>*</sup>, [Benlin Liu](https://liubl1217.github.io/), [Jingwei Ma](https://jingweim.github.io/), [Zonglin Di](https://scholar.google.com/citations?user=5lFDxsMAAAAJ&hl=en), [Ranjay Krishna](https://ranjaykrishna.com/index.html), [Jon E. Froehlich](https://jonfroehlich.github.io/)
-
-*IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026* (**CVPR2026**)
-
-[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Su_CapNav_Benchmarking_Vision_Language_Models_on_Capability-conditioned_Indoor_Navigation_CVPR_2026_paper.html) \| [Github](https://github.com/makeabilitylab/CapNav) \| [Hugging Face](https://huggingface.co/datasets/RichardC0216/CapNav) \| [Website](https://makeabilitylab.github.io/CapNav/)
-
-</div>
-</div>
-</div>
 
 <div class="pub-item" data-categories="agent">
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIDR 2026</div><img src='images/AIOverlord.png' alt="sym" width="100%"></div></div>
