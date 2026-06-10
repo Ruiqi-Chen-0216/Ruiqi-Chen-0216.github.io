@@ -159,6 +159,38 @@ Paper coming soon.
 </div>
 
 
+<div class="pub-item" data-categories="benchmark">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/nvshu.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## NüshuVoice: Reviving the Voice of Endangered Nüshu with Pitch-Aware Text-to-Speech
+
+Hongkun Yang<sup>*</sup>,
+Xinhui Yi<sup>*</sup>,
+Xiyan Zhao<sup>*</sup>,
+Yibo Meng<sup>*</sup>,
+Lionel Z. Wang,
+Lixu Wang,
+Yaqi Zhang,
+**Ruiqi Chen**,
+Xuanyue Zhao,
+Lanxin Zhang,
+Yu Zeng,
+Weijia Chu,
+Yiming Ma,
+Chenyu Liu,
+Jianghao Lin,
+Xin Xu
+
+*Preprint*
+
+[Paper](https://arxiv.org/abs/2606.09295v1)
+
+</div>
+</div>
+</div>
+
+
 <div class="pub-item" data-categories="embodied-ai agent">
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/ArXiv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
