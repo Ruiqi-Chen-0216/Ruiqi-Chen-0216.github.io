@@ -31,7 +31,7 @@ layout: default
 
 *Preprint*
 
-Paper coming soon.
+[Paper](https://arxiv.org/abs/2606.11232)
 
 </div>
 </div>

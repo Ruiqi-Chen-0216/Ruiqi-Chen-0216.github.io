@@ -82,7 +82,7 @@ My research focuses on building and evaluating AI models and systems that align 
 
 *Preprint*
 
-Paper coming soon.
+[Paper](https://arxiv.org/abs/2606.11232)
 
 </div>
 </div>
