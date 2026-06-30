@@ -200,10 +200,10 @@ Paper coming soon.
 
 
 <div class="pub-item" data-categories="embodied-ai agent">
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/ArXiv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/EventVLA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## Event-Aware Action Routing for Illumination-Robust Vision-Language-Action Policies
+## Event-VLA: Action-Conditioned Event Fusion for Robust Vision-Language-Action Model
 
 Jiaxin Liu<sup>*</sup>,
 Xun Xu<sup>*</sup>,
@@ -216,7 +216,7 @@ Laurent Kneip
 
 *Preprint*
 
-Paper coming soon.
+[Paper](https://arxiv.org/abs/2606.29384)
 
 </div>
 </div>
