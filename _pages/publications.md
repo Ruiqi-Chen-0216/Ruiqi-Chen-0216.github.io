@@ -101,10 +101,10 @@ Rajoshi Ghosh, Abhinav Gupta, Anushrut Gupta, Tanmai Gopal,
 
 
 <div class="pub-item" data-categories="embodied-ai human-ai agent">
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/ArXiv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/Intent2Drive.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## Holistic Human Intent-Conditioned Planning for Autonomous Driving
+## Who Responds When the Driver Is Gone? A Framework for Human Intent Understanding
 
 [Xuewen Luo](https://scholar.google.com/citations?user=QzVrwt4AAAAJ&hl=en),
 Ding Fan,
@@ -117,7 +117,7 @@ Fengze Yang,
 
 *Preprint*
 
-Paper coming soon.
+[Paper](https://arxiv.org/abs/2607.04670v)
 
 </div>
 </div>
