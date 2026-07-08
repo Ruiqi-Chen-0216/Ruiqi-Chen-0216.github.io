@@ -117,7 +117,7 @@ Fengze Yang,
 
 *Preprint*
 
-[Paper](https://arxiv.org/abs/2607.04670v)
+[Paper](https://arxiv.org/abs/2607.04670v1)
 
 </div>
 </div>
