@@ -14,31 +14,10 @@ My research focuses on building and evaluating AI models and systems that align 
 
 # 📖 Education
 
+* Ph.D. in Computer Science and Engineering, University of Michigan, 2026 – Present
 * M.S. in Human Centered Design & Engineering, University of Washington, 2024 – 2026
 * B.S. in Interdisciplinary Studies of Data Science, Duke University, 2020 – 2024
 * B.S. in Data Science, Duke Kunshan University, 2020 – 2024
-
-# 📚 Research Experience
-
-* [EPIC Data Lab](https://epic.berkeley.edu/), University of California, Berkeley
-  * Graduate Research Assistant to [Prof. Aditya Parameswaran](https://people.eecs.berkeley.edu/~adityagp/)
-  * April 2025 – September 2025
-  * Contributed to two research projects focusing on AI agent evaluation and benchmarking, and agentic LLM system design.
-
-* [ACE Lab](https://depts.washington.edu/acelab/index.html), University of Washington
-  * Graduate Research Assistant to [Prof. Jacob O. Wobbrock](https://faculty.washington.edu/wobbrock/)
-  * September 2024 – Present
-  * Contributed to two research projects focusing on LLM-based automated evaluation of visual design and AI-driven design transformation.
-
-* [Makeability Lab](https://makeabilitylab.cs.washington.edu/), University of Washington
-  * Graduate Research Assistant to [Prof. Jon E. Froehlich](https://jonfroehlich.github.io/)
-  * May 2024 – Present
-  * Contributed to two research projects focusing on vision-language model benchmarking and human-AI collaborative perception systems.
-
-* [Human-Computer Interactron Lab](https://arkxlab.github.io/), Duke Kunshan University
-  * Undergraduate Research Assistant to [Prof. Xin Tong](https://scholar.google.com/citations?user=XIM08ZwAAAAJ&hl=zh-CN&oi=sra)
-  * March 2022 – May 2024
-  * Contributed to foue research projects focusing on HCI, AI, and VR.
 
 # 🎖 Teaching, Mentorship and Service
 

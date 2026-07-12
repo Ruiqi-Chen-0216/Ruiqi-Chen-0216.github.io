@@ -260,23 +260,6 @@ Xin Xu
 </div>
 
 
-<div class="pub-item" data-categories="">
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/NSZT.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## Immersive Biography: Supporting Intercultural Empathy and Understanding for Displaced Cultural Objects in Virtual Reality
-
-[Ke Zhao](https://scholar.google.com/citations?user=j5KqV84AAAAJ&hl=en), **Ruiqi Chen**, Xiaziyu Zhang, Chenxi Wang, Siling Chen, [Xiaoguang Wang](https://sim.whu.edu.cn/info/1206/6151.htm), [Yujue Wang](https://sim.whu.edu.cn/info/1205/6163.htm), [Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en)
-
-*ACM CHI Conference on Human Factors in Computing Systems* (**CHI2025**)
-
-[Paper (PDF)](papers/ImmersiveBiography.pdf) \| [Github](https://github.com/Ruiqi-Chen-0216/ImmersiveBiography)
-
-</div>
-</div>
-</div>
-
-
 <script>
 document.querySelectorAll('.filter-btn').forEach(function(btn) {
   btn.addEventListener('click', function() {

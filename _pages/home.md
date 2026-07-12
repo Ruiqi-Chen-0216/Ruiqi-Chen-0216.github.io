@@ -52,7 +52,6 @@ My research focuses on building and evaluating AI models and systems that align 
 - *2026.02*: &nbsp;🎉🎉 Our paper ***CapNav*** has been accepted to CVPR 2026! Proud to be co-first author on my first CVPR paper.
 - *2025.09*: &nbsp;🎉🎉 My research paper developed at UC Berkeley under the supervision of Prof. Aditya Parameswaran has been accepted to CIDR 2026!
 - *2025.07*: &nbsp;🎉🎉 Two human-AI research papers ***FlyMeThrough*** and ***SlideAudit*** have been accepted to UIST 2025!
-- *2025.02*: &nbsp;🎉🎉 Two of my undergraduate research works have been accepted to CHI 2025!
 
 </div>
 
@@ -305,23 +304,6 @@ Xin Xu
 *ACM Symposium on User Interface Software and Technology* (**UIST2025**)
 
 [Paper (PDF)](papers/slideaudit.pdf) \| [Github](https://github.com/Ruiqi-Chen-0216/SlideAudit)
-
-</div>
-</div>
-</div>
-
-
-<div class="pub-item" data-categories="">
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/NSZT.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## Immersive Biography: Supporting Intercultural Empathy and Understanding for Displaced Cultural Objects in Virtual Reality
-
-[Ke Zhao](https://scholar.google.com/citations?user=j5KqV84AAAAJ&hl=en), **Ruiqi Chen**, Xiaziyu Zhang, Chenxi Wang, Siling Chen, [Xiaoguang Wang](https://sim.whu.edu.cn/info/1206/6151.htm), [Yujue Wang](https://sim.whu.edu.cn/info/1205/6163.htm), [Xin Tong](https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en)
-
-*ACM CHI Conference on Human Factors in Computing Systems* (**CHI2025**)
-
-[Paper (PDF)](papers/ImmersiveBiography.pdf) \| [Github](https://github.com/Ruiqi-Chen-0216/ImmersiveBiography)
 
 </div>
 </div>
