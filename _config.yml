@@ -8,6 +8,8 @@
 # Site Settings
 title                    : "RUIQI CHEN"
 description              : "Human-centered AI models, Human-AI System, AI-assisted Tool"
+url                      : "https://ruiqi-chen-0216.github.io"
+baseurl                  : ""
 repository               : "Ruiqi-Chen-0216/Ruiqi-Chen-0216.github.io"
 google_scholar_stats_use_cdn : true
 

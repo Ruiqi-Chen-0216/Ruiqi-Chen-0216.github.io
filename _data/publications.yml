@@ -1,0 +1,171 @@
+- title: "Every Act Has Its Price: Compressed Moral Composition in Frontier LLMs"
+  badge: "Arxiv"
+  image: "images/MoralComposition.png"
+  categories:
+    - benchmark
+  authors: |
+    [Weijia Zhang](https://charliedreemur.github.io/)<sup>*</sup>,
+    **Ruiqi Chen**<sup>*</sup>,
+    [Yunze Xiao](https://algoroxyolo.github.io/)<sup>*</sup>,
+    [Weihao Xuan](https://weihaoxuan.com/)
+  venue: '*Preprint*'
+  links: '[Paper](https://arxiv.org/abs/2606.11232)'
+
+- title: "Beyond Agreement: Scoring Panel-Surfaced Biomedical Entity Candidates for Curator Triage"
+  badge: "Arxiv"
+  image: "images/BeyondAgreement.png"
+  categories:
+    - benchmark
+  authors: |
+    Shuheng Cao<sup>*</sup>,
+    **Ruiqi Chen**<sup>*</sup>,
+    [Renjie Cao](https://scholar.google.com/citations?user=H6wYLmwAAAAJ&hl=en),
+    [Zhenhao Zhang](https://zhangzhh.cn/),
+    [Siyu Zhang](https://scholar.google.com/citations?user=T_XVf3EAAAAJ&hl=en&oi=sra),
+    [Tingting Dan](https://scholar.google.com/citations?user=FMcmg0gAAAAJ&hl=en&oi=ao)
+  venue: '*Preprint*'
+  links: '[Paper](https://arxiv.org/abs/2605.30826)'
+
+- title: "CapNav: Benchmarking Vision Language Models on Capability-conditioned Indoor Navigation"
+  badge: "CVPR 2026"
+  image: "images/capnav.png"
+  categories:
+    - benchmark
+    - embodied-ai
+  authors: |
+    [Xia Su](https://xiasu.github.io/)<sup>*</sup>, **Ruiqi Chen**<sup>*</sup>, [Benlin Liu](https://liubl1217.github.io/), [Jingwei Ma](https://jingweim.github.io/), [Zonglin Di](https://scholar.google.com/citations?user=5lFDxsMAAAAJ&hl=en), [Ranjay Krishna](https://ranjaykrishna.com/index.html), [Jon E. Froehlich](https://jonfroehlich.github.io/)
+  venue: '*IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026* (**CVPR2026**)'
+  links: '[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Su_CapNav_Benchmarking_Vision_Language_Models_on_Capability-conditioned_Indoor_Navigation_CVPR_2026_paper.html) \| [Github](https://github.com/makeabilitylab/CapNav) \| [Hugging Face](https://huggingface.co/datasets/RichardC0216/CapNav) \| [Website](https://makeabilitylab.github.io/CapNav/)'
+
+- title: "Can AI Agents Answer Your Data Questions? A Benchmark for Data Agents"
+  badge: "Arxiv"
+  image: "images/DAB.png"
+  categories:
+    - benchmark
+    - agent
+  authors: |
+    [Ruiying Ma](https://ruiying-ma.github.io/)<sup>*</sup>,
+    [Shreya Shankar](https://www.sh-reya.com/)<sup>*</sup>,
+    **Ruiqi Chen**,
+    [Yiming Lin](https://yiminglin18.com/),
+    [Sepanta Zeighami](https://szeighami.github.io/),
+    Rajoshi Ghosh, Abhinav Gupta, Anushrut Gupta, Tanmai Gopal,
+    [Aditya G. Parameswaran](https://people.eecs.berkeley.edu/~adityagp/)
+  venue: '*Preprint*'
+  links: '[Paper](https://arxiv.org/abs/2603.20576v1) \| [Github](https://github.com/ucbepic/DataAgentBench) \| [Website](https://ucbepic.github.io/DataAgentBench/)'
+
+- title: "Who Responds When the Driver Is Gone? A Framework for Human Intent Understanding"
+  badge: "Arxiv"
+  image: "images/Intent2Drive.png"
+  categories:
+    - embodied-ai
+    - human-ai
+    - agent
+  authors: |
+    [Xuewen Luo](https://scholar.google.com/citations?user=QzVrwt4AAAAJ&hl=en),
+    Ding Fan,
+    **Ruiqi Chen**,
+    Ye Cao,
+    Xiujin Liu,
+    Bo Yu,
+    Fengze Yang,
+    [Chenxi Liu](https://chenxiliu-dylan.github.io/)
+  venue: '*Preprint*'
+  links: '[Paper](https://arxiv.org/abs/2607.04670v1)'
+
+- title: "How Much Vision Does Multimodal Reasoning Need? Vision-Stripping for Multimodal Benchmarks"
+  badge: "Arxiv"
+  image: "images/Howmuchvision.png"
+  categories:
+    - benchmark
+  authors: |
+    [Weijia Zhang](https://charliedreemur.github.io/),
+    [Zijia Liu](https://scholar.google.com/citations?hl=zh-CN&user=17f5_L4AAAAJ),
+    [Tianyi Zhang](https://pinkstrokes.com/),
+    **Ruiqi Chen**,
+    Lian Zhang,
+    Haoru Li,
+    Haoqi Chen,
+    [Jiaxuan You](https://cs.stanford.edu/~jiaxuan/)
+  venue: '*Preprint*'
+  links: 'Paper coming soon.'
+
+- title: "Event-VLA: Action-Conditioned Event Fusion for Robust Vision-Language-Action Model"
+  badge: "Arxiv"
+  image: "images/EventVLA.png"
+  categories:
+    - embodied-ai
+    - agent
+  authors: |
+    Jiaxin Liu<sup>*</sup>,
+    Xun Xu<sup>*</sup>,
+    [Zhenhao Zhang](https://zhangzhh.cn/)<sup>*</sup>,
+    Hanqing Wang,
+    **Ruiqi Chen**,
+    Shi Chang,
+    Weiyu Guo,
+    Laurent Kneip
+  venue: '*Preprint*'
+  links: '[Paper](https://arxiv.org/abs/2606.29384)'
+
+- title: "NüshuVoice: Reviving the Voice of Endangered Nüshu with Pitch-Aware Text-to-Speech"
+  badge: "Arxiv"
+  image: "images/nvshu.png"
+  categories:
+    - benchmark
+  authors: |
+    Hongkun Yang<sup>*</sup>,
+    Xinhui Yi<sup>*</sup>,
+    Xiyan Zhao<sup>*</sup>,
+    Yibo Meng<sup>*</sup>,
+    Lionel Z. Wang,
+    Lixu Wang,
+    Yaqi Zhang,
+    **Ruiqi Chen**,
+    Xuanyue Zhao,
+    Lanxin Zhang,
+    Yu Zeng,
+    Weijia Chu,
+    Yiming Ma,
+    Chenyu Liu,
+    Jianghao Lin,
+    Xin Xu
+  venue: '*Preprint*'
+  links: '[Paper](https://arxiv.org/abs/2606.09295v1)'
+
+- title: "Supporting Our AI Overlords: Redesigning Data Systems to be Agent-First"
+  badge: "CIDR 2026"
+  image: "images/AIOverlord.png"
+  categories:
+    - agent
+  authors: |
+    [Shu Liu](https://scholar.google.com/citations?hl=en&user=DB50KvcAAAAJ&view_op=list_works&sortby=pubdate), [Soujanya Ponnapalli](https://soujanyaponnapalli.github.io/), [Shreya Shankar](https://www.sh-reya.com/), [Sepanta Zeighami](https://szeighami.github.io/), [Alan Zhu](https://az1326.github.io/), [Shubham Agarwal](https://skejriwal44.github.io/), **Ruiqi Chen**, [Samion Suwito](https://samion.org/), [Shuo Yuan](https://www.linkedin.com/in/shuo-yuan-395a7b281/), [Ion Stoica](https://people.eecs.berkeley.edu/~istoica/), [Matei Zaharia](https://people.eecs.berkeley.edu/~matei/), [Alvin Cheung](https://people.eecs.berkeley.edu/~akcheung/), [Natacha Crooks](https://nacrooks.github.io/), [Joseph E. Gonzalez](https://people.eecs.berkeley.edu/~jegonzal/), [Aditya G. Parameswaran](https://people.eecs.berkeley.edu/~adityagp/)
+  venue: '*The Conference on Innovative Data Systems Research* (**CIDR2026**)'
+  links: '[Paper](https://arxiv.org/abs/2509.00997)'
+
+- title: "FlyMeThrough: Human-AI Collaborative 3D Indoor Mapping with Commodity Drones"
+  badge: "UIST 2025"
+  image: "images/FlyMeThrough.png"
+  categories:
+    - human-ai
+  authors: |
+    <a href="https://xiasu.github.io/">Xia Su</a><sup>*</sup>,
+    <strong>Ruiqi Chen</strong><sup>*</sup>,
+    <a href="https://jingweim.github.io/">Jingwei Ma</a>,
+    <a href="https://www.chu-li.me/">Chu Li</a>,
+    <a href="https://jonfroehlich.github.io/">Jon E. Froehlich</a>
+  venue: '*ACM Symposium on User Interface Software and Technology* (**UIST2025**)'
+  links: '[Paper (PDF)](papers/flymethrough.pdf) \| [Github](https://github.com/makeabilitylab/FlyMeThrough) \| [Website](https://makeabilitylab.cs.washington.edu/project/flymethrough/)'
+
+- title: "SlideAudit: A Dataset and Taxonomy for Automated Evaluation of Presentation Slides"
+  badge: "UIST 2025"
+  image: "images/slideaudit.png"
+  categories:
+    - benchmark
+  authors: |
+    <a href="https://zhuohaozhang.com/">Zhuohao Zhang</a>,
+    **Ruiqi Chen**,
+    <a href="https://jszh.github.io/">Mingyuan Zhong</a>,
+    <a href="https://faculty.washington.edu/wobbrock/">Jacob O. Wobbrock</a>
+  venue: '*ACM Symposium on User Interface Software and Technology* (**UIST2025**)'
+  links: '[Paper (PDF)](papers/slideaudit.pdf) \| [Github](https://github.com/Ruiqi-Chen-0216/SlideAudit)'

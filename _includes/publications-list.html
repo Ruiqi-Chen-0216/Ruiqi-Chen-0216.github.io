@@ -1,0 +1,46 @@
+<div class="pub-filter">
+  <button class="filter-btn active" type="button" data-filter="all">All</button>
+  <button class="filter-btn" type="button" data-filter="benchmark">AI Benchmark</button>
+  <button class="filter-btn" type="button" data-filter="agent">AI Agents</button>
+  <button class="filter-btn" type="button" data-filter="embodied-ai">Embodied AI</button>
+  <button class="filter-btn" type="button" data-filter="human-ai">Human-AI</button>
+</div>
+
+{% for pub in site.data.publications %}
+<div class="pub-item" data-categories="{{ pub.categories | join: ' ' }}">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">{{ pub.badge }}</div><img src='{{ pub.image }}' alt="{{ pub.title | escape }}" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## {{ pub.title }}
+
+{{ pub.authors }}
+
+{{ pub.venue }}
+
+{{ pub.links }}
+
+</div>
+</div>
+</div>
+
+{% endfor %}
+
+<script>
+document.querySelectorAll('.filter-btn').forEach(function(btn) {
+  btn.addEventListener('click', function() {
+    document.querySelectorAll('.filter-btn').forEach(function(b) {
+      b.classList.remove('active');
+    });
+    btn.classList.add('active');
+    var filter = btn.getAttribute('data-filter');
+    document.querySelectorAll('.pub-item').forEach(function(item) {
+      var cats = item.getAttribute('data-categories') || '';
+      if (filter === 'all' || cats.split(' ').indexOf(filter) !== -1) {
+        item.style.display = '';
+      } else {
+        item.style.display = 'none';
+      }
+    });
+  });
+});
+</script>
