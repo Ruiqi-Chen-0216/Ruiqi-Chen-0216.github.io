@@ -1,3 +1,22 @@
+- title: "CertBind from Multimodal Connectivity to Certifiable Retrieval Decisions"
+  badge: "Arxiv"
+  image: "images/CertBind.png"
+  categories:
+    - reliable-ai
+  authors: |
+    Shuheng Cao<sup>*</sup>,
+    [Zhenhao Zhang](https://zhangzhh.cn/)<sup>*</sup>,
+    **Ruiqi Chen**<sup>*</sup>,
+    [Renjie Cao](https://scholar.google.com/citations?user=H6wYLmwAAAAJ&hl=en),
+    [Weijia Zhang](https://charliedreemur.github.io/),
+    [Siyu Zhang](https://scholar.google.com/citations?user=T_XVf3EAAAAJ&hl=en&oi=sra),
+    Jiaxin Liu,
+    Xiangyu Zeng,
+    Haotian Geng,
+    Fan Gu
+  venue: '*Preprint*'
+  links: '[Paper](https://arxiv.org/abs/2608.06516)'
+
 - title: "Every Act Has Its Price: Compressed Moral Composition in Frontier LLMs"
   badge: "Arxiv"
   image: "images/MoralComposition.png"
