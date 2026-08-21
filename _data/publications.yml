@@ -59,7 +59,7 @@
     [Sepanta Zeighami](https://szeighami.github.io/),
     Rajoshi Ghosh, Abhinav Gupta, Anushrut Gupta, Tanmai Gopal,
     [Aditya G. Parameswaran](https://people.eecs.berkeley.edu/~adityagp/)
-  venue: '*Conference on Empirical Methods in Natural Language Processing 2026* (**EMNLP2026**)'
+  venue: '*Conference on Empirical Methods in Natural Language Processing 2026* (**EMNLP2026**) <span class="acceptance-rate">15.4% acceptance rate</span>'
   links: '[Paper](https://arxiv.org/abs/2603.20576v1) \| [Github](https://github.com/ucbepic/DataAgentBench) \| [Website](https://ucbepic.github.io/DataAgentBench/)'
 
 - title: "CapNav: Benchmarking Vision Language Models on Capability-conditioned Indoor Navigation"
