@@ -45,19 +45,8 @@
   venue: '*Preprint*'
   links: '[Paper](https://arxiv.org/abs/2605.30826)'
 
-- title: "CapNav: Benchmarking Vision Language Models on Capability-conditioned Indoor Navigation"
-  badge: "CVPR 2026"
-  image: "images/capnav.png"
-  categories:
-    - benchmark
-    - embodied-ai
-  authors: |
-    [Xia Su](https://xiasu.github.io/)<sup>*</sup>, **Ruiqi Chen**<sup>*</sup>, [Benlin Liu](https://liubl1217.github.io/), [Jingwei Ma](https://jingweim.github.io/), [Zonglin Di](https://scholar.google.com/citations?user=5lFDxsMAAAAJ&hl=en), [Ranjay Krishna](https://ranjaykrishna.com/index.html), [Jon E. Froehlich](https://jonfroehlich.github.io/)
-  venue: '*IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026* (**CVPR2026**)'
-  links: '[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Su_CapNav_Benchmarking_Vision_Language_Models_on_Capability-conditioned_Indoor_Navigation_CVPR_2026_paper.html) \| [Github](https://github.com/makeabilitylab/CapNav) \| [Hugging Face](https://huggingface.co/datasets/RichardC0216/CapNav) \| [Website](https://makeabilitylab.github.io/CapNav/)'
-
 - title: "Can AI Agents Answer Your Data Questions? A Benchmark for Data Agents"
-  badge: "Arxiv"
+  badge: "EMNLP 2026"
   image: "images/DAB.png"
   categories:
     - benchmark
@@ -70,8 +59,19 @@
     [Sepanta Zeighami](https://szeighami.github.io/),
     Rajoshi Ghosh, Abhinav Gupta, Anushrut Gupta, Tanmai Gopal,
     [Aditya G. Parameswaran](https://people.eecs.berkeley.edu/~adityagp/)
-  venue: '*Preprint*'
+  venue: '*Conference on Empirical Methods in Natural Language Processing 2026* (**EMNLP2026**)'
   links: '[Paper](https://arxiv.org/abs/2603.20576v1) \| [Github](https://github.com/ucbepic/DataAgentBench) \| [Website](https://ucbepic.github.io/DataAgentBench/)'
+
+- title: "CapNav: Benchmarking Vision Language Models on Capability-conditioned Indoor Navigation"
+  badge: "CVPR 2026"
+  image: "images/capnav.png"
+  categories:
+    - benchmark
+    - embodied-ai
+  authors: |
+    [Xia Su](https://xiasu.github.io/)<sup>*</sup>, **Ruiqi Chen**<sup>*</sup>, [Benlin Liu](https://liubl1217.github.io/), [Jingwei Ma](https://jingweim.github.io/), [Zonglin Di](https://scholar.google.com/citations?user=5lFDxsMAAAAJ&hl=en), [Ranjay Krishna](https://ranjaykrishna.com/index.html), [Jon E. Froehlich](https://jonfroehlich.github.io/)
+  venue: '*IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026* (**CVPR2026**)'
+  links: '[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Su_CapNav_Benchmarking_Vision_Language_Models_on_Capability-conditioned_Indoor_Navigation_CVPR_2026_paper.html) \| [Github](https://github.com/makeabilitylab/CapNav) \| [Hugging Face](https://huggingface.co/datasets/RichardC0216/CapNav) \| [Website](https://makeabilitylab.github.io/CapNav/)'
 
 - title: "Who Responds When the Driver Is Gone? A Framework for Human Intent Understanding"
   badge: "Arxiv"
