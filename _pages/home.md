@@ -45,6 +45,7 @@ I am Ruiqi Chen, an incoming Ph.D. student in [Computer Science and Engineering]
 My research focuses on building and evaluating AI models and systems that align with human knowledge, goals, and values. More broadly, I am interested in how AI systems can better understand what people know, need, and care about, from agentic data systems and multimodal benchmarks to embodied and human-AI applications.
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉🎉 Our paper ***DAB***, a benchmark for data agents, has been accepted to the **EMNLP 2026 main conference**!
 - *2026.02*: &nbsp;🎉🎉 Our paper ***CapNav*** has been accepted to CVPR 2026! Proud to be co-first author on my first CVPR paper.
 - *2025.09*: &nbsp;🎉🎉 My research paper developed at UC Berkeley under the supervision of Prof. Aditya Parameswaran has been accepted to CIDR 2026!
 - *2025.07*: &nbsp;🎉🎉 Two human-AI research papers ***FlyMeThrough*** and ***SlideAudit*** have been accepted to UIST 2025!
