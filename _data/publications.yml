@@ -59,7 +59,7 @@
     [Sepanta Zeighami](https://szeighami.github.io/),
     Rajoshi Ghosh, Abhinav Gupta, Anushrut Gupta, Tanmai Gopal,
     [Aditya G. Parameswaran](https://people.eecs.berkeley.edu/~adityagp/)
-  venue: '*Conference on Empirical Methods in Natural Language Processing 2026* (**EMNLP2026**) <span class="acceptance-rate">15.4% acceptance rate</span>'
+  venue: '*Conference on Empirical Methods in Natural Language Processing 2026* (**EMNLP2026**) <span class="acceptance-rate">Acceptance Rate: 15.4% (2719 / 17669)</span>'
   links: '[Paper](https://arxiv.org/abs/2603.20576v1) \| [Github](https://github.com/ucbepic/DataAgentBench) \| [Website](https://ucbepic.github.io/DataAgentBench/)'
 
 - title: "CapNav: Benchmarking Vision Language Models on Capability-conditioned Indoor Navigation"
@@ -70,7 +70,7 @@
     - embodied-ai
   authors: |
     [Xia Su](https://xiasu.github.io/)<sup>*</sup>, **Ruiqi Chen**<sup>*</sup>, [Benlin Liu](https://liubl1217.github.io/), [Jingwei Ma](https://jingweim.github.io/), [Zonglin Di](https://scholar.google.com/citations?user=5lFDxsMAAAAJ&hl=en), [Ranjay Krishna](https://ranjaykrishna.com/index.html), [Jon E. Froehlich](https://jonfroehlich.github.io/)
-  venue: '*IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026* (**CVPR2026**)'
+  venue: '*IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026* (**CVPR2026**) <span class="acceptance-rate">Acceptance Rate: 25.4% (4090 / 16092)</span>'
   links: '[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Su_CapNav_Benchmarking_Vision_Language_Models_on_Capability-conditioned_Indoor_Navigation_CVPR_2026_paper.html) \| [Github](https://github.com/makeabilitylab/CapNav) \| [Hugging Face](https://huggingface.co/datasets/RichardC0216/CapNav) \| [Website](https://makeabilitylab.github.io/CapNav/)'
 
 - title: "Who Responds When the Driver Is Gone? A Framework for Human Intent Understanding"
@@ -173,7 +173,7 @@
     <a href="https://jingweim.github.io/">Jingwei Ma</a>,
     <a href="https://www.chu-li.me/">Chu Li</a>,
     <a href="https://jonfroehlich.github.io/">Jon E. Froehlich</a>
-  venue: '*ACM Symposium on User Interface Software and Technology* (**UIST2025**)'
+  venue: '*ACM Symposium on User Interface Software and Technology* (**UIST2025**) <span class="acceptance-rate">Acceptance Rate: 22.2% (210 / 947)</span>'
   links: '[Paper (PDF)](papers/flymethrough.pdf) \| [Github](https://github.com/makeabilitylab/FlyMeThrough) \| [Website](https://makeabilitylab.cs.washington.edu/project/flymethrough/)'
 
 - title: "SlideAudit: A Dataset and Taxonomy for Automated Evaluation of Presentation Slides"
@@ -186,5 +186,5 @@
     **Ruiqi Chen**,
     <a href="https://jszh.github.io/">Mingyuan Zhong</a>,
     <a href="https://faculty.washington.edu/wobbrock/">Jacob O. Wobbrock</a>
-  venue: '*ACM Symposium on User Interface Software and Technology* (**UIST2025**)'
+  venue: '*ACM Symposium on User Interface Software and Technology* (**UIST2025**) <span class="acceptance-rate">Acceptance Rate: 22.2% (210 / 947)</span>'
   links: '[Paper (PDF)](papers/slideaudit.pdf) \| [Github](https://github.com/Ruiqi-Chen-0216/SlideAudit)'
