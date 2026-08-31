@@ -219,26 +219,28 @@ $scroll_offset : 2em;
 .research-topic-link {
     display: inline;
     margin: 0;
-    padding: 0 0.06em 0.06em;
+    padding: 0 0.03em;
     border: 0;
-    border-bottom: 2px solid rgba($umich-maize, 0.65);
-    background: linear-gradient(to top, rgba($umich-maize, 0.12) 0.45em, transparent 0.45em);
+    background: transparent;
     color: inherit;
     font: inherit;
     line-height: inherit;
     text-align: inherit;
+    text-decoration-line: underline;
+    text-decoration-color: rgba($umich-maize, 0.82);
+    text-decoration-thickness: 2px;
+    text-underline-offset: 0.18em;
+    text-decoration-skip-ink: auto;
     white-space: normal;
     cursor: pointer;
-    box-decoration-break: clone;
-    -webkit-box-decoration-break: clone;
-    transition: color 0.16s ease, border-color 0.16s ease, background-color 0.16s ease;
+    transition: color 0.16s ease, text-decoration-color 0.16s ease;
 
     &:hover,
     &:focus-visible,
     &.is-preview,
     &.active {
-        border-bottom-color: $umich-maize;
-        background: linear-gradient(to top, rgba($umich-maize, 0.28) 0.5em, transparent 0.5em);
+        text-decoration-color: $umich-maize;
+        text-decoration-thickness: 3px;
         color: $info-color;
     }
 
