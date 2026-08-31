@@ -40,7 +40,7 @@
     }
 
     const { x, y } = getPointerPosition(card, event);
-    const maxRotate = 3.2;
+    const maxRotate = 4.4;
     const rotateX = (0.5 - y) * maxRotate;
     const rotateY = (x - 0.5) * maxRotate * 1.25;
 

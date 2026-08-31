@@ -253,7 +253,7 @@ $scroll_offset : 2em;
 
 .pub-filter {
     display: flex;
-    gap: 0.45rem;
+    gap: 0.55rem;
     flex-wrap: wrap;
     margin: 1.2em 0 2em 0;
     align-items: center;
@@ -261,10 +261,10 @@ $scroll_offset : 2em;
 }
 
 .filter-btn {
-    min-height: 42px;
-    padding: 0.52rem 0.9rem;
-    border: 1px solid rgba($info-color, 0.5);
-    border-radius: 6px;
+    min-height: 38px;
+    padding: 0.42rem 0.95rem;
+    border: 1.5px solid rgba($info-color, 0.78);
+    border-radius: 999px;
     background: white;
     color: $info-color;
     font-size: 0.84rem;
@@ -278,7 +278,7 @@ $scroll_offset : 2em;
     &.is-preview {
         transform: translateY(-1px);
         border-color: $umich-maize;
-        box-shadow: 0 3px 10px rgba($info-color, 0.14);
+        box-shadow: 0 3px 9px rgba($info-color, 0.12);
     }
 
     &.active {
@@ -286,8 +286,15 @@ $scroll_offset : 2em;
         color: white;
         border-color: $info-color;
         box-shadow:
-            inset 0 -3px 0 $umich-maize,
-            0 4px 12px rgba($info-color, 0.22);
+            inset 0 -2px 0 $umich-maize,
+            0 3px 10px rgba($info-color, 0.2);
+    }
+
+    &.is-trace-target {
+        border-color: $umich-maize;
+        background: rgba($umich-maize, 0.14);
+        color: $info-color;
+        box-shadow: inset 0 -2px 0 $umich-maize;
     }
 
     &:focus-visible {
@@ -389,23 +396,44 @@ $scroll_offset : 2em;
 // Publication rows use a stable figure stage so mixed image ratios do not
 // change the reading rhythm of the list.
 .pub-item {
+    position: relative;
     min-width: 0;
-    margin-bottom: 0.9rem;
-    transition: opacity 0.18s ease, transform 0.18s ease;
+    margin-bottom: 0;
+    transition: opacity 0.22s ease, filter 0.22s ease, transform 0.22s ease;
 
     &[hidden] {
         display: none !important;
     }
 
     &.is-preview-muted {
-        opacity: 0.28;
+        opacity: 0.3;
     }
 
-    &.is-preview-match .paper-box {
-        border-color: rgba($umich-maize, 0.9);
-        box-shadow:
-            4px 0 0 $umich-maize inset,
-            0 10px 24px rgba($info-color, 0.1);
+    &.is-preview-match .paper-box,
+    &.is-trace-match .paper-box {
+        border-bottom-color: rgba($umich-maize, 0.92);
+        background: linear-gradient(90deg, rgba($umich-maize, 0.11), rgba(#fff, 0) 58%);
+        box-shadow: 3px 0 0 $umich-maize inset;
+    }
+
+    &.is-trace-match::after {
+        content: "";
+        position: absolute;
+        top: 50%;
+        left: -0.72rem;
+        z-index: 3;
+        width: 0.55rem;
+        height: 0.55rem;
+        border: 2px solid #fff;
+        border-radius: 50%;
+        background: $umich-maize;
+        box-shadow: 0 0 0 2px rgba($info-color, 0.76);
+        transform: translateY(-50%);
+    }
+
+    &.is-trace-muted {
+        opacity: 0.45;
+        filter: saturate(0.8);
     }
 
     &.is-filter-entering {
@@ -415,21 +443,47 @@ $scroll_offset : 2em;
 }
 
 .publication-list {
+    position: relative;
     min-width: 0;
+    padding-left: 0.8rem;
+
+    &::before {
+        content: "";
+        position: absolute;
+        top: 0.6rem;
+        bottom: 0.6rem;
+        left: 0.32rem;
+        width: 2px;
+        background: linear-gradient(to bottom, rgba($umich-maize, 0), rgba($umich-maize, 0.75) 8%, rgba($umich-maize, 0.75) 92%, rgba($umich-maize, 0));
+        opacity: 0;
+        transition: opacity 0.2s ease;
+    }
+
+    &.is-tracing::before {
+        opacity: 1;
+    }
 }
 
 .paper-box {
     display: grid;
     grid-template-columns: minmax(0, 1fr);
-    gap: 1rem;
+    gap: 1.15rem;
     align-items: center;
     min-width: 0;
-    padding: 1rem;
-    border: 1px solid rgba($info-color, 0.1);
-    border-radius: 8px;
-    background:
-        linear-gradient(180deg, rgba(#fff, 0.99), rgba(#fff, 0.97)),
-        radial-gradient(circle at 0 0, rgba($umich-maize, 0.08), rgba($umich-maize, 0) 34%);
+    padding: 1.2rem 0.65rem 1.35rem;
+    border: 0;
+    border-bottom: 1px solid rgba($info-color, 0.13);
+    border-radius: 0;
+    background: transparent;
+
+    &.is-glowing,
+    &:hover,
+    &:focus-within {
+        transform: translateY(-1px);
+        border-bottom-color: rgba($umich-maize, 0.9);
+        background: linear-gradient(90deg, rgba($umich-maize, 0.065), rgba(#fff, 0) 62%);
+        box-shadow: none;
+    }
 
     .paper-box-image {
         display: block;
@@ -446,12 +500,12 @@ $scroll_offset : 2em;
         position: relative;
         width: 100%;
         min-height: 126px;
-        padding: 0.45rem;
-        overflow: hidden;
+        padding: 0.35rem;
+        overflow: visible;
         box-sizing: border-box;
-        border: 1px solid rgba($info-color, 0.1);
-        border-radius: 6px;
-        background: #f7f9fb;
+        border: 0;
+        border-radius: 4px;
+        background: transparent;
         color: inherit;
         font: inherit;
         text-align: left;
@@ -480,8 +534,10 @@ $scroll_offset : 2em;
         width: 100%;
         height: 118px;
         max-width: 100%;
-        border-radius: 4px;
-        box-shadow: none;
+        border: 1px solid rgba($info-color, 0.12);
+        border-radius: 5px;
+        background: #fff;
+        box-shadow: 0 5px 14px rgba($info-color, 0.15);
         object-fit: contain;
         transition: transform 0.18s ease;
     }
@@ -529,8 +585,8 @@ $scroll_offset : 2em;
 
     .badge {
         position: absolute;
-        top: 0.55rem;
-        left: -1px;
+        top: 0.45rem;
+        left: 0.35rem;
         z-index: 2;
         margin: 0;
         padding: 0.28rem 0.65rem 0.3rem 0.78rem;
@@ -622,9 +678,9 @@ $scroll_offset : 2em;
 
 @media screen and (min-width: 700px) {
     .paper-box {
-        grid-template-columns: minmax(250px, 300px) minmax(0, 1fr);
-        gap: 2rem;
-        padding: 1.2rem 1rem;
+        grid-template-columns: minmax(240px, 285px) minmax(0, 1fr);
+        gap: 2.2rem;
+        padding: 1.35rem 0.65rem 1.5rem;
 
         .paper-figure {
             min-height: 150px;
@@ -1144,7 +1200,7 @@ $scroll_offset : 2em;
     &.is-tilting,
     &:hover,
     &:focus-within {
-        --tilt-lift: -5px;
+        --tilt-lift: -7px;
 
         border-color: rgba($umich-maize, 0.78);
         box-shadow:
