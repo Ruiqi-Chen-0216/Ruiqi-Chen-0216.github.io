@@ -1,15 +1,23 @@
-<div class="pub-filter">
-  <button class="filter-btn active" type="button" data-filter="all">All</button>
-  <button class="filter-btn" type="button" data-filter="reliable-ai">Reliable AI</button>
-  <button class="filter-btn" type="button" data-filter="benchmark">AI Benchmark</button>
-  <button class="filter-btn" type="button" data-filter="agent">AI Agents</button>
-  <button class="filter-btn" type="button" data-filter="embodied-ai">Embodied AI</button>
-  <button class="filter-btn" type="button" data-filter="human-ai">Human-AI</button>
+<div id="publications" class="pub-filter">
+  <button class="filter-btn active" type="button" data-filter="all" aria-pressed="true" aria-controls="publication-list">All</button>
+  <button class="filter-btn" type="button" data-filter="reliable-ai" aria-pressed="false" aria-controls="publication-list">Reliable AI</button>
+  <button class="filter-btn" type="button" data-filter="benchmark" aria-pressed="false" aria-controls="publication-list">AI Benchmark</button>
+  <button class="filter-btn" type="button" data-filter="agent" aria-pressed="false" aria-controls="publication-list">AI Agents</button>
+  <button class="filter-btn" type="button" data-filter="embodied-ai" aria-pressed="false" aria-controls="publication-list">Embodied AI</button>
+  <button class="filter-btn" type="button" data-filter="human-ai" aria-pressed="false" aria-controls="publication-list">Human-AI</button>
 </div>
 
+<div id="publication-list" class="publication-list">
 {% for pub in site.data.publications %}
 <div class="pub-item" data-categories="{{ pub.categories | join: ' ' }}">
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">{{ pub.badge }}</div><img src='{{ pub.image }}' alt="{{ pub.title | escape }}" width="100%"></div></div>
+<article class="paper-box">
+<div class="paper-box-image">
+  <button class="paper-figure" type="button" data-paper-title="{{ pub.title | escape }}" aria-label="Preview figure for {{ pub.title | escape }}" title="Preview paper figure">
+    <span class="badge">{{ pub.badge }}</span>
+    <img src="{{ pub.image }}" alt="{{ pub.title | escape }}" loading="lazy" decoding="async">
+    <span class="paper-zoom-hint" aria-hidden="true"><i class="fas fa-search-plus"></i></span>
+  </button>
+</div>
 <div class='paper-box-text' markdown="1">
 
 ## {{ pub.title }}
@@ -21,27 +29,18 @@
 {{ pub.links }}
 
 </div>
-</div>
+</article>
 </div>
 
 {% endfor %}
+</div>
 
-<script>
-document.querySelectorAll('.filter-btn').forEach(function(btn) {
-  btn.addEventListener('click', function() {
-    document.querySelectorAll('.filter-btn').forEach(function(b) {
-      b.classList.remove('active');
-    });
-    btn.classList.add('active');
-    var filter = btn.getAttribute('data-filter');
-    document.querySelectorAll('.pub-item').forEach(function(item) {
-      var cats = item.getAttribute('data-categories') || '';
-      if (filter === 'all' || cats.split(' ').indexOf(filter) !== -1) {
-        item.style.display = '';
-      } else {
-        item.style.display = 'none';
-      }
-    });
-  });
-});
-</script>
+<dialog class="paper-lightbox" id="paper-lightbox" aria-labelledby="paper-lightbox-title">
+  <div class="paper-lightbox__content">
+    <button class="paper-lightbox__close" type="button" aria-label="Close figure preview" title="Close">
+      <i class="fas fa-times" aria-hidden="true"></i>
+    </button>
+    <img class="paper-lightbox__image" src="" alt="">
+    <p class="paper-lightbox__title" id="paper-lightbox-title"></p>
+  </div>
+</dialog>

@@ -22,7 +22,7 @@
 
   elements.forEach((element, index) => {
     element.classList.add("reveal-item");
-    element.style.setProperty("--reveal-delay", `${Math.min(index * 35, 245)}ms`);
+    element.style.setProperty("--reveal-delay", `${Math.min(index * 24, 144)}ms`);
   });
 
   if (reduceMotionQuery.matches || !("IntersectionObserver" in window)) {
