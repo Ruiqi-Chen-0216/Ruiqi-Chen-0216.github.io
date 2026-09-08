@@ -128,7 +128,7 @@
   links: '[Paper](https://arxiv.org/abs/2606.29384)'
 
 - title: "NüshuVoice: Reviving the Voice of Endangered Nüshu with Pitch-Aware Text-to-Speech"
-  badge: "Arxiv"
+  badge: "AACL 2026"
   image: "images/nvshu.png"
   categories:
     - benchmark
@@ -149,7 +149,7 @@
     Chenyu Liu,
     Jianghao Lin,
     Xin Xu
-  venue: '*Preprint*'
+  venue: '*Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and International Joint Conference on Natural Language Processing 2026* (**AACL-IJCNLP2026**)'
   links: '[Paper](https://arxiv.org/abs/2606.09295v1)'
 
 - title: "Supporting Our AI Overlords: Redesigning Data Systems to be Agent-First"
