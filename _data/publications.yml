@@ -92,23 +92,6 @@
   venue: '*Preprint*'
   links: '[Paper](https://arxiv.org/abs/2607.04670v1)'
 
-- title: "How Much Vision Does Multimodal Reasoning Need? Vision-Stripping for Multimodal Benchmarks"
-  badge: "Arxiv"
-  image: "images/Howmuchvision.png"
-  categories:
-    - benchmark
-  authors: |
-    [Weijia Zhang](https://charliedreemur.github.io/),
-    [Zijia Liu](https://scholar.google.com/citations?hl=zh-CN&user=17f5_L4AAAAJ),
-    [Tianyi Zhang](https://pinkstrokes.com/),
-    **Ruiqi Chen**,
-    Lian Zhang,
-    Haoru Li,
-    Haoqi Chen,
-    [Jiaxuan You](https://cs.stanford.edu/~jiaxuan/)
-  venue: '*Preprint*'
-  links: 'Paper coming soon.'
-
 - title: "Event-VLA: Action-Conditioned Event Fusion for Robust Vision-Language-Action Model"
   badge: "Arxiv"
   image: "images/EventVLA.png"
