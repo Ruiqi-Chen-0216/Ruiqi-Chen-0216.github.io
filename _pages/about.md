@@ -25,8 +25,7 @@ My research focuses on building and evaluating AI models and systems that align 
   * AAAI Conference on Artificial Intelligence (AAAI), 2027
 * Paper reviewer
   * International Conference on Learning Representations (ICLR), 2027
-  * ACM Conference on Human Factors in Computing Systems (CHI), 2026
-  * ACM Conference on Human Factors in Computing Systems (CHI), 2025
+  * ACM Conference on Human Factors in Computing Systems (CHI), 2025, 2026, 2027
 * Student volunteer
   * ACM Symposium on User Interface Software and Technology (UIST), 2025
 

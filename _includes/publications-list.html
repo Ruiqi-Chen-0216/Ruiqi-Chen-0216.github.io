@@ -8,7 +8,7 @@
 </div>
 
 <div id="publication-list" class="publication-list">
-{% for pub in site.data.publications %}
+{% for pub in site.data.publications %}{% unless pub.hidden %}
 <div class="pub-item" data-categories="{{ pub.categories | join: ' ' }}">
 <article class="paper-box">
 <div class="paper-box-image">
@@ -31,7 +31,7 @@
 </div>
 </article>
 </div>
-
+{% endunless %}
 {% endfor %}
 </div>
 
