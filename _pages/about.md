@@ -31,4 +31,4 @@ My research focuses on building and evaluating AI models and systems that align 
 
 # 📧 Contact
 
-If you have a research project related to Human-AI, especially on generative AI & HAI systems, and are looking for a collaborator proficient in AI algorithms, please feel free to reach out at **ruiqichen338@gmail.com**.
+If you are working on human-centered AI models — spanning agentic systems, multimodal evaluation, and embodied AI — and are looking for a collaborator, please feel free to reach out at **ruiqich@umich.edu**.
