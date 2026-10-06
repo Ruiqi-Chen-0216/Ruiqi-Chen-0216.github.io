@@ -12,6 +12,15 @@
 
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
+{% if site.font_theme == "newsreader" %}
+// font_theme in _config.yml: the theme styles everything through these variables,
+// so reassigning them here swaps the whole site to Newsreader.
+$sans-serif                 : "Newsreader", "Iowan Old Style", Georgia, "Times New Roman", serif;
+$sans-serif-narrow          : $sans-serif;
+$global-font-family         : $sans-serif;
+$header-font-family         : $sans-serif;
+$caption-font-family        : $sans-serif;
+{% endif %}
 @import "mixins";
 @import "vendor/susy/susy";
 

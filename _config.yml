@@ -12,6 +12,7 @@ url                      : "https://ruiqi-chen-0216.github.io"
 baseurl                  : ""
 repository               : "Ruiqi-Chen-0216/Ruiqi-Chen-0216.github.io"
 google_scholar_stats_use_cdn : true
+font_theme               : "newsreader" # "newsreader" (serif) or "inter" (the original sans-serif)
 
 # google analytics
 google_analytics_id      :  "G-9E0NY50DQP"
