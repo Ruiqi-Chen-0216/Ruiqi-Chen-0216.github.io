@@ -24,6 +24,7 @@ My research focuses on building and evaluating AI models and systems that align 
 * Program Committee Member
   * AAAI Conference on Artificial Intelligence (AAAI), 2027
 * Paper reviewer
+  * IEEE International Conference on Robotics and Automation (ICRA), 2027
   * International Conference on Learning Representations (ICLR), 2027
   * ACM Conference on Human Factors in Computing Systems (CHI), 2025–2027
 * Student volunteer
