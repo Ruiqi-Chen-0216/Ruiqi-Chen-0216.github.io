@@ -1,3 +1,18 @@
+- title: "Say Something Else? Cover Stories Can Look Complete While Supporting the Wrong Action"
+  badge: "Arxiv"
+  categories:
+    - reliable-ai
+  authors: |
+    [Yunze Xiao](https://algoroxyolo.github.io/)<sup>*</sup>,
+    **Ruiqi Chen**<sup>*</sup>,
+    Wenkai Li,
+    Xiaoyuan Wu,
+    Yueqi Song,
+    Lionel Z. Wang,
+    [Weihao Xuan](https://weihaoxuan.com/)
+  venue: '*Preprint*'
+  links: 'Paper coming soon.'
+
 - title: "CertBind from Multimodal Connectivity to Certifiable Retrieval Decisions"
   hidden: true
   badge: "Arxiv"
@@ -5,7 +20,7 @@
   categories:
     - reliable-ai
   authors: |
-    Shuheng Cao<sup>*</sup>,
+    [Shuheng Cao](https://scholar.google.com/citations?user=2Xf3HGEAAAAJ&hl=en)<sup>*</sup>,
     [Zhenhao Zhang](https://zhangzhh.cn/)<sup>*</sup>,
     **Ruiqi Chen**<sup>*</sup>,
     [Renjie Cao](https://scholar.google.com/citations?user=H6wYLmwAAAAJ&hl=en),
@@ -18,7 +33,7 @@
   venue: '*Preprint*'
   links: '[Paper](https://arxiv.org/abs/2608.06516)'
 
-- title: "Every Act Has Its Price: Compressed Moral Composition in Frontier LLMs"
+- title: "Is LLM's Moral Decision Compositional?"
   badge: "Arxiv"
   image: "images/MoralComposition.png"
   categories:
@@ -31,18 +46,21 @@
   venue: '*Preprint*'
   links: '[Paper](https://arxiv.org/abs/2606.11232)'
 
-- title: "Beyond Agreement: Scoring Panel-Surfaced Biomedical Entity Candidates for Curator Triage"
+- title: "PAVER: Turning Multi-LLM Agreement into Higher-Yield Biomedical Review Queues"
   badge: "Arxiv"
   image: "images/BeyondAgreement.png"
   categories:
     - benchmark
   authors: |
-    Shuheng Cao<sup>*</sup>,
+    [Shuheng Cao](https://scholar.google.com/citations?user=2Xf3HGEAAAAJ&hl=en)<sup>*</sup>,
     **Ruiqi Chen**<sup>*</sup>,
     [Renjie Cao](https://scholar.google.com/citations?user=H6wYLmwAAAAJ&hl=en),
+    [Weijia Zhang](https://charliedreemur.github.io/),
     [Zhenhao Zhang](https://zhangzhh.cn/),
     [Siyu Zhang](https://scholar.google.com/citations?user=T_XVf3EAAAAJ&hl=en&oi=sra),
-    [Tingting Dan](https://scholar.google.com/citations?user=FMcmg0gAAAAJ&hl=en&oi=ao)
+    [Hanqing Wang](https://hq-king.github.io/),
+    Edward Wang,
+    [Yunze Xiao](https://algoroxyolo.github.io/)
   venue: '*Preprint*'
   links: '[Paper](https://arxiv.org/abs/2605.30826)'
 
@@ -74,6 +92,26 @@
   venue: '*IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026* (**CVPR2026**) <span class="acceptance-rate">Acceptance Rate: 25.4% (4090 / 16092)</span>'
   links: '[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Su_CapNav_Benchmarking_Vision_Language_Models_on_Capability-conditioned_Indoor_Navigation_CVPR_2026_paper.html) \| [Github](https://github.com/makeabilitylab/CapNav) \| [Hugging Face](https://huggingface.co/datasets/RichardC0216/CapNav) \| [Website](https://makeabilitylab.github.io/CapNav/)'
 
+- title: "When Evidence Vanishes: Distilling Visual-Evidence Dependency in Medical Vision-Language Models"
+  badge: "Arxiv"
+  image: "images/WhenEvidenceVanishes.png"
+  categories:
+    - reliable-ai
+  authors: |
+    Qizhen Lan<sup>*</sup>,
+    Yiling Ma<sup>*</sup>,
+    **Ruiqi Chen**,
+    Mengchen Fan,
+    Xi Xiao,
+    Lin Zhao,
+    Liang He,
+    Baocheng Geng,
+    Pulin Che,
+    Tianyang Wang,
+    Xiaoqian Jiang
+  venue: '*Preprint*'
+  links: '[Paper](https://arxiv.org/abs/2610.23469v1)'
+
 - title: "Who Responds When the Driver Is Gone? A Framework for Human Intent Understanding"
   badge: "Arxiv"
   image: "images/Intent2Drive.png"
@@ -103,7 +141,7 @@
     [Jiaxin Liu](https://staskaer.github.io/)<sup>*</sup>,
     Xun Xu<sup>*</sup>,
     [Zhenhao Zhang](https://zhangzhh.cn/)<sup>*</sup>,
-    Hanqing Wang,
+    [Hanqing Wang](https://hq-king.github.io/),
     **Ruiqi Chen**,
     Shi Chang,
     Weiyu Guo,

@@ -538,7 +538,8 @@ $scroll_offset : 2em;
         }
     }
 
-    .paper-box-image img {
+    .paper-box-image img,
+    .paper-figure__placeholder {
         display: block;
         width: 100%;
         height: 118px;
@@ -549,6 +550,24 @@ $scroll_offset : 2em;
         box-shadow: 0 5px 14px rgba($info-color, 0.15);
         object-fit: contain;
         transition: transform 0.18s ease;
+    }
+
+    // Papers without an image yet: same footprint as a figure, but quiet and not zoomable.
+    .paper-figure--empty {
+        cursor: default;
+    }
+
+    .paper-figure__placeholder {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-style: dashed;
+        border-color: rgba($info-color, 0.28);
+        background: rgba($info-color, 0.035);
+        box-shadow: none;
+        color: rgba($info-color, 0.55);
+        font-size: 0.8rem;
+        letter-spacing: 0.02em;
     }
 
     .paper-zoom-hint {
@@ -695,7 +714,8 @@ $scroll_offset : 2em;
             min-height: 150px;
         }
 
-        .paper-box-image img {
+        .paper-box-image img,
+        .paper-figure__placeholder {
             height: 142px;
         }
     }

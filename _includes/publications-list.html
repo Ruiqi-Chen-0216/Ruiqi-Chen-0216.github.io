@@ -12,11 +12,18 @@
 <div class="pub-item" data-categories="{{ pub.categories | join: ' ' }}">
 <article class="paper-box">
 <div class="paper-box-image">
+  {% if pub.image %}
   <button class="paper-figure" type="button" data-paper-title="{{ pub.title | escape }}" aria-label="Preview figure for {{ pub.title | escape }}" title="Preview paper figure">
     <span class="badge">{{ pub.badge }}</span>
     <img src="{{ pub.image }}" alt="{{ pub.title | escape }}" loading="lazy" decoding="async">
     <span class="paper-zoom-hint" aria-hidden="true"><i class="fas fa-search-plus"></i></span>
   </button>
+  {% else %}
+  <div class="paper-figure paper-figure--empty">
+    <span class="badge">{{ pub.badge }}</span>
+    <span class="paper-figure__placeholder">Figure coming soon</span>
+  </div>
+  {% endif %}
 </div>
 <div class='paper-box-text' markdown="1">
 
