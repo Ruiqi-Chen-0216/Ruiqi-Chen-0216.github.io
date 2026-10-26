@@ -26,6 +26,7 @@ My research focuses on building and evaluating AI models and systems that align 
 * Paper reviewer
   * IEEE International Conference on Robotics and Automation (ICRA), 2027
   * International Conference on Learning Representations (ICLR), 2027
+  * ACL Rolling Review (ARR), Oct 2026
   * ACM Conference on Human Factors in Computing Systems (CHI), 2025–2027
 * Student volunteer
   * ACM Symposium on User Interface Software and Technology (UIST), 2025
