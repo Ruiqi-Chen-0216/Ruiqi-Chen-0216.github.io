@@ -28,6 +28,7 @@ My research focuses on building and evaluating AI models and systems that align 
   * International Conference on Learning Representations (ICLR), 2027
   * ACL Rolling Review (ARR), Oct 2026
   * ACM Conference on Human Factors in Computing Systems (CHI), 2025–2027
+  * Journal of Medical Internet Research (JMIR), 2026
 * Student volunteer
   * ACM Symposium on User Interface Software and Technology (UIST), 2025
 
