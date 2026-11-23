@@ -1,3 +1,21 @@
+- title: "Medical Image Segmentation Is Now Just Another Coding Task"
+  badge: "Arxiv"
+  image: "images/ArXiv.png"
+  categories:
+    - agent
+  authors: |
+    [Shuheng Cao](https://scholar.google.com/citations?user=2Xf3HGEAAAAJ&hl=en)<sup>*</sup>,
+    **Ruiqi Chen**<sup>*†</sup>,
+    Qizhen Lan,
+    Edward Wang,
+    Xiyun Hu,
+    Yilei Wang,
+    Juqy Chen,
+    Weilin Huang,
+    [Anhong Guo](https://guoanhong.com/)
+  venue: '*Preprint*'
+  links: 'Paper coming soon.'
+
 - title: "Say Something Else? Cover Stories Can Look Complete While Supporting the Wrong Action"
   badge: "Arxiv"
   image: "images/ArXiv.png"
@@ -54,7 +72,7 @@
     - benchmark
   authors: |
     [Shuheng Cao](https://scholar.google.com/citations?user=2Xf3HGEAAAAJ&hl=en)<sup>*</sup>,
-    **Ruiqi Chen**<sup>*</sup>,
+    **Ruiqi Chen**<sup>*†</sup>,
     [Renjie Cao](https://scholar.google.com/citations?user=H6wYLmwAAAAJ&hl=en),
     [Weijia Zhang](https://charliedreemur.github.io/),
     [Zhenhao Zhang](https://zhangzhh.cn/),

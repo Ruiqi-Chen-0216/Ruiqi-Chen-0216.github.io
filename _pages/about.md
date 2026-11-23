@@ -21,6 +21,8 @@ My research focuses on building and evaluating AI models and systems that align 
 
 # 🎖 Teaching, Mentorship and Service
 
+* Current mentees
+  * [Shuheng Cao](https://scholar.google.com/citations?user=2Xf3HGEAAAAJ&hl=en) (Undergraduate, University of California, San Diego)
 * Program Committee Member
   * AAAI Conference on Artificial Intelligence (AAAI), 2027
 * Paper reviewer
