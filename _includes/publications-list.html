@@ -30,7 +30,9 @@
 ## {{ pub.title }}
 
 {{ pub.authors }}
-
+{% if pub.authors contains "†" %}
+<p class="pub-note"><sup>†</sup> Project Lead</p>
+{% endif %}
 {{ pub.venue }}
 
 {{ pub.links }}

@@ -609,6 +609,13 @@ $scroll_offset : 2em;
         p:last-child {
             margin-top: 0.55rem;
         }
+
+        // Small "† Project Lead" line under the author list
+        p.pub-note {
+            margin-top: -0.1rem;
+            color: mix(#fff, $text-color, 25%);
+            font-size: 0.82em;
+        }
     }
 
     .badge {
