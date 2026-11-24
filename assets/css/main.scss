@@ -610,11 +610,26 @@ $scroll_offset : 2em;
             margin-top: 0.55rem;
         }
 
-        // Small "† Project Lead" line under the author list
-        p.pub-note {
-            margin-top: -0.1rem;
-            color: mix(#fff, $text-color, 25%);
+        // Small tag under the venue, e.g. "Co-first author is my mentee"
+        p.pub-tags {
+            margin: 0.35rem 0 0;
+        }
+
+        .pub-tag {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.45em;
+            color: mix(#fff, $text-color, 20%);
             font-size: 0.82em;
+        }
+
+        .pub-tag--mentee::before {
+            content: "";
+            flex: none;
+            width: 0.6em;
+            height: 0.6em;
+            border-radius: 50%;
+            background: $umich-maize;
         }
     }
 

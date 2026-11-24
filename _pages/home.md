@@ -55,6 +55,6 @@ My research focuses on building and evaluating AI models and systems that align 
 </div>
 
 # 📝 Publications
-( **<sup>*</sup>** means Equal Contribution, **<sup>†</sup>** means Project Lead)
+( **<sup>*</sup>** means Equal Contribution)
 
 {% include publications-list.html %}

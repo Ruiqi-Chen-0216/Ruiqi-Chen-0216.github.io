@@ -30,11 +30,11 @@
 ## {{ pub.title }}
 
 {{ pub.authors }}
-{% if pub.authors contains "†" %}
-<p class="pub-note"><sup>†</sup> Project Lead</p>
-{% endif %}
-{{ pub.venue }}
 
+{{ pub.venue }}
+{% if pub.mentee %}
+<p class="pub-tags"><span class="pub-tag pub-tag--mentee">Co-first author is my mentee</span></p>
+{% endif %}
 {{ pub.links }}
 
 </div>

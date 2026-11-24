@@ -1,11 +1,12 @@
 - title: "Medical Image Segmentation Is Now Just Another Coding Task"
   badge: "Arxiv"
   image: "images/ArXiv.png"
+  mentee: true
   categories:
     - agent
   authors: |
     [Shuheng Cao](https://scholar.google.com/citations?user=2Xf3HGEAAAAJ&hl=en)<sup>*</sup>,
-    **Ruiqi Chen**<sup>*†</sup>,
+    **Ruiqi Chen**<sup>*</sup>,
     [Qizhen Lan](https://lanqz7766.github.io/),
     Edward Wang,
     Xiyun Hu,
@@ -68,11 +69,12 @@
 - title: "PAVER: Turning Multi-LLM Agreement into Higher-Yield Biomedical Review Queues"
   badge: "Arxiv"
   image: "images/BeyondAgreement.png"
+  mentee: true
   categories:
     - benchmark
   authors: |
     [Shuheng Cao](https://scholar.google.com/citations?user=2Xf3HGEAAAAJ&hl=en)<sup>*</sup>,
-    **Ruiqi Chen**<sup>*†</sup>,
+    **Ruiqi Chen**<sup>*</sup>,
     [Renjie Cao](https://scholar.google.com/citations?user=H6wYLmwAAAAJ&hl=en),
     [Weijia Zhang](https://charliedreemur.github.io/),
     [Zhenhao Zhang](https://zhangzhh.cn/),
