@@ -615,21 +615,16 @@ $scroll_offset : 2em;
             margin: 0.35rem 0 0;
         }
 
+        // Soft pill: light maize frame, muted navy text
         .pub-tag {
-            display: inline-flex;
-            align-items: center;
-            gap: 0.45em;
-            color: mix(#fff, $text-color, 20%);
-            font-size: 0.82em;
-        }
-
-        .pub-tag--mentee::before {
-            content: "";
-            flex: none;
-            width: 0.6em;
-            height: 0.6em;
-            border-radius: 50%;
-            background: $umich-maize;
+            display: inline-block;
+            padding: 0.12em 0.75em 0.16em;
+            border: 1px solid rgba($umich-maize, 0.55);
+            border-radius: 999px;
+            background: rgba($umich-maize, 0.1);
+            color: mix(#fff, $info-color, 35%);
+            font-size: 0.8em;
+            line-height: 1.5;
         }
     }
 
