@@ -615,16 +615,19 @@ $scroll_offset : 2em;
             margin: 0.35rem 0 0;
         }
 
-        // Soft pill: light maize frame, muted navy text
+        // Outlined pill: soft gold border, muted navy text, no fill.
+        // Newsreader leaves 0.07em above capitals but 0.27em below the
+        // baseline, so the top padding is 0.2em larger to center the text.
         .pub-tag {
             display: inline-block;
-            padding: 0.12em 0.75em 0.16em;
-            border: 1px solid rgba($umich-maize, 0.55);
+            padding: 0.34em 0.85em 0.14em;
+            border: 1px solid rgba(mix($umich-maize, #000, 88%), 0.6);
             border-radius: 999px;
-            background: rgba($umich-maize, 0.1);
             color: mix(#fff, $info-color, 35%);
-            font-size: 0.8em;
-            line-height: 1.5;
+            font-size: 0.75em;
+            line-height: 1;
+            letter-spacing: 0.01em;
+            white-space: nowrap;
         }
     }
 
