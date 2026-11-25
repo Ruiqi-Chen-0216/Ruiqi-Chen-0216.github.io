@@ -1,6 +1,6 @@
 - title: "Medical Image Segmentation Is Now Just Another Coding Task"
   badge: "Arxiv"
-  image: "images/ArXiv.png"
+  image: "images/MedAgent.png"
   mentee: true
   categories:
     - agent
@@ -15,7 +15,7 @@
     Weilin Huang,
     [Anhong Guo](https://guoanhong.com/)
   venue: '*Preprint*'
-  links: 'Paper coming soon.'
+  links: '[Paper](https://arxiv.org/abs/2611.31673)'
 
 - title: "Say Something Else? Cover Stories Can Look Complete While Supporting the Wrong Action"
   badge: "Arxiv"
