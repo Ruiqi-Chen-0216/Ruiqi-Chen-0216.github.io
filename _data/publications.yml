@@ -1,3 +1,28 @@
+- title: "AidWalk: Benchmarking Aid-Aware Egocentric Video Understanding for Blind and Low-Vision Travelers"
+  badge: "Arxiv"
+  image: "images/ArXiv.png"
+  categories:
+    - benchmark
+    - human-ai
+  authors: |
+    Ruiping Liu<sup>*</sup>,
+    Ji Wang<sup>*</sup>,
+    Fangzhou Bian<sup>*</sup>,
+    **Ruiqi Chen**<sup>*</sup>,
+    Ruei-Che Chang,
+    Shaofang Quan,
+    Di Wen,
+    Weijia Fan,
+    Junwei Zheng,
+    Kailun Yang,
+    Yufan Chen,
+    [Anhong Guo](https://guoanhong.com/),
+    Jiaming Zhang,
+    Kunyu Peng,
+    Rainer Stiefelhagen
+  venue: '*Preprint*'
+  links: 'Paper coming soon.'
+
 - title: "Medical Image Segmentation Is Now Just Another Coding Task"
   badge: "Arxiv"
   image: "images/MedAgent.png"
